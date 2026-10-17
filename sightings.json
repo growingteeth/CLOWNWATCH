@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-17T06:56:09.831411+00:00",
- "count": 99,
+ "updated": "2026-10-17T14:33:49.156644+00:00",
+ "count": 96,
  "items": [
   {
    "title": "15-year-old dressed as a clown stabbed a man to death in random attack, East St. Louis, Illinois, police say",
@@ -14,20 +14,6 @@
    "lat": 38.63,
    "lon": -90.2,
    "precision": "city",
-   "verdict": "mention"
-  },
-  {
-   "title": "Crazy - eyed Illinois teen dressed as evil clown arrested for murder",
-   "url": "https://nypost.com/2026/08/05/us-news/crazy-eyed-illinois-teen-dressed-as-evil-clown-arrested-for-murder/",
-   "snippet": "",
-   "source": "nypost.com",
-   "date": "2026-08-05T12:00:00+00:00",
-   "origin": "gdelt",
-   "score": 4,
-   "place": "Illinois",
-   "lat": 40.1,
-   "lon": -89.2,
-   "precision": "state",
    "verdict": "mention"
   },
   {
@@ -479,20 +465,6 @@
    "verdict": "possible sighting"
   },
   {
-   "title": "Reported clown sightings in Carter County have residents on edge",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQaExfbDNNWkU5VVJEUnphbDVuT1VwelB6S2tubjl2dUZTc09Rc2M4elA4WWx5WWdLLW45eTVZcWJYMGJFU0xBb1ROWGliZGE5bmNjTFhSZFo3WjdSZk5wZVItdElaVUxLcXNmWUNlQUFBRmFIMlBycXhPT1R2ZXloTlQwcmtUc0hDWkhER1RpcGNGVHFveHfSAZsBQVVfeXFMUHQ4UVVKVllkUmhZT0k0aGkwbUxLUHIzQ1hCdEdjVnluX3ZMQW9LbElPQUd3SlBEMmV1VGFNRmNxcHlXa3p1Z3JVN2xpVnFueTdLOGRBSEJYRjFGUDBYeXFKbTRlaVQ1VzR6cjdRN0tLa0dfYS13SDg5ZHk4TGtXaVVJZk5oQngwZHYzTGdLTzFUeWNxWEZxR09OSzg?oc=5",
-   "snippet": "Reported clown sightings in Carter County have residents on edge \u00a0\u00a0 WJHL",
-   "source": "WJHL",
-   "date": "2016-10-07T07:00:00+00:00",
-   "origin": "googlenews",
-   "score": 9,
-   "place": null,
-   "lat": null,
-   "lon": null,
-   "precision": null,
-   "verdict": "likely sighting"
-  },
-  {
    "title": "Clown sightings UK reach Manchester as man in bloodstained poncho spotted",
    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNYlhaMGRONzBNTHBKUVV4RExBVE82elNwSHZYOVpmZVl3MWhRYWZGTC1kdGpfOXFkUHJ5T1lJYnpMbFlmZ2NxVEU4Sk55dmV5MjFwOGdvSkkzWTdrTE0tOWpSWXJDakNrbTFkOGVDdTUzaGNfOW15YzlSbzEzMFNoTFhKWW1mM0d5bWlXd1o5NVN0M0lmM0dSTk1PTkM4UFBpSnBWN01uUzl3dzNkeWhzbksteko4UdIBuwFBVV95cUxQa0J3OTQ0bDEwQVdLQU9KRVFEZ09rcHVTWHg1aXEyM0NIdDVBWUxIMVlRLWxiVFNZV2RnSDRTRHo4Rl9XdHRybmlFYzVOTElRUGl3XzFiMTJMY3JZYXVvVk9tMXM4eGtER0ltSklVUHFaVk16Y1RuTFhVR3pTWnkydU8zNlQ0aVB1Mks1V2pUdy1ScEdHeFJQNHUta3NhYVZELWdJX1o4N1hxRkdzMHdhdkpCSDVCanl4Mk9v?oc=5",
    "snippet": "Clown sightings UK reach Manchester as man in bloodstained poncho spotted - VIDEO \u00a0\u00a0 Metro.co.uk",
@@ -525,6 +497,20 @@
    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQZ2ZNdnZQWTV4eVRZN0tPc3RvaU9Ga1gtNHhpeXlPblMwXy1RRko2WnotcGdwRkoyLU84bFRRV1NLaWV0N3Y0NmhuQW1JOS1vaFUwc1Rhd3BvV0Vmc0xOMW1zNHF3TEd1eHpoTG5POWVtUnpqaDh0cE4yMEpNc0t2ZV8yWlVCYTZ3V1hVdEE1dFQtZw?oc=5",
    "snippet": "Lowell-area police: Fake clown sightings not funny \u00a0\u00a0 Lowell Sun",
    "source": "Lowell Sun",
+   "date": "2016-10-06T07:00:00+00:00",
+   "origin": "googlenews",
+   "score": 8,
+   "place": null,
+   "lat": null,
+   "lon": null,
+   "precision": null,
+   "verdict": "possible sighting"
+  },
+  {
+   "title": "Creepy clown sightings reported in the county",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPYzlkVHBJbVFacWE1QTFxQXR5RVNjR09FeDdDb0p6TW40NTBjekpGcFc0MlpaWUdRTm9CY2x3c3dDbjMyWDdLUVg4Q0VXVVFxa1ZfMlVfZVJ3X1NrMThLZDl5SHpQcUs3UlQ3aDlET1BCUkFGbGlwYVE5NGJCNFU0UlIwckdGWWtnN2tENUpUSDVkci1CM051eTgxZ2J3Tmc4OXlsR1ozNTNQMkpDOXJVUER3c3gzUzQ?oc=5",
+   "snippet": "Creepy clown sightings reported in the county \u00a0\u00a0 cbs8.com",
+   "source": "cbs8.com",
    "date": "2016-10-06T07:00:00+00:00",
    "origin": "googlenews",
    "score": 8,
@@ -731,20 +717,6 @@
    "verdict": "possible sighting"
   },
   {
-   "title": "Creepy Clown Sightings Map 2016: A Timeline Of Threats, Arrests, School Closings And False Reports",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPT2dhb0I1WEFkT2hQOUV4VmJPMHdJV19lelgzNWt5VDlaemlsSWRJcFFDZklLY1gzRkp2N0JMR0xxNEVOLVBRNXlGQl9PZW9FbHUxUmkwTTZ6RTV3bkFVTzVibXNWbEdjRlN0a0U4SXRpZkV6WkE0WTM0WkJvb1AzMEphYXVKdUxJT3N0cjF3NWZUUlZ5RFRxRGdvVkJSNzVRalJvR0RXRmdUaHhkUkNV?oc=5",
-   "snippet": "Creepy Clown Sightings Map 2016: A Timeline Of Threats, Arrests, School Closings And False Reports \u00a0\u00a0 International Business Times",
-   "source": "International Business Times",
-   "date": "2016-10-04T07:00:00+00:00",
-   "origin": "googlenews",
-   "score": 10,
-   "place": null,
-   "lat": null,
-   "lon": null,
-   "precision": null,
-   "verdict": "likely sighting"
-  },
-  {
    "title": "Creepy clown sightings reported in Washington",
    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPMWRYNTJHSUxEX0MtQ1cwMnQtVjVmOFY2Q0xsVkktcGJMZXdKblJSQ1lXeXpJdFJXaVNialhYTkVLaTFoNkFzNVF5NWRRTm1yOWdoR0VhWmF5RXltWDZkQzU4eWtmVFlEcWFPUGhHOXpSWXlLX3RxQ3BVQ3FkMmstZzQxRklxMGotYy13c19ubEtsS080V1g1ZjVqVlNxUEY2bFZJbWNn0gG6AUFVX3lxTFB0cEw0VXc1SXdsek9CLThMaFM1RFM4d1lfbGY3T0d3VW5KbVZ1Uko0Y0FpbmdiX18tQzFSRlBZbGI1MFpSS0F4UjVlVVJTQXRfd01TVXIxUV83QVNpeWt2a0xibHowSDdWaXlCOVVyTWMtQ3pfNnN0TUhfWWFZRUhOUm9sLWhHZ0R4ejJiazZpanZXS0ctQVc4NWVtSjYycmplSWVZNzhOdVhVSGw0YVRqVnJXV3MtNXpCQQ?oc=5",
    "snippet": "Creepy clown sightings reported in Washington \u00a0\u00a0 KIRO 7 News Seattle",
@@ -927,20 +899,6 @@
    "verdict": "possible sighting"
   },
   {
-   "title": "Creepy Clown Sightings Reported In Brentwood, North Babylon",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1OdXhiQlhQSjBKb0ZxYUd1bGNQZzAxQmsxbjBRYzl1WGVJLS1NU3dYNHFjTG84Q1JUUmVmRE1BcDA0M0FFbzZQWkJGeVZwRDctUDBjbXRCVlRMS2pNQmtpTUprTFdNUHl5aFhERHA3Ykk?oc=5",
-   "snippet": "Creepy Clown Sightings Reported In Brentwood, North Babylon \u00a0\u00a0 CBS News",
-   "source": "CBS News",
-   "date": "2016-09-30T07:00:00+00:00",
-   "origin": "googlenews",
-   "score": 8,
-   "place": null,
-   "lat": null,
-   "lon": null,
-   "precision": null,
-   "verdict": "possible sighting"
-  },
-  {
    "title": "Scary Clown Sightings in Missouri",
    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9ENjJVTWZFLXpDTHRmcWRtVEVfUzR2ajVRVkhMNnE1amZ4MWo0aEw3TE1ZbWhhdE1yTkxaSDEwRVhLdDZ1UDcyUTZGaFhiS2VSc1JpclVJZzUtdHoya0tMTVlvSFZVeEZ3eVQ2aXdyZjNfNWRCYVHSAXtBVV95cUxOdE15UXdNX19RY3Y2MHgydEYzekZybjZzVU9jRnRvUDJnTE5DYUQyMFUxZVRVeVhTTUNfczZLejVCRmNrVExncXhxa3Z1UU5Mem93Z1E1aWNRa0tBV0FBUHQyTDZxcHBDSjVvU003RlpVRC1EV3g3dW1zUW8?oc=5",
    "snippet": "Scary Clown Sightings in Missouri \u00a0\u00a0 OzarksFirst.com",
@@ -983,20 +941,6 @@
    "verdict": "possible sighting"
   },
   {
-   "title": "Police downplay reports of creepy clown sightings",
-   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPS3lDR2F1VFRGZTVRTld3bkVld3JsbERQRmNOaDgwdXhRamtMSVR2VzdHOXFzbktUZzJaSnluODlvZmYyUF9ENUdFWmRWWlJySEI3dWJZOUI4Vi1oR1pLUEk0eEo4WkVjUEhjWWkwZnozRnZESHlSaFd1dUY4a0ZvWHZMS1NQTDBDSzRSZFpJWlI?oc=5",
-   "snippet": "Police downplay reports of creepy clown sightings \u00a0\u00a0 www.pottsmerc.com",
-   "source": "www.pottsmerc.com",
-   "date": "2016-09-29T07:00:00+00:00",
-   "origin": "googlenews",
-   "score": 10,
-   "place": null,
-   "lat": null,
-   "lon": null,
-   "precision": null,
-   "verdict": "likely sighting"
-  },
-  {
    "title": "Good news: Creepy clown sightings have been rare in central Ohio",
    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQaGFwc2Vpb2hRLVZnLWU2REZFajdqQ0E5UXhkNDFleHg3c1d5cmNDd2JUQzVrMmtrbHpKbW5uS3N3bmtPeDJrbkNDX0Q3S00zUHZXZWROY0Nuamx0WTYyVEstNlFwVFlrVFdBNFF3TGpUU1RFUFFfOUhIN0VIbW1qOER6V21WWDBEdlptYnphaGNUM0ZHZ1dXM2NnMDdTTEU?oc=5",
    "snippet": "Good news: Creepy clown sightings have been rare in central Ohio \u00a0\u00a0 The Columbus Dispatch",
@@ -1008,6 +952,20 @@
    "lat": 39.96,
    "lon": -83.0,
    "precision": "city",
+   "verdict": "possible sighting"
+  },
+  {
+   "title": "Police investigate clown sightings in Shippensburg",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxORjBkd3J6Rzl2eGQ3T3lKWXVKUWJpMExOaDV3NVdkeEFRbjhoNFZ0RVVCaHM0a2pjMVNPcnR0anpXbXN5bmcyOXl5UFZnY2dfQk5OX2QzRXNnNk53MjI0eDJHZF9uc19PdkRuVzBJVU01RHBuckpzVm5jOG1zcTZlc0RhUlHSAYoBQVVfeXFMTjYxaktTSXNIbTdyVUpPYUV2N0tXNXl5LUtGYUJJaVBPX2tRQVlMT29TQ1RPd0R1ajlXWXdwTUU1VklBS21WbG9KMFQ1RnJuaVZzM2ZQQm43amNoakROdXBFcGtGb2ItaWI0Z3E4ZDVGS0hHTGhRSHJwbTh6eDg3WDJRTkt4NUk5eDd3?oc=5",
+   "snippet": "Police investigate clown sightings in Shippensburg \u00a0\u00a0 ABC27",
+   "source": "ABC27",
+   "date": "2016-09-28T07:00:00+00:00",
+   "origin": "googlenews",
+   "score": 8,
+   "place": null,
+   "lat": null,
+   "lon": null,
+   "precision": null,
    "verdict": "possible sighting"
   },
   {
