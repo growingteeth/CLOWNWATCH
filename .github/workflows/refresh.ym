@@ -1,0 +1,26 @@
+name: Refresh ClownWatch data
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: python3 fetch.py
+      - run: cp clownwatch.html index.html
+      - run: |
+          git config user.name "clownwatch-bot"
+          git config user.email "clownwatch-bot@users.noreply.github.com"
+          git add index.html sightings.json clownwatch.html
+          git diff --quiet --cached || git commit -m "data refresh $(date -u '+%Y-%m-%d %H:%M UTC')"
+          git push
