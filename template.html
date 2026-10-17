@@ -1,0 +1,215 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>ClownWatch — US Clown Sighting Tracker</title>
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.1/dist/chart.umd.min.js"></script>
+<style>
+  :root { --bg:#16121c; --panel:#211b2a; --ink:#f2ead9; --dim:#a89bb8;
+          --red:#e63946; --gold:#f4a259; --green:#7fb069; }
+  * { box-sizing:border-box; }
+  body { margin:0; background:var(--bg); color:var(--ink);
+         font-family:-apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; }
+  header { text-align:center; padding:28px 16px 10px; }
+  header h1 { font-family:Georgia, "Times New Roman", serif; font-size:2.4rem;
+              margin:0; letter-spacing:2px; }
+  header h1 .nose { color:var(--red); }
+  header p { color:var(--dim); margin:8px 0 0; font-style:italic; }
+  .stats { display:flex; gap:12px; justify-content:center; flex-wrap:wrap;
+           padding:14px; }
+  .stat { background:var(--panel); border:1px solid #3a2f4a; border-radius:10px;
+          padding:10px 18px; text-align:center; min-width:110px; }
+  .stat b { display:block; font-size:1.5rem; color:var(--gold); }
+  .stat span { font-size:.75rem; color:var(--dim); text-transform:uppercase;
+               letter-spacing:1px; }
+  nav { display:flex; justify-content:center; gap:8px; padding:8px;
+        position:sticky; top:0; background:var(--bg); z-index:10;
+        border-bottom:1px solid #3a2f4a; }
+  nav button { background:var(--panel); color:var(--ink); border:1px solid #3a2f4a;
+               border-radius:20px; padding:8px 20px; cursor:pointer; font-size:.95rem; }
+  nav button.active { background:var(--red); border-color:var(--red); color:#fff; }
+  main { max-width:920px; margin:0 auto; padding:18px 14px 60px; }
+  .tab { display:none; } .tab.active { display:block; }
+  .card { background:var(--panel); border:1px solid #3a2f4a; border-radius:12px;
+          padding:14px 16px; margin-bottom:12px; }
+  .card h3 { margin:0 0 6px; font-size:1.05rem; line-height:1.35; }
+  .card h3 a { color:var(--ink); text-decoration:none; }
+  .card h3 a:hover { color:var(--gold); }
+  .meta { font-size:.8rem; color:var(--dim); margin-bottom:8px; }
+  .snippet { font-size:.9rem; color:#d8cdbd; line-height:1.5; }
+  .badge { display:inline-block; font-size:.7rem; font-weight:700; border-radius:20px;
+           padding:3px 10px; margin-right:8px; text-transform:uppercase;
+           letter-spacing:.5px; }
+  .likely { background:var(--red); color:#fff; }
+  .possible { background:var(--gold); color:#222; }
+  .mention { background:#4a4258; color:#ddd; }
+  #map { height:60vh; min-height:380px; border-radius:12px;
+         border:1px solid #3a2f4a; }
+  .chartwrap { background:var(--panel); border:1px solid #3a2f4a; border-radius:12px;
+               padding:16px; }
+  .note { background:#2a2136; border-left:4px solid var(--gold); border-radius:8px;
+          padding:12px 14px; margin-bottom:14px; font-size:.9rem; line-height:1.55;
+          color:#d8cdbd; }
+  .note a { color:var(--gold); }
+  form.tip { display:grid; gap:10px; margin-top:12px; }
+  form.tip input, form.tip textarea { background:#14101a; color:var(--ink);
+      border:1px solid #3a2f4a; border-radius:8px; padding:10px; font-size:.95rem; }
+  form.tip button { background:var(--red); color:#fff; border:none; border-radius:8px;
+      padding:10px; font-size:1rem; cursor:pointer; }
+  footer { text-align:center; color:var(--dim); font-size:.8rem; padding:24px 16px;
+           border-top:1px solid #3a2f4a; line-height:1.7; }
+  footer code { background:#2a2136; padding:2px 6px; border-radius:4px; }
+  .empty { text-align:center; color:var(--dim); padding:40px 10px; font-style:italic; }
+</style>
+</head>
+<body>
+<header>
+  <h1><span class="nose">🤡</span> CLOWNWATCH</h1>
+  <p>Tracking clown sightings across the United States — news first, dispatch soon.</p>
+</header>
+
+<div class="stats">
+  <div class="stat"><b id="st-count">–</b><span>reports</span></div>
+  <div class="stat"><b id="st-states">–</b><span>states</span></div>
+  <div class="stat"><b id="st-likely">–</b><span>likely sightings</span></div>
+  <div class="stat"><b id="st-updated" style="font-size:.95rem">–</b><span>last updated</span></div>
+</div>
+
+<nav>
+  <button data-tab="feed" class="active">📰 Feed</button>
+  <button data-tab="map">🗺 Map</button>
+  <button data-tab="timeline">📈 Timeline</button>
+  <button data-tab="dispatch">🚔 Dispatch</button>
+</nav>
+
+<main>
+  <section id="tab-feed" class="tab active"><div id="feed"></div></section>
+  <section id="tab-map" class="tab"><div id="map"></div>
+    <p class="meta" style="margin-top:8px">Only reports with an extracted location appear here. City-level pins are approximate.</p>
+  </section>
+  <section id="tab-timeline" class="tab"><div class="chartwrap"><canvas id="chart"></canvas></div>
+    <p class="meta" style="margin-top:8px">Reports per week over the last 12 weeks.</p>
+  </section>
+  <section id="tab-dispatch" class="tab">
+    <div class="card">
+      <h3>🚔 Police dispatch feed — coming soon</h3>
+      <div class="note">
+        Automated scanner-audio monitoring isn't in v1 on purpose: Broadcastify's terms
+        prohibit programmatic access, transcription, and alerting on their feeds without a
+        commercial license, and most dispatch audio is moving to encrypted channels anyway.
+        The honest v2 paths are: (1) polling police departments' public
+        calls-for-service / blotter feeds, (2) incident aggregators like
+        <a href="https://www.spotcrime.com" target="_blank" rel="noopener">SpotCrime</a>,
+        or (3) crowd-sourced tips from scanner listeners — which starts below.
+      </div>
+      <h3>📻 Heard a clown call on the scanner? Log it</h3>
+      <form class="tip" id="tipform">
+        <input id="tip-where" placeholder="Where? (city, state)" required>
+        <input id="tip-when" placeholder="When? (date / time heard)">
+        <textarea id="tip-what" rows="3" placeholder="What did you hear?" required></textarea>
+        <button type="submit">Log tip (saved in this browser)</button>
+      </form>
+      <div id="tips" style="margin-top:14px"></div>
+    </div>
+  </section>
+</main>
+
+<footer>
+  Sources: Google News RSS + GDELT DOC 2.0 API · filtered for sighting signal, de-duplicated.<br>
+  Prototype v0.1 — refresh the data any time with <code>python3 fetch.py</code> in the project folder.<br>
+  Personal research project. Not affiliated with any news outlet or police department.
+</footer>
+
+<script>
+/*__DATA__*/
+
+const $ = s => document.querySelector(s);
+const items = (DATA.items || []).slice().sort((a,b) => b.date.localeCompare(a.date));
+
+/* ---------- stats ---------- */
+$('#st-count').textContent = items.length;
+$('#st-states').textContent = new Set(items.map(i => i.place).filter(Boolean)).size;
+$('#st-likely').textContent = items.filter(i => i.verdict === 'likely sighting').length;
+$('#st-updated').textContent = new Date(DATA.updated).toLocaleDateString(undefined,
+  {month:'short', day:'numeric'}) + ' ' + new Date(DATA.updated).toLocaleTimeString(undefined,
+  {hour:'numeric', minute:'2-digit'});
+
+/* ---------- tabs ---------- */
+let mapInit = false, chartInit = false;
+document.querySelectorAll('nav button').forEach(b => b.addEventListener('click', () => {
+  document.querySelectorAll('nav button').forEach(x => x.classList.remove('active'));
+  document.querySelectorAll('.tab').forEach(x => x.classList.remove('active'));
+  b.classList.add('active');
+  const t = $('#tab-' + b.dataset.tab);
+  t.classList.add('active');
+  if (b.dataset.tab === 'map' && !mapInit) { initMap(); mapInit = true; }
+  if (b.dataset.tab === 'timeline' && !chartInit) { initChart(); chartInit = true; }
+}));
+
+/* ---------- feed ---------- */
+const badge = v => v === 'likely sighting' ? 'likely' : v === 'possible sighting' ? 'possible' : 'mention';
+$('#feed').innerHTML = items.length ? items.map(i => `
+  <div class="card">
+    <span class="badge ${badge(i.verdict)}">${i.verdict}</span>
+    <h3><a href="${i.url}" target="_blank" rel="noopener">${esc(i.title)}</a></h3>
+    <div class="meta">${i.place ? '📍 ' + esc(i.place) + ' · ' : ''}${fmtDate(i.date)} · ${esc(i.source || i.origin)}</div>
+    ${i.snippet ? `<div class="snippet">${esc(i.snippet.slice(0, 280))}${i.snippet.length > 280 ? '…' : ''}</div>` : ''}
+  </div>`).join('')
+  : `<div class="empty">No clown activity on the wire right now. Suspiciously quiet…</div>`;
+
+function esc(s){ return String(s||'').replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c])); }
+function fmtDate(d){ try { return new Date(d).toLocaleDateString(undefined,{month:'short',day:'numeric',year:'numeric'}); } catch(e){ return d; } }
+
+/* ---------- map ---------- */
+function initMap(){
+  if (typeof L === 'undefined') { $('#map').innerHTML = '<div class="empty">Map library failed to load (needs internet).</div>'; return; }
+  const map = L.map('map').setView([39.5, -98.35], 4);
+  L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png',
+    {attribution:'© OpenStreetMap contributors', maxZoom: 12}).addTo(map);
+  const pts = items.filter(i => i.lat && i.lon);
+  pts.forEach(i => {
+    const color = i.verdict === 'likely sighting' ? '#e63946' : i.verdict === 'possible sighting' ? '#f4a259' : '#8d86a0';
+    L.circleMarker([i.lat, i.lon], {radius: 8, color, fillColor: color, fillOpacity: .75, weight: 2})
+      .bindPopup(`<b>${esc(i.title)}</b><br>${esc(i.place||'')} · ${fmtDate(i.date)}<br><a href="${i.url}" target="_blank" rel="noopener">read article →</a>`)
+      .addTo(map);
+  });
+  if (!pts.length) $('#map').insertAdjacentHTML('afterend', '<div class="empty">No mappable locations yet.</div>');
+}
+
+/* ---------- timeline ---------- */
+function initChart(){
+  if (typeof Chart === 'undefined') return;
+  const weeks = [], counts = [];
+  const now = new Date();
+  for (let w = 11; w >= 0; w--) {
+    const start = new Date(now); start.setDate(now.getDate() - (w+1)*7);
+    const end = new Date(now); end.setDate(now.getDate() - w*7);
+    weeks.push(start.toLocaleDateString(undefined,{month:'numeric',day:'numeric'}));
+    counts.push(items.filter(i => { const d = new Date(i.date); return d >= start && d < end; }).length);
+  }
+  new Chart($('#chart'), { type:'bar',
+    data:{ labels: weeks, datasets:[{ data: counts, backgroundColor:'#e63946', borderRadius:4 }]},
+    options:{ plugins:{ legend:{ display:false } },
+      scales:{ y:{ beginAtZero:true, ticks:{ stepSize:1, color:'#a89bb8' }, grid:{ color:'#2a2136' } },
+               x:{ ticks:{ color:'#a89bb8' }, grid:{ display:false } } } } });
+}
+
+/* ---------- dispatch tips (localStorage) ---------- */
+const tips = JSON.parse(localStorage.getItem('clownwatch_tips') || '[]');
+function renderTips(){
+  $('#tips').innerHTML = tips.length ? '<h3>Logged tips</h3>' + tips.map(t =>
+    `<div class="card"><div class="meta">📍 ${esc(t.where)} · ${esc(t.when || 'time unknown')}</div><div class="snippet">${esc(t.what)}</div></div>`).join('') : '';
+}
+$('#tipform').addEventListener('submit', e => {
+  e.preventDefault();
+  tips.unshift({ where: $('#tip-where').value, when: $('#tip-when').value, what: $('#tip-what').value });
+  localStorage.setItem('clownwatch_tips', JSON.stringify(tips));
+  e.target.reset(); renderTips();
+});
+renderTips();
+</script>
+</body>
+</html>
