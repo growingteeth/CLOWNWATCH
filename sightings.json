@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-18T10:02:20.678736+00:00",
- "count": 98,
+ "updated": "2026-10-18T15:00:55.753193+00:00",
+ "count": 97,
  "items": [
   {
    "title": "15-year-old dressed as a clown stabbed a man to death in random attack, East St. Louis, Illinois, police say",
@@ -577,20 +577,6 @@
    "verdict": "possible sighting"
   },
   {
-   "title": "Police say Fargo area clown sighting is not suspicious",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOb1h1dkRUYUVkOFZ3aU5RdjQtTk5VaHdXWURWWDh3eXhPczZpdE56RjFnTUxqd3dRVDZnNThUR1IxR3FpeUU0Qy1RT1RPdDd5YXBjSkxoNE54aDcyNEFvNGRzdkcxVXdFU2tMUEtEWlRuQXdvY2dsRWpkZmZWSTVSYXpQMGw4UXkxTUZSRXNTamRrYWh5UW5PTVNHcXd2eWJYcHVFTEoydndZZE4yZWRuS1BfUUTSAcgBQVVfeXFMUFpWYXN5WFJyaGh0WlBWMk11dlY2c0hKUXBGVmUzRVZVdW1xRWQ3VHRDU0REdFBzX2RQRTdlX1VlTm9VNWMteGZWcFlEYnNqeWdSQXdmWnNoZ093QkwxcHZaMGdlVXJaVmdVYk1RRVlwbjBYWVVqWlE5TGhjUGwwYU1QNWNEOGJscEtCYTNVTlJoeEhUWlZtdndiSGw1ODZ2UkdXNklkNHVBaEFtZkcxX2tHeVc4d0Z3NnFlV0FXNjdwU2hVSk0xTUk?oc=5",
-   "snippet": "Police say Fargo area clown sighting is not suspicious \u00a0\u00a0 Valley News Live",
-   "source": "Valley News Live",
-   "date": "2016-10-04T07:00:00+00:00",
-   "origin": "googlenews",
-   "score": 5,
-   "place": "Fargo, ND",
-   "lat": 46.88,
-   "lon": -96.79,
-   "precision": "city",
-   "verdict": "mention"
-  },
-  {
    "title": "Texas Tech, police officials say reported clown sighting unfounded",
    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPNllrWWFLR3MtTW1nd3lxbWMzUVVJSGI0d0dERHNRUl8waVozNnZ1UHlOZ0ZJZVdwWjFvRTE3OVUyY25YeVZuemh3aXpaUTBUVVdtUFNqTksyM25lZW0ydXVQOWJfcHBqSlBoSU9UOG4yUW1yb1BnM0lPUENCLVo0TmxZVFVwS1E2enhmRXlWTmFrWlZTRWtqWmlQSGNILTFiV3Jpem96QVJDTEw3ZFhkckhzeFZOa3BtTEJQTXZiQ2ZUTGdwNV95U095RW5hN0p4NjdnVg?oc=5",
    "snippet": "Texas Tech, police officials say reported clown sighting unfounded \u00a0\u00a0 Lubbock Avalanche-Journal",
@@ -717,6 +703,20 @@
    "verdict": "possible sighting"
   },
   {
+   "title": "Police say Fargo area clown sighting is not suspicious",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOb1h1dkRUYUVkOFZ3aU5RdjQtTk5VaHdXWURWWDh3eXhPczZpdE56RjFnTUxqd3dRVDZnNThUR1IxR3FpeUU0Qy1RT1RPdDd5YXBjSkxoNE54aDcyNEFvNGRzdkcxVXdFU2tMUEtEWlRuQXdvY2dsRWpkZmZWSTVSYXpQMGw4UXkxTUZSRXNTamRrYWh5UW5PTVNHcXd2eWJYcHVFTEoydndZZE4yZWRuS1BfUUTSAcgBQVVfeXFMUFpWYXN5WFJyaGh0WlBWMk11dlY2c0hKUXBGVmUzRVZVdW1xRWQ3VHRDU0REdFBzX2RQRTdlX1VlTm9VNWMteGZWcFlEYnNqeWdSQXdmWnNoZ093QkwxcHZaMGdlVXJaVmdVYk1RRVlwbjBYWVVqWlE5TGhjUGwwYU1QNWNEOGJscEtCYTNVTlJoeEhUWlZtdndiSGw1ODZ2UkdXNklkNHVBaEFtZkcxX2tHeVc4d0Z3NnFlV0FXNjdwU2hVSk0xTUk?oc=5",
+   "snippet": "Police say Fargo area clown sighting is not suspicious \u00a0\u00a0 Valley News Live",
+   "source": "Valley News Live",
+   "date": "2016-10-04T07:00:00+00:00",
+   "origin": "googlenews",
+   "score": 5,
+   "place": "Fargo, ND",
+   "lat": 46.88,
+   "lon": -96.79,
+   "precision": "city",
+   "verdict": "mention"
+  },
+  {
    "title": "Creepy clown sightings reported in Washington",
    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPMWRYNTJHSUxEX0MtQ1cwMnQtVjVmOFY2Q0xsVkktcGJMZXdKblJSQ1lXeXpJdFJXaVNialhYTkVLaTFoNkFzNVF5NWRRTm1yOWdoR0VhWmF5RXltWDZkQzU4eWtmVFlEcWFPUGhHOXpSWXlLX3RxQ3BVQ3FkMmstZzQxRklxMGotYy13c19ubEtsS080V1g1ZjVqVlNxUEY2bFZJbWNn0gG6AUFVX3lxTFB0cEw0VXc1SXdsek9CLThMaFM1RFM4d1lfbGY3T0d3VW5KbVZ1Uko0Y0FpbmdiX18tQzFSRlBZbGI1MFpSS0F4UjVlVVJTQXRfd01TVXIxUV83QVNpeWt2a0xibHowSDdWaXlCOVVyTWMtQ3pfNnN0TUhfWWFZRUhOUm9sLWhHZ0R4ejJiazZpanZXS0ctQVc4NWVtSjYycmplSWVZNzhOdVhVSGw0YVRqVnJXV3MtNXpCQQ?oc=5",
    "snippet": "Creepy clown sightings reported in Washington \u00a0\u00a0 KIRO 7 News Seattle",
@@ -742,6 +742,20 @@
    "lat": null,
    "lon": null,
    "precision": null,
+   "verdict": "likely sighting"
+  },
+  {
+   "title": "Police respond to clown sightings in two Fort Wayne neighborhoods",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQWFpScllGQ1BmeHlzdGZzNnM3WDNwbEh4SEtHUkdqcVZKX2czQ0xNV01OQjRMZVNsMXJpUEF5MUZrVElWamx0VDdodm1DcUZfa2l0bkVmblhZNXAybnBRRi02SUFTelpINTNSTnhrUmJ2dFg4bWZiWnMzbFh4OTBfZFljZjVUdnRyQlhYU2hGMlk0WnRzUXVz0gGcAUFVX3lxTE5RRjlFS0dOcDFCTlkzbEpQT3ZtVzIwTXNhUVhVVlZjUVVlV3BKX1F5aEhkZHczOGItVWlEalZEMlBIcDJhWkRBd0VacndwY0FldmVIb2pZVkRUbGxtcUVUeHhmQ2tCQkxVVEZDZXZFdlFnT19qeTYtRWtBaUFldVZROHhUNTJOeWp6Y053NGFocXJiNVZUOHlEbTRLdQ?oc=5",
+   "snippet": "Police respond to clown sightings in two Fort Wayne neighborhoods \u00a0\u00a0 WANE 15",
+   "source": "WANE 15",
+   "date": "2016-10-03T07:00:00+00:00",
+   "origin": "googlenews",
+   "score": 9,
+   "place": "Fort Wayne, IN",
+   "lat": 41.08,
+   "lon": -85.14,
+   "precision": "city",
    "verdict": "likely sighting"
   },
   {
@@ -939,20 +953,6 @@
    "lon": null,
    "precision": null,
    "verdict": "possible sighting"
-  },
-  {
-   "title": "Police downplay reports of creepy clown sightings",
-   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPS3lDR2F1VFRGZTVRTld3bkVld3JsbERQRmNOaDgwdXhRamtMSVR2VzdHOXFzbktUZzJaSnluODlvZmYyUF9ENUdFWmRWWlJySEI3dWJZOUI4Vi1oR1pLUEk0eEo4WkVjUEhjWWkwZnozRnZESHlSaFd1dUY4a0ZvWHZMS1NQTDBDSzRSZFpJWlI?oc=5",
-   "snippet": "Police downplay reports of creepy clown sightings \u00a0\u00a0 www.pottsmerc.com",
-   "source": "www.pottsmerc.com",
-   "date": "2016-09-29T07:00:00+00:00",
-   "origin": "googlenews",
-   "score": 10,
-   "place": null,
-   "lat": null,
-   "lon": null,
-   "precision": null,
-   "verdict": "likely sighting"
   },
   {
    "title": "Good news: Creepy clown sightings have been rare in central Ohio",
@@ -1242,20 +1242,6 @@
    "date": "2016-09-02T07:00:00+00:00",
    "origin": "googlenews",
    "score": 6,
-   "place": "South Carolina",
-   "lat": 33.82,
-   "lon": -80.94,
-   "precision": "state",
-   "verdict": "possible sighting"
-  },
-  {
-   "title": "New clown sighting reported near South Carolina playground; police hold news conference",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQTFQ0VVJ2cEtMTzZpc2ZqZnBvTDNWT2loV2JaZmRNWUhfeFp1VENrejRwQmlTS1NNUVROU2t2RjNQeUhtOUtzbm1fU1lodzlGdWhkMTFKZ2JKaHNVaTlENDJIT1V6QWFMOFRwSlNjdmVRcHRkcklIbk84czYwaVlRRE13SUtJMFBMRnFSX1ZIUUxpRDlWdmlMMmFQdnRTQ09XQ0dGeGR3bkNROUpFV2Y0dDFFQ2LSAboBQVVfeXFMT29HUDBiYmdMb2VBdkVRcmIwYlpBUWUzSDcwYWJjZzZaOUI0WklMbUZhU0M3ai12NnpFS3BQZmFxU0d6WnVTXzk0SWZMYzVJc0FNeHdQVVVPbXlkeWdsTXlYNEExYXVNMmRIT0JzWEZFNDM3TFFfRzBQQU9rbmlEWmJjVlEybE9Kazk1dERvVGlIVXlmNC1NU09YM2tuSGF4dzhFVzdlTlJkVVA5dGpXSUhKR3p6SGlEYWRn?oc=5",
-   "snippet": "New clown sighting reported near South Carolina playground; police hold news conference \u00a0\u00a0 NBC4 WCMH-TV",
-   "source": "NBC4 WCMH-TV",
-   "date": "2016-09-01T07:00:00+00:00",
-   "origin": "googlenews",
-   "score": 8,
    "place": "South Carolina",
    "lat": 33.82,
    "lon": -80.94,
