@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-19T21:49:10.989078+00:00",
- "count": 98,
+ "updated": "2026-10-20T02:26:03.351579+00:00",
+ "count": 97,
  "items": [
   {
    "title": "15-year-old dressed as a clown stabbed a man to death in random attack, East St. Louis, Illinois, police say",
@@ -14,6 +14,20 @@
    "lat": 38.63,
    "lon": -90.2,
    "precision": "city",
+   "verdict": "mention"
+  },
+  {
+   "title": "Crazy - eyed Illinois teen dressed as evil clown arrested for murder",
+   "url": "https://nypost.com/2026/08/05/us-news/crazy-eyed-illinois-teen-dressed-as-evil-clown-arrested-for-murder/",
+   "snippet": "",
+   "source": "nypost.com",
+   "date": "2026-08-05T12:00:00+00:00",
+   "origin": "gdelt",
+   "score": 4,
+   "place": "Illinois",
+   "lat": 40.1,
+   "lon": -89.2,
+   "precision": "state",
    "verdict": "mention"
   },
   {
@@ -815,20 +829,6 @@
    "verdict": "possible sighting"
   },
   {
-   "title": "Pasco Sheriff, Schools Issue Warning About Clown Sightings",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNTFNlVGgwcWl1cnI0YzdRbTZkQ1dnR0xMYjdCcGpZSThqSXM4Unp1djBybTRKd0xnZXVwOFhscnRHbDVxSk45dEhHa0MwMnFOQzRVbUFMQkFkc0h0emNDSTJlZnpsWVgxSFk4OUt4Qmo3b3dWcjZiUm1KVVZ0MktuWTYtRERxLTIzT3EtN3RNekRWMDFYMFdUMV9R?oc=5",
-   "snippet": "Pasco Sheriff, Schools Issue Warning About Clown Sightings \u00a0\u00a0 WUSF",
-   "source": "WUSF",
-   "date": "2016-09-30T07:00:00+00:00",
-   "origin": "googlenews",
-   "score": 10,
-   "place": null,
-   "lat": null,
-   "lon": null,
-   "precision": null,
-   "verdict": "likely sighting"
-  },
-  {
    "title": "With creepy clown sightings on Long Island, Riverhead schools and police and \u2018aware and vigilant\u2019",
    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQdDlYajFMQzVid2J6aHJBZ1dtQVB3cWhpdXowQ0JGc0JSaXJKSUI1UWkxRUxUU0Z0NTlzc0lNT0tFeHRIZDRMM0YtZU9rZmpnQzF2V2kwOWVVWS1yQ1JjSldyN3Atd2RyZTBkZFEyVTJpemhmbHpEZlR4czFPeVdaTXRPaTRIN2JzS25Bc29yeG90QVV5VjNNc3gyRTU5N2h1Z3FzZW91QzhXRVd4UjRZdXNEdHZYcVFZMVJYSA?oc=5",
    "snippet": "With creepy clown sightings on Long Island, Riverhead schools and police and \u2018aware and vigilant\u2019 \u00a0\u00a0 RiverheadLOCAL",
@@ -938,20 +938,6 @@
    "lat": null,
    "lon": null,
    "precision": null,
-   "verdict": "possible sighting"
-  },
-  {
-   "title": "Good news: Creepy clown sightings have been rare in central Ohio",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQaGFwc2Vpb2hRLVZnLWU2REZFajdqQ0E5UXhkNDFleHg3c1d5cmNDd2JUQzVrMmtrbHpKbW5uS3N3bmtPeDJrbkNDX0Q3S00zUHZXZWROY0Nuamx0WTYyVEstNlFwVFlrVFdBNFF3TGpUU1RFUFFfOUhIN0VIbW1qOER6V21WWDBEdlptYnphaGNUM0ZHZ1dXM2NnMDdTTEU?oc=5",
-   "snippet": "Good news: Creepy clown sightings have been rare in central Ohio \u00a0\u00a0 The Columbus Dispatch",
-   "source": "The Columbus Dispatch",
-   "date": "2016-09-29T07:00:00+00:00",
-   "origin": "googlenews",
-   "score": 6,
-   "place": "Columbus, OH",
-   "lat": 39.96,
-   "lon": -83.0,
-   "precision": "city",
    "verdict": "possible sighting"
   },
   {
