@@ -17,8 +17,8 @@ jobs:
         with:
           python-version: "3.12"
       - run: python3 fetch.py
-      env:
-        NEWSAPI_KEY: ${{ secrets.NEWSAPI_KEY }}
+        env:
+          NEWSAPI_KEY: ${{ secrets.NEWSAPI_KEY }}
       - run: cp clownwatch.html index.html
       - run: |
           git config user.name "clownwatch-bot"
