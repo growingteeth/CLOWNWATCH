@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-21T21:11:33.164438+00:00",
- "count": 131,
+ "updated": "2026-10-22T03:01:01.386141+00:00",
+ "count": 122,
  "items": [
   {
    "title": "15-year-old dressed as a clown stabbed a man to death in random attack, East St. Louis, Illinois, police say",
@@ -69,20 +69,6 @@
    "place": "Pittsburgh, PA",
    "lat": 40.44,
    "lon": -79.99,
-   "precision": "city",
-   "verdict": "possible sighting"
-  },
-  {
-   "title": "Teens in clown masks arrested after harassing women in Seattle",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBhVGVVSnJ2QUdoV1FteExjcFEwNXpEZEhmbklXcTV6cFVZRXpicjkyZGo3cGlGWG1QQlh3aUlpY2VKQnc3T1JGS2RoYVJqYjhkdVRVSXV2VjFiR0pkbkZyYkNUU1VDcnZqZ1pRUnhkSW9Rd9IBd0FVX3lxTE8xbmd1TVBZZzBjckdrclRpYkFFaTNnTEtGSkRka1pIdXppQ1FINkZXTVlubzd5MWNRT2FCdTdnakNyYUhXQ1hCcGlBRm53T0h5bHNfR3V5NGRydWRYUmlhQkMxTlphaC1QYTduOThUNzlVdFNxQTBv?oc=5",
-   "snippet": "Teens in clown masks arrested after harassing women in Seattle \u00a0\u00a0 FOX 13 Seattle",
-   "source": "FOX 13 Seattle",
-   "date": "2025-09-15T07:00:00+00:00",
-   "origin": "googlenews",
-   "score": 6,
-   "place": "Seattle, WA",
-   "lat": 47.61,
-   "lon": -122.33,
    "precision": "city",
    "verdict": "possible sighting"
   },
@@ -171,34 +157,6 @@
    "verdict": "mention"
   },
   {
-   "title": "Palm Bay, Florida police arrest man dressed as a clown",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNRHhLZ1ZGTkw3VmlvOVRkYUJGLVhMb1J0aVN6cjlGLWxEX3Z4OW1DckFVc18xNGJpc29scnktNF9vVWprN1NXZ3NOdUlkdFBZbDFZMkFtQU1mem9VSjd3cDc5bGVRMjdYOXNaMm1CTDNtOHFfY2g0V3BqbDc5aS1YRzR3SnpBYnZOZUVfMkNNUElhTUVXSndjY1hldlROZnNYQ0ljVFh3QnRQWF9vRFJ0THdjSzdFQdIBuwFBVV95cUxNWmZhV2hJaUJPenpDQkZfYTJGSnpjcGNuRFA2ZWNFUzQ5ZF91dmhXSFB1UElfaTRtSlBlNE1NN2JCZ1ZhRjFTMDRCeWs3MFlyZkMzdUpQejg2TXNkVTF0NG5lNGNaWEd4N28xTXhsc0dVV0JYZnVjUG5icnBzQnA0Q2RUX05LQ2E4TV9Ca0VyNjVlMy0tTG9oN1c4eENNbVJwRnNDeXZGZk9YUVdvc19hQUpqdGRPOHFDcEw4?oc=5",
-   "snippet": "Palm Bay, Florida police arrest man dressed as a clown \u00a0\u00a0 FOX 35 Orlando",
-   "source": "FOX 35 Orlando",
-   "date": "2025-03-27T07:00:00+00:00",
-   "origin": "googlenews",
-   "score": 6,
-   "place": "Orlando, FL",
-   "lat": 28.54,
-   "lon": -81.38,
-   "precision": "city",
-   "verdict": "possible sighting"
-  },
-  {
-   "title": "Florida Man Dressed As A Clown Tries To Scrap With Police On Video",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBWd2F5ZnFQNDNObWsyM2F6amQ5Mnd4TVVDTkhrcUdRdEtxYzJIbmZSMDNwZVZSOWJzaWR3akpEQkdIT0NTS0lPY3BBdUNSTnc4ZmpJNVpxOHJaVDB5VkE1ZjBvSGlTcGJaU2V3dXhQcVJac1R1a1E?oc=5",
-   "snippet": "Florida Man Dressed As A Clown Tries To Scrap With Police On Video \u00a0\u00a0 Boston's ROCK 92.9",
-   "source": "Boston's ROCK 92.9",
-   "date": "2025-03-27T07:00:00+00:00",
-   "origin": "googlenews",
-   "score": 4,
-   "place": "Boston, MA",
-   "lat": 42.36,
-   "lon": -71.06,
-   "precision": "city",
-   "verdict": "mention"
-  },
-  {
    "title": "'You look like a clown:' Florida man wearing clown costume arrested for trespassing",
    "url": "https://news.google.com/rss/articles/CBMijwNBVV95cUxOb0xnUEo3ck53YnlrVVdVSlR2b01xOU1QNmxaZnFWLVdBc2E0N2x4V2RhWTN6SFdoLTlFSmVTeVM2dElCaUs0djBYZjZwaWx2NkNYNTEzVU9QQ2dWSU1JTXBmT25rM1p4LWZoT0FpTTU3SFIzdTlKdk4yTDQxZ1NVUDhVa0dRQ1U3Y2Y4UUVoa1hGeXh5d1dCYnE2RlRoR0RUd1hjVEJFeVZTZWhza2tHajRnWUgtMzE3UnJBU3VKMXBta1JYQUFlX1FnaFFKd2F2U0FXaFFOdld4a2k3TzJLSU9GRHY3TUdfVnlyOGl4ZXdrOEJ0TDBvMzFER2gxWGJhMU1Yc1VoU29XX1FtUWpSMy1xbTd1ZTU5azA0aEhpaVpfVkxmT3hyMXFVQWVPcGw3cllvUzd6TTZQbTFkQWR0MkdKcGdaeGswdU85dkFVazZKQ2RfZ0Rpci0yOWxraFY2YXZtNkFjaDQzcWtNS3lTZXVxeVBISDZ5OXFjUTEwLUtOWUQyR2pYLVUtY21GaUk?oc=5",
    "snippet": "'You look like a clown:' Florida man wearing clown costume arrested for trespassing \u00a0\u00a0 KATV",
@@ -216,6 +174,20 @@
    "title": "Police officers arrest 'clown' accused of trespassing in Florida",
    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5pSFZHaVk3alJ1aHFvQmFNMC1QaVFYZlV5cW9iV241RkZtbldNVHRUaU45MXFQcVFHN252bXhWWE5YV3NnNVhKQVRjeGNtcDcybVgyddIBWkFVX3lxTE9sdVFJajFOMVkwMTU5OXBuZTJLTmc0anZ4VkhSUEg3NWFPRkhtaDh3dk56bW05V0tVQUhjdXNlTllmTVVqQzExYk1qbFZFd29EZWlGbS10b1h4dw?oc=5",
    "snippet": "Police officers arrest 'clown' accused of trespassing in Florida \u00a0\u00a0 FOX 35 Orlando",
+   "source": "FOX 35 Orlando",
+   "date": "2025-03-27T07:00:00+00:00",
+   "origin": "googlenews",
+   "score": 4,
+   "place": "Orlando, FL",
+   "lat": 28.54,
+   "lon": -81.38,
+   "precision": "city",
+   "verdict": "mention"
+  },
+  {
+   "title": "Palm Bay, Florida police arrest man dressed as clown",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBPM2pBZmJKYjEwMVJfWVJ2MjJNOFNfUHR2dTExak9heWNBMGYtdFE3WkdLVi1HdFBySlRaUXkyeEdYczZoMXVuNU1qdVpWVkJFWGhpedIBWkFVX3lxTE02WldDWGg2RmNNSUlKWVhSTEdVSWFXR2tLc3RCOHEtaUhoS0Y3SFNNUmNzT29VWkpjY3phMDNNcHMyLU1meGh5aHluQXZTanFoR1RDZndnemZYZw?oc=5",
+   "snippet": "Palm Bay, Florida police arrest man dressed as clown \u00a0\u00a0 FOX 35 Orlando",
    "source": "FOX 35 Orlando",
    "date": "2025-03-27T07:00:00+00:00",
    "origin": "googlenews",
@@ -269,20 +241,6 @@
    "verdict": "mention"
   },
   {
-   "title": "Miami-Dade police respond to man dressed as a clown and holding a mallet on Palmetto",
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBmdDZmOWNoRi1vZ0FlbDBCUUNFaXFiX29FVlBnLVF2YlVyRlR6cEJhcUphUkVQMTZKUmxDOFdPSFZiSmZ1UDBkQWtfd2hvXzNLcVAzTlBjbS1SZzZDQ2pwTVh3MmcyQmx5SVB4Yk51ZWdCVy1m0gF0QVVfeXFMT1pKZmYybWZ5RUJZT19rMkhGSTdfc0VMaXk5ZWh2R3drOExkTExTRUwzcXZPMUh2NjljT3hpeDBEQnhGTU1RZmVqMlE3ZVVLSEVXN0Ztb1UwbWF1MDB3RktiWkxwYURmMVQtRnhQSl9BM1JJV3I?oc=5",
-   "snippet": "Miami-Dade police respond to man dressed as a clown and holding a mallet on Palmetto \u00a0\u00a0 Miami Herald",
-   "source": "Miami Herald",
-   "date": "2024-09-24T07:00:00+00:00",
-   "origin": "googlenews",
-   "score": 4,
-   "place": "Miami, FL",
-   "lat": 25.76,
-   "lon": -80.19,
-   "precision": "city",
-   "verdict": "mention"
-  },
-  {
    "title": "Recent Oakland murder suspect was dressed as a clown when he shot his victim, police say",
    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNUGVkS3ZVT2FIcmx2QlMySllHSnJGc016SjRfcDJGM1RVV19kdmhZVkJ2SHBLamtCQWd2MEVGQ0hqS0tQa3Ezdi1QWEFnaUJ1MkNjSGpZdVQyNm1HMS1TcG91WDg1UXI5NThicjlZb0wtNjh0LXZPd3RTekppQWhyUllNTkZXV1VPQXFDSE1URTBLTUtVWGQtTzdZWDh1TkRIdXE3b0o4SWdIQi1yMWxBZTM1cUNmXy1SVDdKbktLYVJDTm1BYXc?oc=5",
    "snippet": "Recent Oakland murder suspect was dressed as a clown when he shot his victim, police say \u00a0\u00a0 The Mercury News",
@@ -294,20 +252,6 @@
    "lat": 37.8,
    "lon": -122.27,
    "precision": "city",
-   "verdict": "mention"
-  },
-  {
-   "title": "Iowa City Police receive multiple complaints about subject or subjects dressed as a clown harassing thrift store employees and swearing at children",
-   "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOSjV1aFhfOE9mR1czYWExRW1RcDRMSERBVDNpQWVnWjZwQVduMW5rUEhkR3hYaG1JVVoyOEFaWnUzTkRnaGcyYmFfa2tCUEI1Z053YnV1OWpVanFOWTZIcEFISXlyNURpWFBXRElhWWVyektjdzdMWG1NQWdESzhSVUkzZ3VIb1pXZkk0akVMbXhjNEQ2R0ZfbW5jY3ctYk9TNlUwalNYckhJNENQUW9RZkF4WTZHMFVvVXlkZXd6dEpfa1pzVWdoVUR1a0xIUWdmOGNzTVlYemRCYlRVMGtualVxcEltNFBrOG1Cc0VmYVVyOEplUEtZNnJvM3ZzV1RDMlE?oc=5",
-   "snippet": "Iowa City Police receive multiple complaints about subject or subjects dressed as a clown harassing thrift store employees and swearing at children \u00a0\u00a0 KCJJ",
-   "source": "KCJJ",
-   "date": "2023-09-09T07:00:00+00:00",
-   "origin": "googlenews",
-   "score": 4,
-   "place": "Iowa",
-   "lat": 42.08,
-   "lon": -93.5,
-   "precision": "state",
    "verdict": "mention"
   },
   {
@@ -451,20 +395,6 @@
    "verdict": "possible sighting"
   },
   {
-   "title": "Person reportedly dressed as a clown disrupts school at J.H.Brown Elementary; police investigate",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNTFhaQm9ibVJkZENqbldjbDdsbnVQRnFjU1M1dnB4dEhETzY3WTJWYTFYYmplT1oyOW5CbUppRjA4b3E1Z0hPaGtaZHVLV253VnI5TWo0c1RhWGJoNWR5THR3MWFaWG1KVUlFMkJVQmhGVEdER0dobnF5QmJDSzkzS01LYlFkOXNMZDdhNW53Skx6bndfWFRfTWtjLXRvWERHMG1sWU5MNUpEaW83ZS1iNWZoQVJ3Y2FwS1I4YWVYYw?oc=5",
-   "snippet": "Person reportedly dressed as a clown disrupts school at J.H.Brown Elementary; police investigate \u00a0\u00a0 FOX 29 Philadelphia",
-   "source": "FOX 29 Philadelphia",
-   "date": "2018-12-13T08:00:00+00:00",
-   "origin": "googlenews",
-   "score": 6,
-   "place": "Philadelphia, PA",
-   "lat": 39.95,
-   "lon": -75.17,
-   "precision": "city",
-   "verdict": "possible sighting"
-  },
-  {
    "title": "Reported Stun Gun-Wielding Clown Chase in Long Island Ends in Teen's Arrest: Police",
    "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQTmY4UTNJdjJDRjdLLTIzRDZVa09TUHdKLVhhSnhlaEtDMThRMDFMZWZTU3R3aDVrLXVFYm9SazA2Y2F1NG9PTjRaZlVaZnkzNG5EYUF6NmZUOEZYd3lrMWdYWWRkZk5QdUd5b2xHeFktMldnd2pUamRNV245YjZUMHQwRXBhbk5jQnNTTDNkbE0wNGh2MDVQd1dGRHpSMHA1Ui1jbVhPdTR3VW9ydkMyRXQtV05hbFltaTRRZVhuNHVQTXU4Nk5sZ1BqdzFfYmlFV01ka2pCOVZuOW1LbnY5OHh3SjTSAewBQVVfeXFMUGdidmttU2ZqR0dsTExMUDRIenVrMWdlY0ZNSmhXNERQM3FkdFNTNkdVdjBtZEdYZU1wb1JvV3BfMDN4Tkk5QmFHMnVUOFZJdEtlSkRYUHlNbHpFVmkycGx0c1FJX3J4TXMzdURaZ2lqSWtiUmpLYjVITGpyS0g2V2VQSlJob0tGN05VU1pPRjZYdEwzaGVSbHV5SWN4MnhwblY1MGw2MEx2ZGZwZ0dJSWdYcmNRUlYyZldmM1ctaXMwejBzem51TEFGSmdwZlRRYjV1T1hwNVF6MFpVTEhRbW1fZmc3MTdYMm5qSUI?oc=5",
    "snippet": "Reported Stun Gun-Wielding Clown Chase in Long Island Ends in Teen's Arrest: Police \u00a0\u00a0 NBC New York",
@@ -477,6 +407,20 @@
    "lon": -74.01,
    "precision": "city",
    "verdict": "possible sighting"
+  },
+  {
+   "title": "Man arrested after lying about clown sighting, police say",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQUXNLS3FwSU1Za1V1OFZCZ1NaMkFjVGxjdzd3YWRIc2VaMFM3R2E3NkhOMC1zQm9TN2xUQXRka0o3a19NRWs2czV5eHFwTFRmOWFOdVh0TW1adnltdU5vT0lKNy0tQ3VSaEc3Yk1HSGdKbHNwVnFzSi1zZVdRLVh0MTdMUzRaSlhXU2hTZ1RNM2I3Z3d0djlVSDBn?oc=5",
+   "snippet": "Man arrested after lying about clown sighting, police say \u00a0\u00a0 WYFF",
+   "source": "WYFF",
+   "date": "2018-08-03T05:58:01+00:00",
+   "origin": "googlenews",
+   "score": 9,
+   "place": null,
+   "lat": null,
+   "lon": null,
+   "precision": null,
+   "verdict": "likely sighting"
   },
   {
    "title": "Troy police issue warning to creepy clowns.",
@@ -546,20 +490,6 @@
    "lat": null,
    "lon": null,
    "precision": null,
-   "verdict": "possible sighting"
-  },
-  {
-   "title": "Pennsylvania State Police Warn About Possible Return Of 'Creepy Clown' Sightings",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNX3Y2WUhoOHN5N3ZVZ214RHJVYjVBOGhvbDUzckZ0UXE5MzFua0Z4Uk5lZkVEQ2ZNaHR2cEF0LW1oTGZXYktHTHlxSVpqZG5vUWdVLWpOLTk5VzBTQVkwUkRhZUItd1BrX1JKREt3SFpwbnUwVU1ZZnhGbEVleDltdUJYTUU?oc=5",
-   "snippet": "Pennsylvania State Police Warn About Possible Return Of 'Creepy Clown' Sightings \u00a0\u00a0 CBS News",
-   "source": "CBS News",
-   "date": "2017-08-31T07:00:00+00:00",
-   "origin": "googlenews",
-   "score": 8,
-   "place": "Pennsylvania",
-   "lat": 40.88,
-   "lon": -77.8,
-   "precision": "state",
    "verdict": "possible sighting"
   },
   {
@@ -675,20 +605,6 @@
    "verdict": "possible sighting"
   },
   {
-   "title": "Reported clown sightings in Carter County have residents on edge",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQaExfbDNNWkU5VVJEUnphbDVuT1VwelB6S2tubjl2dUZTc09Rc2M4elA4WWx5WWdLLW45eTVZcWJYMGJFU0xBb1ROWGliZGE5bmNjTFhSZFo3WjdSZk5wZVItdElaVUxLcXNmWUNlQUFBRmFIMlBycXhPT1R2ZXloTlQwcmtUc0hDWkhER1RpcGNGVHFveHfSAZsBQVVfeXFMUHQ4UVVKVllkUmhZT0k0aGkwbUxLUHIzQ1hCdEdjVnluX3ZMQW9LbElPQUd3SlBEMmV1VGFNRmNxcHlXa3p1Z3JVN2xpVnFueTdLOGRBSEJYRjFGUDBYeXFKbTRlaVQ1VzR6cjdRN0tLa0dfYS13SDg5ZHk4TGtXaVVJZk5oQngwZHYzTGdLTzFUeWNxWEZxR09OSzg?oc=5",
-   "snippet": "Reported clown sightings in Carter County have residents on edge \u00a0\u00a0 WJHL",
-   "source": "WJHL",
-   "date": "2016-10-07T07:00:00+00:00",
-   "origin": "googlenews",
-   "score": 9,
-   "place": null,
-   "lat": null,
-   "lon": null,
-   "precision": null,
-   "verdict": "likely sighting"
-  },
-  {
    "title": "Clown sightings UK reach Manchester as man in bloodstained poncho spotted",
    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNYlhaMGRONzBNTHBKUVV4RExBVE82elNwSHZYOVpmZVl3MWhRYWZGTC1kdGpfOXFkUHJ5T1lJYnpMbFlmZ2NxVEU4Sk55dmV5MjFwOGdvSkkzWTdrTE0tOWpSWXJDakNrbTFkOGVDdTUzaGNfOW15YzlSbzEzMFNoTFhKWW1mM0d5bWlXd1o5NVN0M0lmM0dSTk1PTkM4UFBpSnBWN01uUzl3dzNkeWhzbksteko4UdIBuwFBVV95cUxQa0J3OTQ0bDEwQVdLQU9KRVFEZ09rcHVTWHg1aXEyM0NIdDVBWUxIMVlRLWxiVFNZV2RnSDRTRHo4Rl9XdHRybmlFYzVOTElRUGl3XzFiMTJMY3JZYXVvVk9tMXM4eGtER0ltSklVUHFaVk16Y1RuTFhVR3pTWnkydU8zNlQ0aVB1Mks1V2pUdy1ScEdHeFJQNHUta3NhYVZELWdJX1o4N1hxRkdzMHdhdkpCSDVCanl4Mk9v?oc=5",
    "snippet": "Clown sightings UK reach Manchester as man in bloodstained poncho spotted - VIDEO \u00a0\u00a0 Metro.co.uk",
@@ -783,20 +699,6 @@
    "place": "Worcester, MA",
    "lat": 42.26,
    "lon": -71.8,
-   "precision": "city",
-   "verdict": "possible sighting"
-  },
-  {
-   "title": "Rumors, Reports Of Creepy Clown Sightings At Schools Across Metro Detroit",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZllvN2h2STFFaG9kRWhSYnFZdmFvNWRwaTNDbzkySTRERFZKNXc5SUFPd1RGc0dhZHp2b1ZPY1FhU0RzWDc4QWRpRnhTQ2pBaE5RcGlNZXVCdFI4VDB4aXNvSVUxRGJ5OXNUU2F4cnhOVzc5QXMyZ3lmdF9LbkoyRV9mV1VoRXVSakNJeEdOMzJwQkNYck55RTBSQmt1T3kzWFV4dkZZOEJYREF3MXlV?oc=5",
-   "snippet": "Rumors, Reports Of Creepy Clown Sightings At Schools Across Metro Detroit \u00a0\u00a0 CBS News",
-   "source": "CBS News",
-   "date": "2016-10-06T07:00:00+00:00",
-   "origin": "googlenews",
-   "score": 8,
-   "place": "Detroit, MI",
-   "lat": 42.33,
-   "lon": -83.05,
    "precision": "city",
    "verdict": "possible sighting"
   },
@@ -1011,20 +913,6 @@
    "verdict": "possible sighting"
   },
   {
-   "title": "Texas Tech, police officials say reported clown sighting unfounded",
-   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPNllrWWFLR3MtTW1nd3lxbWMzUVVJSGI0d0dERHNRUl8waVozNnZ1UHlOZ0ZJZVdwWjFvRTE3OVUyY25YeVZuemh3aXpaUTBUVVdtUFNqTksyM25lZW0ydXVQOWJfcHBqSlBoSU9UOG4yUW1yb1BnM0lPUENCLVo0TmxZVFVwS1E2enhmRXlWTmFrWlZTRWtqWmlQSGNILTFiV3Jpem96QVJDTEw3ZFhkckhzeFZOa3BtTEJQTXZiQ2ZUTGdwNV95U095RW5hN0p4NjdnVg?oc=5",
-   "snippet": "Texas Tech, police officials say reported clown sighting unfounded \u00a0\u00a0 Lubbock Avalanche-Journal",
-   "source": "Lubbock Avalanche-Journal",
-   "date": "2016-10-04T07:00:00+00:00",
-   "origin": "googlenews",
-   "score": 7,
-   "place": "Texas",
-   "lat": 31.47,
-   "lon": -99.33,
-   "precision": "state",
-   "verdict": "possible sighting"
-  },
-  {
    "title": "Sheboygan police on alert for creepy clown sightings",
    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPUkh6eGFLMU5Dd0pZUlVFNk1rV1dIS3hQU25MSDRyeGM4UWk2UTdWWkRzN3lGN284b3owSW1pS0FMSkR4Z1h3M28wY0dUTEU5MWVtOTdnd2lxTV91V3BGNUozdXdiS3E1RTBZODU5cmhYb0gyNVlJOUtOZnlhYzBPMVBScGZrVmVPZ1BwYUtvNlpBWmM?oc=5",
    "snippet": "Sheboygan police on alert for creepy clown sightings \u00a0\u00a0 WISN",
@@ -1067,17 +955,17 @@
    "verdict": "possible sighting"
   },
   {
-   "title": "Police respond to clown sightings in two Fort Wayne neighborhoods",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQWFpScllGQ1BmeHlzdGZzNnM3WDNwbEh4SEtHUkdqcVZKX2czQ0xNV01OQjRMZVNsMXJpUEF5MUZrVElWamx0VDdodm1DcUZfa2l0bkVmblhZNXAybnBRRi02SUFTelpINTNSTnhrUmJ2dFg4bWZiWnMzbFh4OTBfZFljZjVUdnRyQlhYU2hGMlk0WnRzUXVz0gGcAUFVX3lxTE5RRjlFS0dOcDFCTlkzbEpQT3ZtVzIwTXNhUVhVVlZjUVVlV3BKX1F5aEhkZHczOGItVWlEalZEMlBIcDJhWkRBd0VacndwY0FldmVIb2pZVkRUbGxtcUVUeHhmQ2tCQkxVVEZDZXZFdlFnT19qeTYtRWtBaUFldVZROHhUNTJOeWp6Y053NGFocXJiNVZUOHlEbTRLdQ?oc=5",
-   "snippet": "Police respond to clown sightings in two Fort Wayne neighborhoods \u00a0\u00a0 WANE 15",
-   "source": "WANE 15",
+   "title": "Hobbs Police Department receiving numerous reports of possible clown sightings",
+   "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxONFhqblRfcmVEbVc1QkhEbkgwbzFYRHRhYlAtampDUnhONkZBOGJHbnlhNk9CX25waG1ZY0V2U1YzM212N0pjMjRJcGdDdm02U2NuNXowbmNmSVlpZnI4RzZnRm5WaGpXVDE3TXNadFVPVmJOVXpHS2kxTG9mZnZnTnZKTWRLc2dyb1ZDRk5yTFVnZnJDZVB0RktkTEU0eG1QS2RVX2FnUF8wZmg2QmN6R0lST3BYZVROMDNPeWdfWDJlOVRVaDc2THExQzQxdmpRdGdONHA3N3JSeGs1N2UtbkZOYjI3NXlwcjFQRTh2VjdqT3F6RktJ?oc=5",
+   "snippet": "Hobbs Police Department receiving numerous reports of possible clown sightings \u00a0\u00a0 newswest9.com",
+   "source": "newswest9.com",
    "date": "2016-10-03T07:00:00+00:00",
    "origin": "googlenews",
-   "score": 9,
-   "place": "Fort Wayne, IN",
-   "lat": 41.08,
-   "lon": -85.14,
-   "precision": "city",
+   "score": 10,
+   "place": null,
+   "lat": null,
+   "lon": null,
+   "precision": null,
    "verdict": "likely sighting"
   },
   {
@@ -1277,6 +1165,20 @@
    "verdict": "possible sighting"
   },
   {
+   "title": "Creepy clown sightings in Central Oregon",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQeDZIeldMQURJNGVfc0ZabzI3TkZJd0hCdmRfUDlrS1BrY3U4TFB4ejZ0ajVMM25vRUQ5QWFSSVZURk1hLXVmUzl4c1NqUFR2S1R5d3J6R2Ewd0pBeWJ0TXpkd2g4SmZQWVZWOXhMaDhsQ3FCNWZ0WUk0TW5ZWFRtUmNwQzQ2VnJZNVR6MFpDelhPUWVUcEpnQ2hMbG5hekl0OG5oUUlCUQ?oc=5",
+   "snippet": "Creepy clown sightings in Central Oregon \u00a0\u00a0 KGW",
+   "source": "KGW",
+   "date": "2016-09-29T07:00:00+00:00",
+   "origin": "googlenews",
+   "score": 6,
+   "place": "Oregon",
+   "lat": 43.93,
+   "lon": -120.55,
+   "precision": "state",
+   "verdict": "possible sighting"
+  },
+  {
    "title": "Reports of creepy clown sightings in Maryland turnout to be fake",
    "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOWjB1Q3BUSlBUeVM3cjJhRzZYUC05ME1xRXlmbVA1TC1ZTk5mWEdyR3BsMm92cWRCRGJOSlBVbXFuV2tISmt0Z1VxcUFSazBZMEE1RndlN0FGdmJpOC1XcGx6NUdMdkZDWlhZMVdUeDI4Uk1BOUQyRG8wQmIwaTV2aGhHelpyWmxOYlBiQkFlSmoySG5wcWxqUEpSQUZteG81TTNYTkVtbmVBZzA3NUhyMDdDVnZWYkNlblJoWld3WklTb1dIRHFtLTNod1VzOFVLVDM4VFBnYWdHOUVuSWZZX3VZazVEYnlhdFk5VXVPYkZjVmFZTlEySGZ3?oc=5",
    "snippet": "Reports of creepy clown sightings in Maryland turnout to be fake \u00a0\u00a0 The Washington Post",
@@ -1298,20 +1200,6 @@
    "date": "2016-09-29T07:00:00+00:00",
    "origin": "googlenews",
    "score": 8,
-   "place": null,
-   "lat": null,
-   "lon": null,
-   "precision": null,
-   "verdict": "possible sighting"
-  },
-  {
-   "title": "Lurking clown reported to Ellwood City police",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOcFdCMUFzbEhhUEJ2UDBwbFVaNDY2ODhFTHcwd0hDcHZ0ZWpEUWlURHdvblRHYXA4TUF5WXR3U3F4U0xVV25YU0pJQWRWNlJSc0dfOEZUV21EWW5pMV85VTBVSHhabjR3ZDdDdGRvUXZfTW1KOEJ4X1gyWGNnMVdnT2g2c2pKYXBGQjVIeFpUSGpZUVpSYjRIaTdIRmRrbjBlZUk5UVlsUlFjQnBR?oc=5",
-   "snippet": "Lurking clown reported to Ellwood City police \u00a0\u00a0 Ellwood City Ledger",
-   "source": "Ellwood City Ledger",
-   "date": "2016-09-29T07:00:00+00:00",
-   "origin": "googlenews",
-   "score": 7,
    "place": null,
    "lat": null,
    "lon": null,
@@ -1457,20 +1345,6 @@
    "lon": -81.97,
    "precision": "city",
    "verdict": "mention"
-  },
-  {
-   "title": "VIDEO: Clown arrested by police",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA5WWxQRjQ1TzNuNGg1RzRjeExQQmhoSllPOExkQUdHUE5qaTRLQ3hIRjVTaS1Wdk5SeFdhZ3lrZkdfSlBCalFHWVo4T0EwSkgyQTV6WkdHb0p3a1ZpUnU5anF1bUJNN3BpVjdCb0lVM0c?oc=5",
-   "snippet": "VIDEO: Clown arrested by police \u00a0\u00a0 FOX 5 Atlanta",
-   "source": "FOX 5 Atlanta",
-   "date": "2016-09-24T07:00:00+00:00",
-   "origin": "googlenews",
-   "score": 6,
-   "place": "Atlanta, GA",
-   "lat": 33.75,
-   "lon": -84.39,
-   "precision": "city",
-   "verdict": "possible sighting"
   },
   {
    "title": "Another 'creepy clown' sighting reported in North Little Rock",
