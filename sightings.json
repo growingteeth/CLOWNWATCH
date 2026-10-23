@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-23T10:56:26.090639+00:00",
+ "updated": "2026-10-23T16:20:44.299434+00:00",
  "count": 131,
  "items": [
   {
@@ -28,20 +28,6 @@
    "lat": 38.63,
    "lon": -90.2,
    "precision": "city",
-   "verdict": "mention"
-  },
-  {
-   "title": "Crazy - eyed Illinois teen dressed as evil clown arrested for murder",
-   "url": "https://nypost.com/2026/08/05/us-news/crazy-eyed-illinois-teen-dressed-as-evil-clown-arrested-for-murder/",
-   "snippet": "",
-   "source": "nypost.com",
-   "date": "2026-08-05T12:00:00+00:00",
-   "origin": "gdelt",
-   "score": 4,
-   "place": "Illinois",
-   "lat": 40.1,
-   "lon": -89.2,
-   "precision": "state",
    "verdict": "mention"
   },
   {
@@ -213,20 +199,6 @@
    "verdict": "mention"
   },
   {
-   "title": "'You look like a clown:' Florida man wearing clown costume arrested for trespassing",
-   "url": "https://news.google.com/rss/articles/CBMijwNBVV95cUxOb0xnUEo3ck53YnlrVVdVSlR2b01xOU1QNmxaZnFWLVdBc2E0N2x4V2RhWTN6SFdoLTlFSmVTeVM2dElCaUs0djBYZjZwaWx2NkNYNTEzVU9QQ2dWSU1JTXBmT25rM1p4LWZoT0FpTTU3SFIzdTlKdk4yTDQxZ1NVUDhVa0dRQ1U3Y2Y4UUVoa1hGeXh5d1dCYnE2RlRoR0RUd1hjVEJFeVZTZWhza2tHajRnWUgtMzE3UnJBU3VKMXBta1JYQUFlX1FnaFFKd2F2U0FXaFFOdld4a2k3TzJLSU9GRHY3TUdfVnlyOGl4ZXdrOEJ0TDBvMzFER2gxWGJhMU1Yc1VoU29XX1FtUWpSMy1xbTd1ZTU5azA0aEhpaVpfVkxmT3hyMXFVQWVPcGw3cllvUzd6TTZQbTFkQWR0MkdKcGdaeGswdU85dkFVazZKQ2RfZ0Rpci0yOWxraFY2YXZtNkFjaDQzcWtNS3lTZXVxeVBISDZ5OXFjUTEwLUtOWUQyR2pYLVUtY21GaUk?oc=5",
-   "snippet": "'You look like a clown:' Florida man wearing clown costume arrested for trespassing \u00a0\u00a0 KATV",
-   "source": "KATV",
-   "date": "2025-03-27T07:00:00+00:00",
-   "origin": "googlenews",
-   "score": 7,
-   "place": "Florida",
-   "lat": 28.63,
-   "lon": -82.45,
-   "precision": "state",
-   "verdict": "possible sighting"
-  },
-  {
    "title": "Police officers arrest 'clown' accused of trespassing in Florida",
    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5pSFZHaVk3alJ1aHFvQmFNMC1QaVFYZlV5cW9iV241RkZtbldNVHRUaU45MXFQcVFHN252bXhWWE5YV3NnNVhKQVRjeGNtcDcybVgyddIBWkFVX3lxTE9sdVFJajFOMVkwMTU5OXBuZTJLTmc0anZ4VkhSUEg3NWFPRkhtaDh3dk56bW05V0tVQUhjdXNlTllmTVVqQzExYk1qbFZFd29EZWlGbS10b1h4dw?oc=5",
    "snippet": "Police officers arrest 'clown' accused of trespassing in Florida \u00a0\u00a0 FOX 35 Orlando",
@@ -239,6 +211,20 @@
    "lon": -81.38,
    "precision": "city",
    "verdict": "mention"
+  },
+  {
+   "title": "'You look like a clown:' Florida man wearing clown costume arrested for trespassing",
+   "url": "https://news.google.com/rss/articles/CBMi_AJBVV95cUxOb0ZEal9oR2JIaEFxZFRVLTRRbENuS2txYnkwa2NPU1BmYzV2cUxqUUdrZ0taRXY0LU9yclZIME9SR2ZrSjRIQWs1b1M5SGExeG9RRk1ma1ZvU2pUUTdIX0paX2FrT1BaOVUycDdMc3U0aVlMN3JsbjVqczl4OURCS1U4UUVYU0k4ckJ2Z29pOXg4RzlxTFNwbVFMVHViTEFSWHJsZVBMTDk0b0xqR01YQmZpbFNiVTNjVlcxOEV4b0dDUDdDZExNQnFLdkdvbEozanBXMWRzbjNvY0hYdENKRVZ0dVNNWjctWlRpMWdrMU90TklSVTdPYngzTXVwVGE2aEtPSEpwNFN5V01MNTNfMHc3VUY1b1ZXTWpzT3RkR0Q2cFlNNE1rSE8ycF9rVlJaNndfUUxWdkp5cVU4SGdrc3NqQjRvOWpVcnU4RldocllhdHQxX3BQOHk2eHdUaHJSV0VkbmREaWs4QVlmMUVBS0wwRUp6aWFZcHBvVA?oc=5",
+   "snippet": "'You look like a clown:' Florida man wearing clown costume arrested for trespassing \u00a0\u00a0 WPEC",
+   "source": "WPEC",
+   "date": "2025-03-27T07:00:00+00:00",
+   "origin": "googlenews",
+   "score": 7,
+   "place": "Florida",
+   "lat": 28.63,
+   "lon": -82.45,
+   "precision": "state",
+   "verdict": "possible sighting"
   },
   {
    "title": "Palm Bay police: Man wearing red nose and clown outfit arrested after complaints",
@@ -336,6 +322,20 @@
    "lat": null,
    "lon": null,
    "precision": null,
+   "verdict": "possible sighting"
+  },
+  {
+   "title": "Man wearing clown mask while armed with knives arrested in Las Vegas",
+   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOUEIweUdPc25tNk9wQVFpY1FCOGFmbzN6WGViaTdoeTJTb2R4VU5sR1FIWWp3c0JLeFZzZkdMZUVJTERKeXhzejlWUnpZX1VlRmlHZkVjVGlNdmYtY2Z4SkFjNWpDRWZ0SEUyMW5ob0JQRTFnWUE5THhSQk1lMzE5dE1JWHB6eGk1Y3AtMmpvcjZzQW1zUEhXRVBwVFROQnhGTmo0QjVpdVdfN2xUTFhYa0VBY0lKMUR5VTltT3VsZXNycGQwZGdtNjVhLVNUQ19sQndXOWcxalhDcmk0VUIyLU1B?oc=5",
+   "snippet": "Man wearing clown mask while armed with knives arrested in Las Vegas \u00a0\u00a0 KSNV",
+   "source": "KSNV",
+   "date": "2022-10-06T07:00:00+00:00",
+   "origin": "googlenews",
+   "score": 6,
+   "place": "Las Vegas, NV",
+   "lat": 36.17,
+   "lon": -115.14,
+   "precision": "city",
    "verdict": "possible sighting"
   },
   {
