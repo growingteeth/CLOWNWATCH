@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-24T20:07:33.919981+00:00",
- "count": 138,
+ "updated": "2026-10-25T02:54:44.064054+00:00",
+ "count": 135,
  "items": [
   {
    "title": "15-year-old dressed as a clown stabbed a man to death in random attack, East St. Louis, Illinois, police say",
@@ -167,20 +167,6 @@
    "place": "New York, NY",
    "lat": 40.71,
    "lon": -74.01,
-   "precision": "city",
-   "verdict": "mention"
-  },
-  {
-   "title": "Volusia Co. 'Sovereign Clown' arrested again",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQWHpfX0xkR1JuY3o1SlVVS3ltV3phM3lNX2FjRmh1bkJGMG1BT3A1NEE1UDRnSmlPcTdMbUs0ek1UZUJRZlFoT05TVk1LME00VXl2bHVmTnhseUFjMld0d291dGhPWng2T3VWdElNYVd0bUptT19RVE9SLUhyeUxuT1p1SThfZmdnNDlSdmRCR1FXR1N5ZGtlY2lLYnhiWkxNVmhlMkJKblg1NHBPNTc1TV9jVVlQSHlL0gG-AUFVX3lxTE9vSFc4a094RGducWZMRFdjU2ktNm5leEZMd1R3WnVMZUs4NjJpSlNvRmI2d2VXU3hsOVFsV2FQWDRqRUVRZWZrdEVfTWMzRFpkTTZpTlFRN2prS29PM0pOdjNZVENMSlFxaDNTdU1vQzJ2c2lJeVdVUXBvVEdMTEFSbkJPUFBwWmpYR2NiWjNIN3ZReG5FM2JIdmZIUWItZGlOV2dFNGFiY2FzQnVLYnd5a0VicWtmeE9qa0pEb0E?oc=5",
-   "snippet": "Volusia Co. 'Sovereign Clown' arrested again \u00a0\u00a0 FOX 35 Orlando",
-   "source": "FOX 35 Orlando",
-   "date": "2025-05-05T07:00:00+00:00",
-   "origin": "googlenews",
-   "score": 4,
-   "place": "Orlando, FL",
-   "lat": 28.54,
-   "lon": -81.38,
    "precision": "city",
    "verdict": "mention"
   },
@@ -773,20 +759,6 @@
    "verdict": "possible sighting"
   },
   {
-   "title": "Sheboygan police make arrest after scary clown sighting",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQWGpoUWN3alhmUnhpdVdURkVqZVlRMjI4anoxcG04Nk1GMzN5VGllUXZfV29lZ0R6cVRhRnlFMUg2MFdKQl9GVUlKQnhlOUZBOGp4UnpYYUh2WXk0RVpZZWhQVXAtZnU0R2Q4UlB2Nm1Jb1pHbGJ1YkljbkJRcUgwSUNHOGd2Q0ttY0NiN002N092c3dac1k0?oc=5",
-   "snippet": "Sheboygan police make arrest after scary clown sighting \u00a0\u00a0 WISN",
-   "source": "WISN",
-   "date": "2016-10-07T07:00:00+00:00",
-   "origin": "googlenews",
-   "score": 7,
-   "place": null,
-   "lat": null,
-   "lon": null,
-   "precision": null,
-   "verdict": "possible sighting"
-  },
-  {
    "title": "Clown sightings UK reach Manchester as man in bloodstained poncho spotted",
    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNYlhaMGRONzBNTHBKUVV4RExBVE82elNwSHZYOVpmZVl3MWhRYWZGTC1kdGpfOXFkUHJ5T1lJYnpMbFlmZ2NxVEU4Sk55dmV5MjFwOGdvSkkzWTdrTE0tOWpSWXJDakNrbTFkOGVDdTUzaGNfOW15YzlSbzEzMFNoTFhKWW1mM0d5bWlXd1o5NVN0M0lmM0dSTk1PTkM4UFBpSnBWN01uUzl3dzNkeWhzbksteko4UdIBuwFBVV95cUxQa0J3OTQ0bDEwQVdLQU9KRVFEZ09rcHVTWHg1aXEyM0NIdDVBWUxIMVlRLWxiVFNZV2RnSDRTRHo4Rl9XdHRybmlFYzVOTElRUGl3XzFiMTJMY3JZYXVvVk9tMXM4eGtER0ltSklVUHFaVk16Y1RuTFhVR3pTWnkydU8zNlQ0aVB1Mks1V2pUdy1ScEdHeFJQNHUta3NhYVZELWdJX1o4N1hxRkdzMHdhdkpCSDVCanl4Mk9v?oc=5",
    "snippet": "Clown sightings UK reach Manchester as man in bloodstained poncho spotted - VIDEO \u00a0\u00a0 Metro.co.uk",
@@ -1107,20 +1079,6 @@
    "lon": null,
    "precision": null,
    "verdict": "possible sighting"
-  },
-  {
-   "title": "Seth Rogen tweets mugshot of clown look-alike: 'Apparently I was arrested'",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPRGxjWXBkUUEzc3h3M3ZiN0owWnFBZURJamRCM2EwR3YyX2Z4QVhJYXowZ1JpblFkQ0ZvcHdDQ2lhak1jZGVHZzJPY2IySFNsTzFYWVdudFM4RjBBNlU4OGN5RmJQM3ZXX2ZyTGpSVEhLOWJlVkphTThqUEp6anlsLVZVOVJqOHUwZnEtOXdOTFdKNGVzN2ltbk5uMUVMMzl1Zmc?oc=5",
-   "snippet": "Seth Rogen tweets mugshot of clown look-alike: 'Apparently I was arrested' \u00a0\u00a0 FOX6 News Milwaukee",
-   "source": "FOX6 News Milwaukee",
-   "date": "2016-10-04T07:00:00+00:00",
-   "origin": "googlenews",
-   "score": 4,
-   "place": "Milwaukee, WI",
-   "lat": 43.04,
-   "lon": -87.91,
-   "precision": "city",
-   "verdict": "mention"
   },
   {
    "title": "Creepy Clown Sightings, Threats Fueling 'Panic' Across Pennsylvania, State Police Say",
@@ -1445,20 +1403,6 @@
    "verdict": "mention"
   },
   {
-   "title": "Police investigate clown sightings in Shippensburg",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxORjBkd3J6Rzl2eGQ3T3lKWXVKUWJpMExOaDV3NVdkeEFRbjhoNFZ0RVVCaHM0a2pjMVNPcnR0anpXbXN5bmcyOXl5UFZnY2dfQk5OX2QzRXNnNk53MjI0eDJHZF9uc19PdkRuVzBJVU01RHBuckpzVm5jOG1zcTZlc0RhUlHSAYoBQVVfeXFMTjYxaktTSXNIbTdyVUpPYUV2N0tXNXl5LUtGYUJJaVBPX2tRQVlMT29TQ1RPd0R1ajlXWXdwTUU1VklBS21WbG9KMFQ1RnJuaVZzM2ZQQm43amNoakROdXBFcGtGb2ItaWI0Z3E4ZDVGS0hHTGhRSHJwbTh6eDg3WDJRTkt4NUk5eDd3?oc=5",
-   "snippet": "Police investigate clown sightings in Shippensburg \u00a0\u00a0 ABC27",
-   "source": "ABC27",
-   "date": "2016-09-28T07:00:00+00:00",
-   "origin": "googlenews",
-   "score": 8,
-   "place": null,
-   "lat": null,
-   "lon": null,
-   "precision": null,
-   "verdict": "possible sighting"
-  },
-  {
    "title": "Creepy Clown Spotted in Gainesville, Third Sighting in Florida",
    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNakkzU01lSnhoUWVEdG1XeUtnVnRFemYzQWVBckgzVzhad0c1eDFZQXA4dkF1eWRRdVJsWnpwRnlQRFdMQl9FQ3NRcl90Mi1PMTR2TlBHbjRmamJlRURnMGduZVhtQjRkemJUZkJ6MmFldzJReGh6V3ZObGZjNkdBYkRaNnBOLWNaUWgxYW43TTFuaGhWRHE5cEFiMnBYTlNEZEFJTFZrczJLVTg?oc=5",
    "snippet": "Creepy Clown Spotted in Gainesville, Third Sighting in Florida \u00a0\u00a0 WUFT",
@@ -1543,20 +1487,6 @@
    "verdict": "possible sighting"
   },
   {
-   "title": "Creepy clown sightings going viral",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1EWHhSRlRQbDdITzI1U2lCTHd5aWNDUlB6V3J5U2psT1Bxc0w1VEwybU95ajFCbW42V0tqUEJvYW5DUlVsSVVGUU85OFUwcDFHQ2pJNFRnZ185M3dIc0cxODZJN29qZFYxRVM2aHNPYmJETWxXS2c?oc=5",
-   "snippet": "Creepy clown sightings going viral \u00a0\u00a0 Florida Today",
-   "source": "Florida Today",
-   "date": "2016-09-26T07:00:00+00:00",
-   "origin": "googlenews",
-   "score": 6,
-   "place": "Florida",
-   "lat": 28.63,
-   "lon": -82.45,
-   "precision": "state",
-   "verdict": "possible sighting"
-  },
-  {
    "title": "Creepy clowns reported in Augusta County, Sheriff Smith speaks",
    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQX0tWNXZabnhzQkxpeWE0RElYb3FUbmEzN080WEwtOTY2Z0NIQVUxQjlfa3djVDZtU2t1MTA2TEQ0N3Z6ZGw1OUFjeHUzYk1FV0xNQTRkUFVoRnJScFhlWXZUaHh0eDFxZGR4WnJEeVZwV3REenhfZ1ZWRWlDcmEtUVVpUXcwX2dLMTY5bkJhV0RCU3FPa0RRYVJLRUJDblh2WlV3M0ctemc2RHVYYUI4?oc=5",
    "snippet": "Creepy clowns reported in Augusta County, Sheriff Smith speaks \u00a0\u00a0 WHSV",
@@ -1624,6 +1554,20 @@
    "lat": 37.53,
    "lon": -85.3,
    "precision": "state",
+   "verdict": "possible sighting"
+  },
+  {
+   "title": "Police taking possible clown sightings seriously in Port Wentworth",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNUU42UHVPUzdTdjFmUWpzeVRLZ2JWOUR1UzhULXhYZFhGZUJYR3NBa3BOLVdWYXVJQWZBbXR3a1BtZXF4Y1FHb1pQVGMtbHdaME52MnBhN09sQlRReHoyTXZKd3BsNktMd2cwRVZmLWxycnZmQ19RNUMtajRzY3BFMXpSWHhjYkk1LTRTaDZ4VzN3eDAwMnpPYWtLUzJQbzBxcUlKOWJ30gG4AUFVX3lxTE1ZTVRGOXpLbHFZTDRONHd4bFJ6LVlGTUo5R3h5YU1Ld0hpZ3dsSjRZOVpHaDlXTU1PNVlRcHZReG9CRVFYdVd2dC11RVItRjhia0NfSV9IY2VVNkdPX0J6TWswM0x6Mm5jd2ZJQnZlR1p1a2FLVDExYmFPMU9aUlhORnBYbGtZWnB3eWRCbzBQUDV6OU1SUi1uRndOR19GeXNoM25wdmYtV1lhU1RfclF5R0Vqc2JjRmg?oc=5",
+   "snippet": "Police taking possible clown sightings seriously in Port Wentworth \u00a0\u00a0 WTOC",
+   "source": "WTOC",
+   "date": "2016-09-16T07:00:00+00:00",
+   "origin": "googlenews",
+   "score": 8,
+   "place": null,
+   "lat": null,
+   "lon": null,
+   "precision": null,
    "verdict": "possible sighting"
   },
   {
@@ -1774,6 +1718,20 @@
    "date": "2016-09-02T07:00:00+00:00",
    "origin": "googlenews",
    "score": 6,
+   "place": "South Carolina",
+   "lat": 33.82,
+   "lon": -80.94,
+   "precision": "state",
+   "verdict": "possible sighting"
+  },
+  {
+   "title": "\u201cThis is serious:\u201d Creepy clown sightings reported in second community in South Carolina",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZ25uWW5vakZHenp2MTBPZk5rT2xpc1RjdkE0NDhRdHRoWDFDZjJtanZBbzduME1jc09FNEQ1VzNra3FGMk5aQngyeC1xQm5KbzZPT1AzcDgzdmZET3BnVUJtVl91NVpVU3pmbDVUQS1OOXQzQTV4Q0MxUnh6bUtzNW0yamRCLWc0TjJVcFc1dFR6TnI5QzczeVB0SmhzSEowaWFfOFF5ck1ULXQ3Z1h1NNIBtgFBVV95cUxPT3M0dlNIMHJmRjY2U2lzQS1PYW81YXF6NEJrS0dwUjNoYzNGTWVPZUM2N2prOVFTOGZOWFVZTFZEX2ZoLS1aTVN4RGZfckQ4aXlKQWpmUU0wZkdoYlZUdFdVZEF5SWwzTkF0eEY1LU96R3Q5NG96Zm54U09xdERBcF9hUnFzNTVRb0wtNFpSd2JyUm5ya2lyRnBCUHg4VjFyejZrUWpuUTJkbzQ3QUY3YzlRazJrZw?oc=5",
+   "snippet": "\u201cThis is serious:\u201d Creepy clown sightings reported in second community in South Carolina \u00a0\u00a0 FOX 2",
+   "source": "FOX 2",
+   "date": "2016-09-02T07:00:00+00:00",
+   "origin": "googlenews",
+   "score": 8,
    "place": "South Carolina",
    "lat": 33.82,
    "lon": -80.94,
