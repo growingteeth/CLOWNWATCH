@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-05T13:54:47.999502+00:00",
- "count": 59,
+ "updated": "2026-11-05T23:13:36.513030+00:00",
+ "count": 61,
  "items": [
   {
    "title": "Man dressed as clown spotted prowling near primary school prompting police response",
@@ -70,6 +70,20 @@
    "lat": 25.76,
    "lon": -80.19,
    "precision": "city",
+   "verdict": "mention"
+  },
+  {
+   "title": "Miscellaneous (police record)",
+   "url": "https://www.dallasopendata.com/d/qv6i-rri7",
+   "snippet": "7624 INDIAN SPRINGS RD Single Family Residence - Occupied \u2014 mo: BACKPACK W/ CLOWN MASK  INSIDE",
+   "source": "Dallas, TX Open Data",
+   "date": "2022-09-18T11:34:39+00:00",
+   "origin": "socrata",
+   "place": "Dallas, TX",
+   "lat": 32.95136,
+   "lon": -96.7774,
+   "precision": "city",
+   "score": 4,
    "verdict": "mention"
   },
   {
@@ -267,6 +281,20 @@
    "lon": null,
    "precision": null,
    "verdict": "possible sighting"
+  },
+  {
+   "title": "40 - Other (police record)",
+   "url": "https://www.dallasopendata.com/d/qv6i-rri7",
+   "snippet": "6714 AMERICAN WAY Single Family Residence - Occupied \u2014 mo: SUSPECT MADE THREATS OVER THE PHONE IN A \"CLOWN VOICE\"",
+   "source": "Dallas, TX Open Data",
+   "date": "2016-10-04T17:47:09+00:00",
+   "origin": "socrata",
+   "place": "Dallas, TX",
+   "lat": 32.66679,
+   "lon": -96.88411,
+   "precision": "city",
+   "score": 4,
+   "verdict": "mention"
   },
   {
    "title": "Police say Fargo area clown sighting is not suspicious",
@@ -634,9 +662,9 @@
   },
   {
    "title": "'Creepy clown' sighting reported in southern West Virginia",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOLXAyQjg4TVlxZ1J5eVBWazQzRi1qNGV5VVRmVkx1T2lfcGVmOW1xaTExM05SUElWM29JaWloTWN3dFJWbVdEcUJCaXRkNkx4cGFxRk1EOVltQVd0eDgyaTZPc3lTVGlHRnBHTXQ0Y3IyMzdUd0RBSndNSU14YWIydU9wY2YtN25vTHp0cmZOcmM4SE9IUV9NcUJKLUJJVW9yVDk3OU1uOFXSAbwBQVVfeXFMTU1FUjMzcUJBQlV0VDZfdndtc3pnZGJRSGpMMDhfQXRXMEUyVXJRMWNkX09LdDZhUDZfeE96RGZhWmxRZ0JvRkh5V0hldEltVWlyYWlLVXVPVmRfYVhfd2hxYWdrTmtldWRTd3BtdGttOVpJVndmclNhSUNpOHItOWNodzh3QmFwUzV5THZVLVdZYUxnSTVjb0hSTF9zd2ZBYWFBQVJDR0dzRXFVUVZzYndEMWN1a3BHX3FIYUw?oc=5",
-   "snippet": "'Creepy clown' sighting reported in southern West Virginia \u00a0\u00a0 WYMT",
-   "source": "WYMT",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQX19Ec1pUQ18tdE1jVXZZVnRHMG5OQmdRSGJFYy1XR2hZbW5mTUs4ZDh5dm43VmYyRVhobUFZSjg5SkFTOTBNUWd5dXdTX2dET0RnNWZMNVV5cE92TC1Ca0NfZGhlZ1kyaHlWblhCNERMbkh0LVVxaXc1Vy16UzI3YlJ3OGFlZzVSVmduN0x0S0RqZzdMUzI3YXNzdUNLSVJuRGNUOUdVLW_SAbwBQVVfeXFMTXVDWk4wU0FRZEN2UWdlZGxZajg4SWg0VGNiQXlJU25MTW82eVM3a0dYNGJQa3dZcE45cjVBSjd3cTI3OVprTktWTW9WMDVuQ0RUcWlSdnVYV01MMkJGWU53Y0lITVM0YmJwV1dTMUZ3d3FjaGM0Nmk2QXBQR25aTWtCRFhHdDhkLXdhcERtSm5GU2VqN0ZsM29MOFZYR0RWbEhwcGVuMWFrTm4yYUVidzBRS0pUZG45d1hwam4?oc=5",
+   "snippet": "'Creepy clown' sighting reported in southern West Virginia \u00a0\u00a0 WSAZ",
+   "source": "WSAZ",
    "date": "2016-09-12T07:00:00+00:00",
    "origin": "googlenews",
    "score": 5,
