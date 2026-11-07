@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-07T04:19:10.592570+00:00",
- "count": 60,
+ "updated": "2026-11-07T12:20:28.690322+00:00",
+ "count": 58,
  "items": [
   {
    "title": "Man dressed as clown spotted prowling near primary school prompting police response",
@@ -84,20 +84,6 @@
    "lat": 25.76,
    "lon": -80.19,
    "precision": "city",
-   "verdict": "mention"
-  },
-  {
-   "title": "Miscellaneous (police record)",
-   "url": "https://www.dallasopendata.com/d/qv6i-rri7",
-   "snippet": "7624 INDIAN SPRINGS RD Single Family Residence - Occupied \u2014 mo: BACKPACK W/ CLOWN MASK  INSIDE",
-   "source": "Dallas, TX Open Data",
-   "date": "2022-09-18T11:34:39+00:00",
-   "origin": "socrata",
-   "place": "Dallas, TX",
-   "lat": 32.95136,
-   "lon": -96.7774,
-   "precision": "city",
-   "score": 4,
    "verdict": "mention"
   },
   {
@@ -257,8 +243,8 @@
   {
    "title": "Creepy Clown Sighting Reported in Arlington",
    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxORGw2eXVrSDJmbU9GT0ttR2VEeDN1d3MxRG9iNUp2UHZoSkhiTWJBZzd3YTBmU1hjWUlXYTNtRk9IT29vRnJNRG5iV1p1TEZEcFBha0NlT2RsTi1VbUJEUmVwRmZzeGtpWGtmcy1yQ1ZOT2lhWEJXWHk3alliSTJxMm1QN1g?oc=5",
-   "snippet": "Creepy Clown Sighting Reported in Arlington \u00a0\u00a0 ARLnow",
-   "source": "ARLnow",
+   "snippet": "Creepy Clown Sighting Reported in Arlington \u00a0\u00a0 ARL now",
+   "source": "ARL now",
    "date": "2016-10-06T07:00:00+00:00",
    "origin": "googlenews",
    "score": 5,
@@ -295,20 +281,6 @@
    "lon": null,
    "precision": null,
    "verdict": "possible sighting"
-  },
-  {
-   "title": "40 - Other (police record)",
-   "url": "https://www.dallasopendata.com/d/qv6i-rri7",
-   "snippet": "6714 AMERICAN WAY Single Family Residence - Occupied \u2014 mo: SUSPECT MADE THREATS OVER THE PHONE IN A \"CLOWN VOICE\"",
-   "source": "Dallas, TX Open Data",
-   "date": "2016-10-04T17:47:09+00:00",
-   "origin": "socrata",
-   "place": "Dallas, TX",
-   "lat": 32.66679,
-   "lon": -96.88411,
-   "precision": "city",
-   "score": 4,
-   "verdict": "mention"
   },
   {
    "title": "Police say Fargo area clown sighting is not suspicious",
@@ -717,20 +689,6 @@
    "verdict": "mention"
   },
   {
-   "title": "New clown sighting reported near South Carolina playground; police hold news conference",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQTFQ0VVJ2cEtMTzZpc2ZqZnBvTDNWT2loV2JaZmRNWUhfeFp1VENrejRwQmlTS1NNUVROU2t2RjNQeUhtOUtzbm1fU1lodzlGdWhkMTFKZ2JKaHNVaTlENDJIT1V6QWFMOFRwSlNjdmVRcHRkcklIbk84czYwaVlRRE13SUtJMFBMRnFSX1ZIUUxpRDlWdmlMMmFQdnRTQ09XQ0dGeGR3bkNROUpFV2Y0dDFFQ2LSAboBQVVfeXFMT29HUDBiYmdMb2VBdkVRcmIwYlpBUWUzSDcwYWJjZzZaOUI0WklMbUZhU0M3ai12NnpFS3BQZmFxU0d6WnVTXzk0SWZMYzVJc0FNeHdQVVVPbXlkeWdsTXlYNEExYXVNMmRIT0JzWEZFNDM3TFFfRzBQQU9rbmlEWmJjVlEybE9Kazk1dERvVGlIVXlmNC1NU09YM2tuSGF4dzhFVzdlTlJkVVA5dGpXSUhKR3p6SGlEYWRn?oc=5",
-   "snippet": "New clown sighting reported near South Carolina playground; police hold news conference \u00a0\u00a0 NBC4 WCMH-TV",
-   "source": "NBC4 WCMH-TV",
-   "date": "2016-09-01T07:00:00+00:00",
-   "origin": "googlenews",
-   "score": 8,
-   "place": "South Carolina",
-   "lat": 33.82,
-   "lon": -80.94,
-   "precision": "state",
-   "verdict": "possible sighting"
-  },
-  {
    "title": "Creepy details released in South Carolina clown sightings",
    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOc24yR1lQeUZPbnU3cDYxSmVSaUJFQ0czeEJEVGUtLUFVSDJSOG5uSWI1RGNwMjFnWTg1b1JfMnM1YTRaSVJFNGRsYmtSTXJ6TjdXcjVuVXJ3QnZFMTc2X1VaTmctdTRtdmRzSnAwU0kxcUliWC1NUEpRbDg4U1FGaER4STV5QTRndW5BcA?oc=5",
    "snippet": "Creepy details released in South Carolina clown sightings \u00a0\u00a0 CBS News",
@@ -757,6 +715,20 @@
    "lon": -80.94,
    "precision": "state",
    "verdict": "mention"
+  },
+  {
+   "title": "Reported sightings of creepy clown sightings in South Carolina prompts warning by police",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxON1hVbmJUVFJ0WlpXMVdkTy1ZTUNfSVh3WVBhQ1paWFhQX01RZWs4WjZmVGxKbWh2czlFU2k4VDdmSlZqWmtOUHJOOGdTTXV6ZHJCRXhVQkc5NHNUbXNSNHBLZGx3ZEtFX3duQ1RXdFFiM3N0bXExS2owN3dxT1NEYUVYQ2Z3Qjl2MVJqeWw4ZGFlY1g2cHF0akVfRVNlN3FDY3BzV2hTSU0?oc=5",
+   "snippet": "Reported sightings of creepy clown sightings in South Carolina prompts warning by police \u00a0\u00a0 SMH.com.au",
+   "source": "SMH.com.au",
+   "date": "2016-08-31T07:00:00+00:00",
+   "origin": "googlenews",
+   "score": 12,
+   "place": "South Carolina",
+   "lat": 33.82,
+   "lon": -80.94,
+   "precision": "state",
+   "verdict": "likely sighting"
   },
   {
    "title": "Creepy Clown Sightings in South Carolina Cause a Frenzy (Published 2016)",
