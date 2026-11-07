@@ -1,13 +1,13 @@
 {
- "updated": "2026-11-06T22:40:44.683219+00:00",
- "count": 58,
+ "updated": "2026-11-07T04:19:10.592570+00:00",
+ "count": 60,
  "items": [
   {
    "title": "Man dressed as clown spotted prowling near primary school prompting police response",
    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPNk5jRmI1RTBSVTM4VkJQY3RfU1BzUVVLSDFYLW5KeXZEY051LTJ3ZEZtLXNINEVUYnpKNmJTTzVhcmNLS09BZnhzZ21YZzk1QXBEeGZVbklULVlLejJUMG1iVkVCb2RpVmhtRG44X3RBSll3WDEzNlptWWVoR1RKUjNWUWRHdGkwdl8zVEt5a0tnS0h6YmdHcU1SdTBfaVlBRHFKaw?oc=5",
    "snippet": "Man dressed as clown spotted prowling near primary school prompting police response \u00a0\u00a0 Glasgow Times",
    "source": "Glasgow Times",
-   "date": "2026-10-28T13:30:00+00:00",
+   "date": "2026-10-28T07:00:00+00:00",
    "origin": "googlenews",
    "score": 8,
    "place": null,
@@ -84,6 +84,20 @@
    "lat": 25.76,
    "lon": -80.19,
    "precision": "city",
+   "verdict": "mention"
+  },
+  {
+   "title": "Miscellaneous (police record)",
+   "url": "https://www.dallasopendata.com/d/qv6i-rri7",
+   "snippet": "7624 INDIAN SPRINGS RD Single Family Residence - Occupied \u2014 mo: BACKPACK W/ CLOWN MASK  INSIDE",
+   "source": "Dallas, TX Open Data",
+   "date": "2022-09-18T11:34:39+00:00",
+   "origin": "socrata",
+   "place": "Dallas, TX",
+   "lat": 32.95136,
+   "lon": -96.7774,
+   "precision": "city",
+   "score": 4,
    "verdict": "mention"
   },
   {
@@ -243,8 +257,8 @@
   {
    "title": "Creepy Clown Sighting Reported in Arlington",
    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxORGw2eXVrSDJmbU9GT0ttR2VEeDN1d3MxRG9iNUp2UHZoSkhiTWJBZzd3YTBmU1hjWUlXYTNtRk9IT29vRnJNRG5iV1p1TEZEcFBha0NlT2RsTi1VbUJEUmVwRmZzeGtpWGtmcy1yQ1ZOT2lhWEJXWHk3alliSTJxMm1QN1g?oc=5",
-   "snippet": "Creepy Clown Sighting Reported in Arlington \u00a0\u00a0 ARL now",
-   "source": "ARL now",
+   "snippet": "Creepy Clown Sighting Reported in Arlington \u00a0\u00a0 ARLnow",
+   "source": "ARLnow",
    "date": "2016-10-06T07:00:00+00:00",
    "origin": "googlenews",
    "score": 5,
@@ -281,6 +295,20 @@
    "lon": null,
    "precision": null,
    "verdict": "possible sighting"
+  },
+  {
+   "title": "40 - Other (police record)",
+   "url": "https://www.dallasopendata.com/d/qv6i-rri7",
+   "snippet": "6714 AMERICAN WAY Single Family Residence - Occupied \u2014 mo: SUSPECT MADE THREATS OVER THE PHONE IN A \"CLOWN VOICE\"",
+   "source": "Dallas, TX Open Data",
+   "date": "2016-10-04T17:47:09+00:00",
+   "origin": "socrata",
+   "place": "Dallas, TX",
+   "lat": 32.66679,
+   "lon": -96.88411,
+   "precision": "city",
+   "score": 4,
+   "verdict": "mention"
   },
   {
    "title": "Police say Fargo area clown sighting is not suspicious",
