@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-08T12:39:58.139115+00:00",
- "count": 59,
+ "updated": "2026-11-08T21:38:17.453042+00:00",
+ "count": 60,
  "items": [
   {
    "title": "Man dressed as clown spotted prowling near primary school prompting police response",
@@ -15,6 +15,20 @@
    "lon": null,
    "precision": null,
    "verdict": "possible sighting"
+  },
+  {
+   "title": "15-year-old dressed as a clown stabbed a man to death in random attack, East St. Louis, Illinois, police say",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxObHVHTUkzV20wWkxmMUgzbUl6cHVvT3R2QzdZUkE0cXk4WUtQV2hfdjZlTGwyYkdzdGk5QkhoVkdrYjdpa1prYV9hQmh3VDIwcXRRcHFURU5sY1hMTlJCYzczd1RPd3pwMUIwdVpDZzc4YUkyOFZwSGJBaUNqWnZIUFlva3FyWHZUd1pTNll4dTYwVEE?oc=5",
+   "snippet": "15-year-old dressed as a clown stabbed a man to death in random attack, East St. Louis, Illinois, police say \u00a0\u00a0 CBS News",
+   "source": "CBS News",
+   "date": "2026-08-07T07:00:00+00:00",
+   "origin": "googlenews",
+   "score": 4,
+   "place": "St. Louis, MO",
+   "lat": 38.63,
+   "lon": -90.2,
+   "precision": "city",
+   "verdict": "mention"
   },
   {
    "title": "Police arrest teen in clown costume accused of murder",
