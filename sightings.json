@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-08T21:38:17.453042+00:00",
- "count": 60,
+ "updated": "2026-11-09T04:18:17.371337+00:00",
+ "count": 59,
  "items": [
   {
    "title": "Man dressed as clown spotted prowling near primary school prompting police response",
@@ -42,6 +42,20 @@
    "lat": null,
    "lon": null,
    "precision": null,
+   "verdict": "possible sighting"
+  },
+  {
+   "title": "North Carolina Residents on Edge After Multiple Clown Sightings",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQNkVrdGxFZVdSaVVnTkZ6SzZaSERuS0I0emdiOFNqTnplbUZ5UWtsbTZ4aHlUUjBfTWtpY2l5ZkhjNGN4dUtqa1QwRS15T3hlMlNfLW10QVZHZTJBbDYwN0o4N05sRGd6U1JKVHZzVER1SDRFVlhPbXFEQU1BVS1mNU8tUzBDaUJGZDRVcXh5TDRNNnBGUE1kRm9GSdIBoAFBVV95cUxNTkp5YXhaOXhKaElLUlllSF9xSjV2al9MRG1HRVBNUnF2Slg4RktaeDR0WnFQRHNjTlhXRTZiZ1Qzby1lRDdxbHFRS25FcVQyTEEtSWs1MVlMSTRjaDJSS0pCX1lad3lZS0QtR2gxWVFNVGxJWE5QVGxVblVIX0d4V0ZOa0hBRWhNTFR5a1pZY3VvdVNOYmRoNHB5dmpHZWNU?oc=5",
+   "snippet": "North Carolina Residents on Edge After Multiple Clown Sightings \u00a0\u00a0 ABC News - Breaking News, Latest News and Videos",
+   "source": "ABC News - Breaking News, Latest News and Videos",
+   "date": "2026-02-17T09:23:09+00:00",
+   "origin": "googlenews",
+   "score": 7,
+   "place": "North Carolina",
+   "lat": 35.63,
+   "lon": -79.81,
+   "precision": "state",
    "verdict": "possible sighting"
   },
   {
@@ -113,20 +127,6 @@
    "lon": -94.63,
    "precision": "city",
    "verdict": "mention"
-  },
-  {
-   "title": "Alleged creepy clown sightings, online threats",
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNdTJRREhBMVNRelpMQ3QyWXQyeHh5em9yMUtuYldyVGRKclFDdWNId29JNXUySkZFMHB1U1VXMFdYUkJ6UHdhQTljT3FoVE9xVUcyajZXbi0zS1BCWkJCSWppN09QaUtwdGpDdGw2dHJKVVA1djNFS20tVlhKOF9lUEZnMjRDYWVPa2JoNWhIdw?oc=5",
-   "snippet": "Alleged creepy clown sightings, online threats \u00a0\u00a0 KMTV 3 News Now Omaha",
-   "source": "KMTV 3 News Now Omaha",
-   "date": "2017-12-14T16:11:45+00:00",
-   "origin": "googlenews",
-   "score": 6,
-   "place": "Omaha, NE",
-   "lat": 41.26,
-   "lon": -95.93,
-   "precision": "city",
-   "verdict": "possible sighting"
   },
   {
    "title": "Man dressed as clown arrested for sleeping in a stranger's bedroom in Vermont",
@@ -647,6 +647,20 @@
    "verdict": "possible sighting"
   },
   {
+   "title": "Stop reporting fake clown sightings near schools, deputies warn",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQR2tmOHVKYUhYUGJ5Z1pSYUM5WlNGVGhuOXBGUy1RdzZncjNiSlExUjhxSG1JSWozaFZ5TzFGdFFLN2o2QnRpZTFIbkNlaG4xeHZRcUxsYVg0VlRKcnVaa1IyZFFWREhxLXBBRjRwZUlUcllmMUVzbWxMRC15WlZFbzJFT2hCalRSWGVfWWJVc2IwcXo3eUtlU1VZcDA0bXNKTGYwR09IWGRXc3NXMXBqRTJ30gHGAUFVX3lxTE1OVnl2dkZOR2R5X25SZFdfR0lEc2oxbEJHZzJYeFVXOTZfVy1pclI3NS1rVnJvSmdnS25yeVJHZ0hSbmloTEhJaUt0ajQ4Um1JNEZWRWJ3V2F1OVFadVNmNmR1bEhhdDJ4V2RiUUpZNDUyTWo3cUlVOGNNNVoyeEJ2RkVwYnNfUDZodmF2Q2p1OHA3YlRJajg2MVJiNnB1bnZmUUJGb1h1b3ZpNWpYNWlqWmVLcGc0X2E5WktNRXU2UUlUSTVVZw?oc=5",
+   "snippet": "Stop reporting fake clown sightings near schools, deputies warn \u00a0\u00a0 WFTV",
+   "source": "WFTV",
+   "date": "2016-09-13T07:00:00+00:00",
+   "origin": "googlenews",
+   "score": 10,
+   "place": null,
+   "lat": null,
+   "lon": null,
+   "precision": null,
+   "verdict": "likely sighting"
+  },
+  {
    "title": "'Creepy clown' sighting reported in southern West Virginia",
    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQX19Ec1pUQ18tdE1jVXZZVnRHMG5OQmdRSGJFYy1XR2hZbW5mTUs4ZDh5dm43VmYyRVhobUFZSjg5SkFTOTBNUWd5dXdTX2dET0RnNWZMNVV5cE92TC1Ca0NfZGhlZ1kyaHlWblhCNERMbkh0LVVxaXc1Vy16UzI3YlJ3OGFlZzVSVmduN0x0S0RqZzdMUzI3YXNzdUNLSVJuRGNUOUdVLW_SAbwBQVVfeXFMTXVDWk4wU0FRZEN2UWdlZGxZajg4SWg0VGNiQXlJU25MTW82eVM3a0dYNGJQa3dZcE45cjVBSjd3cTI3OVprTktWTW9WMDVuQ0RUcWlSdnVYV01MMkJGWU53Y0lITVM0YmJwV1dTMUZ3d3FjaGM0Nmk2QXBQR25aTWtCRFhHdDhkLXdhcERtSm5GU2VqN0ZsM29MOFZYR0RWbEhwcGVuMWFrTm4yYUVidzBRS0pUZG45d1hwam4?oc=5",
    "snippet": "'Creepy clown' sighting reported in southern West Virginia \u00a0\u00a0 WSAZ",
@@ -686,20 +700,6 @@
    "lat": 44.94,
    "lon": -123.03,
    "precision": "city",
-   "verdict": "possible sighting"
-  },
-  {
-   "title": "North Carolina Residents on Edge After Multiple Clown Sightings",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQNkVrdGxFZVdSaVVnTkZ6SzZaSERuS0I0emdiOFNqTnplbUZ5UWtsbTZ4aHlUUjBfTWtpY2l5ZkhjNGN4dUtqa1QwRS15T3hlMlNfLW10QVZHZTJBbDYwN0o4N05sRGd6U1JKVHZzVER1SDRFVlhPbXFEQU1BVS1mNU8tUzBDaUJGZDRVcXh5TDRNNnBGUE1kRm9GSdIBoAFBVV95cUxNTkp5YXhaOXhKaElLUlllSF9xSjV2al9MRG1HRVBNUnF2Slg4RktaeDR0WnFQRHNjTlhXRTZiZ1Qzby1lRDdxbHFRS25FcVQyTEEtSWs1MVlMSTRjaDJSS0pCX1lad3lZS0QtR2gxWVFNVGxJWE5QVGxVblVIX0d4V0ZOa0hBRWhNTFR5a1pZY3VvdVNOYmRoNHB5dmpHZWNU?oc=5",
-   "snippet": "North Carolina Residents on Edge After Multiple Clown Sightings \u00a0\u00a0 ABC News - Breaking News, Latest News and Videos",
-   "source": "ABC News - Breaking News, Latest News and Videos",
-   "date": "2016-09-06T07:00:00+00:00",
-   "origin": "googlenews",
-   "score": 7,
-   "place": "North Carolina",
-   "lat": 35.63,
-   "lon": -79.81,
-   "precision": "state",
    "verdict": "possible sighting"
   },
   {
@@ -743,20 +743,6 @@
    "lon": -80.94,
    "precision": "state",
    "verdict": "mention"
-  },
-  {
-   "title": "Reported sightings of creepy clown sightings in South Carolina prompts warning by police",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxON1hVbmJUVFJ0WlpXMVdkTy1ZTUNfSVh3WVBhQ1paWFhQX01RZWs4WjZmVGxKbWh2czlFU2k4VDdmSlZqWmtOUHJOOGdTTXV6ZHJCRXhVQkc5NHNUbXNSNHBLZGx3ZEtFX3duQ1RXdFFiM3N0bXExS2owN3dxT1NEYUVYQ2Z3Qjl2MVJqeWw4ZGFlY1g2cHF0akVfRVNlN3FDY3BzV2hTSU0?oc=5",
-   "snippet": "Reported sightings of creepy clown sightings in South Carolina prompts warning by police \u00a0\u00a0 SMH.com.au",
-   "source": "SMH.com.au",
-   "date": "2016-08-31T07:00:00+00:00",
-   "origin": "googlenews",
-   "score": 12,
-   "place": "South Carolina",
-   "lat": 33.82,
-   "lon": -80.94,
-   "precision": "state",
-   "verdict": "likely sighting"
   },
   {
    "title": "Creepy Clown Sightings in South Carolina Cause a Frenzy (Published 2016)",
