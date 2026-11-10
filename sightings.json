@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-09T14:59:20.224933+00:00",
- "count": 60,
+ "updated": "2026-11-10T01:07:20.482872+00:00",
+ "count": 61,
  "items": [
   {
    "title": "Man dressed as clown spotted prowling near primary school prompting police response",
@@ -31,10 +31,24 @@
    "verdict": "mention"
   },
   {
+   "title": "Teen in clown costume accused of East St. Louis murder now in custody, police say",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPcHEyTDBsQmM3ZG84ZFhpcDM3dGlZNGY5WHl1ZVhFS3FJZnh0QW1nUFM2TF8tZ2xTN2daVlpLNG9senpGZWlSSzVaZXN4Q2ZlQWJCU2RKR003ZHNYZ0hmSVJXME94Vm5tMUVMTThqeDhGSmxPZ0FVb2QxQklaUkdwVW4wa3RnRFZvNXp6SUdyZDFHa2pUUnF1R0JzSHRyYVNQZkR2b3lzZFAybWJlQncw?oc=5",
+   "snippet": "Teen in clown costume accused of East St. Louis murder now in custody, police say \u00a0\u00a0 KMOV",
+   "source": "KMOV",
+   "date": "2026-08-04T07:00:00+00:00",
+   "origin": "googlenews",
+   "score": 5,
+   "place": "St. Louis, MO",
+   "lat": 38.63,
+   "lon": -90.2,
+   "precision": "city",
+   "verdict": "mention"
+  },
+  {
    "title": "Police arrest teen in clown costume accused of murder",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQM1pvWXpodDBGdEVTWTU3ejVOTzFrdXdrRmtwc1NEbThHQ2hJazVlQlIzNVlwVlFNSjhLRXozbFVINDBFMkVCMlFDTXBjbFhzendEWk1ZNWR1RmMxQzRaaTBPdWJMWHdTal9jTVBOVno3VnFnWXB6UnphZGZ2RWRRMVBEYWV4UlU?oc=5",
-   "snippet": "Police arrest teen in clown costume accused of murder \u00a0\u00a0 WCJB",
-   "source": "WCJB",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOdEZhSW5sYzlrSjM5X1h4dktjcENFekdibkt2RjN6aWVXT1JkdVQ1MmxLZjQwQURPSDRQc3FqYXR2MHN0am1TSzdpY0c4TEV3SXExX2lzeWxRNXF5ZXZiOUhPd29ZX0UxQkRyY0hmbEpNVEVCSG9HNnZOazBtSjkyb05mdkJHUDg?oc=5",
+   "snippet": "Police arrest teen in clown costume accused of murder \u00a0\u00a0 WBTV",
+   "source": "WBTV",
    "date": "2026-08-04T07:00:00+00:00",
    "origin": "googlenews",
    "score": 7,
@@ -593,14 +607,14 @@
   {
    "title": "Police: Annapolis clown sighting is a hoax",
    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNUm83NGo4V2VXcDJDZU9obU5Ya25aS0tnY3phWUhWbm9VcW9qT3N0Y21Xc21BTDNRaXlfeE9vZFFFTlV4d2VlTHhKSlQ2NFQxRFl5SGotaW05U2lxQlVqZXhwVUZWbjNZbXZlZzhkZGx3MHJkTWZnQXRrdTAybG9lblFoRlJhbGRNdTRSWE9jR3ZXNDFCTGs0cVM3SVhsNERSa2Nxbm5WTWRFWGVuMEdycTlRaGpIXzAtTC1J?oc=5",
-   "snippet": "Police: Annapolis clown sighting is a hoax \u00a0\u00a0 WMAR 2 News",
-   "source": "WMAR 2 News",
+   "snippet": "Police: Annapolis clown sighting is a hoax \u00a0\u00a0 WMAR 2 News Baltimore",
+   "source": "WMAR 2 News Baltimore",
    "date": "2016-09-20T07:00:00+00:00",
    "origin": "googlenews",
    "score": 4,
-   "place": "Annapolis, MD",
-   "lat": 38.98,
-   "lon": -76.49,
+   "place": "Baltimore, MD",
+   "lat": 39.29,
+   "lon": -76.61,
    "precision": "city",
    "verdict": "mention"
   },
@@ -788,7 +802,7 @@
   },
   {
    "title": "Clown sightings prompt police calls in Green Bay, Wisconsin",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOWnBwZkpiR216S1dYemoyTGk4ZDNpUVp1dGZHa0R0MjR2SndQcmNCZC1RNFU4ZFRCRFlHcHZJU2QtQkc3OE5EMU8yMmxBeExGOG1oUXFtaWlBU05hQzZEUHZkMHFIZ3RjdTVYWXBpNU1saXlqTXJjemsxZnNWZ2xmYWg2b0Z2WGg1bWNSLU1XYi1lWW0xMEotNQ?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOWnBwZkpiR216S1dYemoyTGk4ZDNpUVp1dGZHa0R0MjR2SndQcmNCZC1RNFU4ZFRCRFlHcHZJU2QtQkc3OE5EMU8yMmxBeExGOG1oUXFtaWlBU05hQzZEUHZkMHFIZ3RjdTVYWXBpNU1saXlqTXJjemsxZnNWZ2xmYWg2b0Z2WGg1bWNSLU1XYi1lWW0xMEotNdIBngFBVV95cUxQVE9TMHNUWkdlSDg1RXpZZVJ1NjZmQW5TQWxqZWRyVHZQWVNvMWtNbUpRZFl4Z1U4TmlmUm9nWG5fRHBrNnhQei1JeVR1bHdoRW1sZW5XOTNoaXZrNTJIaEFiTDdFcUluUUNxQTlHNk1YamE2eERya1VXTmwySlRKdlQxUERrM01JTFZmalotb0F0WlkxVWRxVTBqZDNQZw?oc=5",
    "snippet": "Clown sightings prompt police calls in Green Bay, Wisconsin \u00a0\u00a0 ABC7 Chicago",
    "source": "ABC7 Chicago",
    "date": "2016-08-05T07:00:00+00:00",
