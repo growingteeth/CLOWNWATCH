@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10T01:07:20.482872+00:00",
+ "updated": "2026-11-10T14:12:46.857123+00:00",
  "count": 61,
  "items": [
   {
@@ -56,6 +56,20 @@
    "lat": null,
    "lon": null,
    "precision": null,
+   "verdict": "possible sighting"
+  },
+  {
+   "title": "North Carolina Residents on Edge After Multiple Clown Sightings",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQNkVrdGxFZVdSaVVnTkZ6SzZaSERuS0I0emdiOFNqTnplbUZ5UWtsbTZ4aHlUUjBfTWtpY2l5ZkhjNGN4dUtqa1QwRS15T3hlMlNfLW10QVZHZTJBbDYwN0o4N05sRGd6U1JKVHZzVER1SDRFVlhPbXFEQU1BVS1mNU8tUzBDaUJGZDRVcXh5TDRNNnBGUE1kRm9GSdIBoAFBVV95cUxNTkp5YXhaOXhKaElLUlllSF9xSjV2al9MRG1HRVBNUnF2Slg4RktaeDR0WnFQRHNjTlhXRTZiZ1Qzby1lRDdxbHFRS25FcVQyTEEtSWs1MVlMSTRjaDJSS0pCX1lad3lZS0QtR2gxWVFNVGxJWE5QVGxVblVIX0d4V0ZOa0hBRWhNTFR5a1pZY3VvdVNOYmRoNHB5dmpHZWNU?oc=5",
+   "snippet": "North Carolina Residents on Edge After Multiple Clown Sightings \u00a0\u00a0 ABC News - Breaking News, Latest News and Videos",
+   "source": "ABC News - Breaking News, Latest News and Videos",
+   "date": "2026-02-17T09:23:09+00:00",
+   "origin": "googlenews",
+   "score": 7,
+   "place": "North Carolina",
+   "lat": 35.63,
+   "lon": -79.81,
+   "precision": "state",
    "verdict": "possible sighting"
   },
   {
@@ -325,20 +339,6 @@
    "verdict": "possible sighting"
   },
   {
-   "title": "Reported Creepy Clown Sightings At Mass. Schools Prompt Police Response",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPX3VQZ1VhTXE2RXA1NVJFeGtud0tCYXplT25GVkhKVVE4TDRRU2FFNFBDdUNlRlZrbE1aVm5HMVpXWFFQZnFFUUFWcHlIbUx6S1FfeDQyWkJLOENaWnZzczA5QV9ONXhtVE9neEhOaHlSZEkxVmtwY0daVkVVMlRBOTVtZUVtempBY3VNeURHaUI1TWUxYWpHSFBmZDlKbXc?oc=5",
-   "snippet": "Reported Creepy Clown Sightings At Mass. Schools Prompt Police Response \u00a0\u00a0 CBS News",
-   "source": "CBS News",
-   "date": "2016-10-04T07:00:00+00:00",
-   "origin": "googlenews",
-   "score": 10,
-   "place": null,
-   "lat": null,
-   "lon": null,
-   "precision": null,
-   "verdict": "likely sighting"
-  },
-  {
    "title": "Creepy clown sightings reported in Eastern Iowa",
    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNa2pqcXhPbDBja09FalR4QjRGR0Vzek1oWF9aY2h6N0RIeDIwQTFibkNhYzlVN2QtVmxoTHVJbWhfSFVLUUFuQ2I0SkdNNVRQLVZJakxWVDY3ZXB1Z2UyUWJwVlVjYURZaUVQcy1YZkItN1RhR2dNcXZEMkV5aEc2SGUtMFIzR2E4dVY4TS03Mi1Hem02U25VOWpnMFJXZw?oc=5",
    "snippet": "Creepy clown sightings reported in Eastern Iowa \u00a0\u00a0 KCRG",
@@ -351,6 +351,20 @@
    "lon": -93.5,
    "precision": "state",
    "verdict": "possible sighting"
+  },
+  {
+   "title": "Reported Creepy Clown Sightings At Mass. Schools Prompt Police Response",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPX3VQZ1VhTXE2RXA1NVJFeGtud0tCYXplT25GVkhKVVE4TDRRU2FFNFBDdUNlRlZrbE1aVm5HMVpXWFFQZnFFUUFWcHlIbUx6S1FfeDQyWkJLOENaWnZzczA5QV9ONXhtVE9neEhOaHlSZEkxVmtwY0daVkVVMlRBOTVtZUVtempBY3VNeURHaUI1TWUxYWpHSFBmZDlKbXc?oc=5",
+   "snippet": "Reported Creepy Clown Sightings At Mass. Schools Prompt Police Response \u00a0\u00a0 CBS News",
+   "source": "CBS News",
+   "date": "2016-10-04T07:00:00+00:00",
+   "origin": "googlenews",
+   "score": 10,
+   "place": null,
+   "lat": null,
+   "lon": null,
+   "precision": null,
+   "verdict": "likely sighting"
   },
   {
    "title": "13-year-old boy from Mays Landing arrested for 'clown threats' to school",
@@ -579,8 +593,8 @@
   {
    "title": "Another 'creepy clown' sighting reported in North Little Rock",
    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNWnA3ekk1QmFVcjRPMDlrbHFtVmdsZEhKOEx0d0NDRDR5RUV4MDVMT1JKUUh4WElCQWo3YzU3SDZmSWVXUlZ4RC1Kc194N3c3bHU0WU9PRTB2R0FWamdsdF9WV1FqY1F0UUEwN3oyM3Z0N3luUXZHYXpUaW9mMjZTX01zbXhUOGIxbEpoTEJVTGtyc09CYlUxcWtucGJIcVRXSkFkWVFwUWhySmtCQXk4emZzOA?oc=5",
-   "snippet": "Another 'creepy clown' sighting reported in North Little Rock \u00a0\u00a0 thv11.com",
-   "source": "thv11.com",
+   "snippet": "Another 'creepy clown' sighting reported in North Little Rock \u00a0\u00a0 THV11",
+   "source": "THV11",
    "date": "2016-09-22T07:00:00+00:00",
    "origin": "googlenews",
    "score": 5,
@@ -714,20 +728,6 @@
    "lat": 44.94,
    "lon": -123.03,
    "precision": "city",
-   "verdict": "possible sighting"
-  },
-  {
-   "title": "North Carolina Residents on Edge After Multiple Clown Sightings",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQNkVrdGxFZVdSaVVnTkZ6SzZaSERuS0I0emdiOFNqTnplbUZ5UWtsbTZ4aHlUUjBfTWtpY2l5ZkhjNGN4dUtqa1QwRS15T3hlMlNfLW10QVZHZTJBbDYwN0o4N05sRGd6U1JKVHZzVER1SDRFVlhPbXFEQU1BVS1mNU8tUzBDaUJGZDRVcXh5TDRNNnBGUE1kRm9GSdIBoAFBVV95cUxNTkp5YXhaOXhKaElLUlllSF9xSjV2al9MRG1HRVBNUnF2Slg4RktaeDR0WnFQRHNjTlhXRTZiZ1Qzby1lRDdxbHFRS25FcVQyTEEtSWs1MVlMSTRjaDJSS0pCX1lad3lZS0QtR2gxWVFNVGxJWE5QVGxVblVIX0d4V0ZOa0hBRWhNTFR5a1pZY3VvdVNOYmRoNHB5dmpHZWNU?oc=5",
-   "snippet": "North Carolina Residents on Edge After Multiple Clown Sightings \u00a0\u00a0 ABC News - Breaking News, Latest News and Videos",
-   "source": "ABC News - Breaking News, Latest News and Videos",
-   "date": "2016-09-06T07:00:00+00:00",
-   "origin": "googlenews",
-   "score": 7,
-   "place": "North Carolina",
-   "lat": 35.63,
-   "lon": -79.81,
-   "precision": "state",
    "verdict": "possible sighting"
   },
   {
