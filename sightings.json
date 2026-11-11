@@ -1,12 +1,12 @@
 {
- "updated": "2026-11-10T22:46:46.750591+00:00",
- "count": 61,
+ "updated": "2026-11-11T04:21:28.257700+00:00",
+ "count": 62,
  "items": [
   {
    "title": "Man dressed as clown spotted prowling near primary school prompting police response",
    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPNk5jRmI1RTBSVTM4VkJQY3RfU1BzUVVLSDFYLW5KeXZEY051LTJ3ZEZtLXNINEVUYnpKNmJTTzVhcmNLS09BZnhzZ21YZzk1QXBEeGZVbklULVlLejJUMG1iVkVCb2RpVmhtRG44X3RBSll3WDEzNlptWWVoR1RKUjNWUWRHdGkwdl8zVEt5a0tnS0h6YmdHcU1SdTBfaVlBRHFKaw?oc=5",
-   "snippet": "Man dressed as clown spotted prowling near primary school prompting police response \u00a0\u00a0 Glasgow Times",
-   "source": "Glasgow Times",
+   "snippet": "Man dressed as clown spotted prowling near primary school prompting police response \u00a0\u00a0 The Argus",
+   "source": "The Argus",
    "date": "2026-10-28T07:00:00+00:00",
    "origin": "googlenews",
    "score": 8,
@@ -31,24 +31,10 @@
    "verdict": "mention"
   },
   {
-   "title": "Teen in clown costume accused of East St. Louis murder now in custody, police say",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPcHEyTDBsQmM3ZG84ZFhpcDM3dGlZNGY5WHl1ZVhFS3FJZnh0QW1nUFM2TF8tZ2xTN2daVlpLNG9senpGZWlSSzVaZXN4Q2ZlQWJCU2RKR003ZHNYZ0hmSVJXME94Vm5tMUVMTThqeDhGSmxPZ0FVb2QxQklaUkdwVW4wa3RnRFZvNXp6SUdyZDFHa2pUUnF1R0JzSHRyYVNQZkR2b3lzZFAybWJlQncw?oc=5",
-   "snippet": "Teen in clown costume accused of East St. Louis murder now in custody, police say \u00a0\u00a0 KMOV",
-   "source": "KMOV",
-   "date": "2026-08-04T07:00:00+00:00",
-   "origin": "googlenews",
-   "score": 5,
-   "place": "St. Louis, MO",
-   "lat": 38.63,
-   "lon": -90.2,
-   "precision": "city",
-   "verdict": "mention"
-  },
-  {
    "title": "Police arrest teen in clown costume accused of murder",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOdEZhSW5sYzlrSjM5X1h4dktjcENFekdibkt2RjN6aWVXT1JkdVQ1MmxLZjQwQURPSDRQc3FqYXR2MHN0am1TSzdpY0c4TEV3SXExX2lzeWxRNXF5ZXZiOUhPd29ZX0UxQkRyY0hmbEpNVEVCSG9HNnZOazBtSjkyb05mdkJHUDg?oc=5",
-   "snippet": "Police arrest teen in clown costume accused of murder \u00a0\u00a0 WBTV",
-   "source": "WBTV",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQM1pvWXpodDBGdEVTWTU3ejVOTzFrdXdrRmtwc1NEbThHQ2hJazVlQlIzNVlwVlFNSjhLRXozbFVINDBFMkVCMlFDTXBjbFhzendEWk1ZNWR1RmMxQzRaaTBPdWJMWHdTal9jTVBOVno3VnFnWXB6UnphZGZ2RWRRMVBEYWV4UlU?oc=5",
+   "snippet": "Police arrest teen in clown costume accused of murder \u00a0\u00a0 WCJB",
+   "source": "WCJB",
    "date": "2026-08-04T07:00:00+00:00",
    "origin": "googlenews",
    "score": 7,
@@ -98,6 +84,20 @@
    "lat": 25.76,
    "lon": -80.19,
    "precision": "city",
+   "verdict": "mention"
+  },
+  {
+   "title": "Miscellaneous (police record)",
+   "url": "https://www.dallasopendata.com/d/qv6i-rri7",
+   "snippet": "7624 INDIAN SPRINGS RD Single Family Residence - Occupied \u2014 mo: BACKPACK W/ CLOWN MASK  INSIDE",
+   "source": "Dallas, TX Open Data",
+   "date": "2022-09-18T11:34:39+00:00",
+   "origin": "socrata",
+   "place": "Dallas, TX",
+   "lat": 32.95136,
+   "lon": -96.7774,
+   "precision": "city",
+   "score": 4,
    "verdict": "mention"
   },
   {
@@ -297,6 +297,20 @@
    "verdict": "possible sighting"
   },
   {
+   "title": "40 - Other (police record)",
+   "url": "https://www.dallasopendata.com/d/qv6i-rri7",
+   "snippet": "6714 AMERICAN WAY Single Family Residence - Occupied \u2014 mo: SUSPECT MADE THREATS OVER THE PHONE IN A \"CLOWN VOICE\"",
+   "source": "Dallas, TX Open Data",
+   "date": "2016-10-04T17:47:09+00:00",
+   "origin": "socrata",
+   "place": "Dallas, TX",
+   "lat": 32.66679,
+   "lon": -96.88411,
+   "precision": "city",
+   "score": 4,
+   "verdict": "mention"
+  },
+  {
    "title": "Hysteria erupts over reports of late-night clown sighting, police say no actual clown reported",
    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5yQXpPNWp4Q0NtZzZ3UzhwSGNRZ3dlOGltVXVwMUZqWjdVTlk0eFZEXy1QS1IzckRVUjYxQjA1V291bWliRjdYdVFXUDJCMF9pRzYxbF9XY0hCT1VCbFN1dVdMSGpVcGVhY2tjVUhpS0x4dGtEUlNkbENCMW1OUmc?oc=5",
    "snippet": "Hysteria erupts over reports of late-night clown sighting, police say no actual clown reported \u00a0\u00a0 Elon News Network",
@@ -339,20 +353,6 @@
    "verdict": "possible sighting"
   },
   {
-   "title": "Creepy clown sightings reported in Eastern Iowa",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNa2pqcXhPbDBja09FalR4QjRGR0Vzek1oWF9aY2h6N0RIeDIwQTFibkNhYzlVN2QtVmxoTHVJbWhfSFVLUUFuQ2I0SkdNNVRQLVZJakxWVDY3ZXB1Z2UyUWJwVlVjYURZaUVQcy1YZkItN1RhR2dNcXZEMkV5aEc2SGUtMFIzR2E4dVY4TS03Mi1Hem02U25VOWpnMFJXZw?oc=5",
-   "snippet": "Creepy clown sightings reported in Eastern Iowa \u00a0\u00a0 KCRG",
-   "source": "KCRG",
-   "date": "2016-10-04T07:00:00+00:00",
-   "origin": "googlenews",
-   "score": 8,
-   "place": "Iowa",
-   "lat": 42.08,
-   "lon": -93.5,
-   "precision": "state",
-   "verdict": "possible sighting"
-  },
-  {
    "title": "Reported Creepy Clown Sightings At Mass. Schools Prompt Police Response",
    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPX3VQZ1VhTXE2RXA1NVJFeGtud0tCYXplT25GVkhKVVE4TDRRU2FFNFBDdUNlRlZrbE1aVm5HMVpXWFFQZnFFUUFWcHlIbUx6S1FfeDQyWkJLOENaWnZzczA5QV9ONXhtVE9neEhOaHlSZEkxVmtwY0daVkVVMlRBOTVtZUVtempBY3VNeURHaUI1TWUxYWpHSFBmZDlKbXc?oc=5",
    "snippet": "Reported Creepy Clown Sightings At Mass. Schools Prompt Police Response \u00a0\u00a0 CBS News",
@@ -365,6 +365,20 @@
    "lon": null,
    "precision": null,
    "verdict": "likely sighting"
+  },
+  {
+   "title": "Creepy clown sightings reported in Eastern Iowa",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNa2pqcXhPbDBja09FalR4QjRGR0Vzek1oWF9aY2h6N0RIeDIwQTFibkNhYzlVN2QtVmxoTHVJbWhfSFVLUUFuQ2I0SkdNNVRQLVZJakxWVDY3ZXB1Z2UyUWJwVlVjYURZaUVQcy1YZkItN1RhR2dNcXZEMkV5aEc2SGUtMFIzR2E4dVY4TS03Mi1Hem02U25VOWpnMFJXZw?oc=5",
+   "snippet": "Creepy clown sightings reported in Eastern Iowa \u00a0\u00a0 KCRG",
+   "source": "KCRG",
+   "date": "2016-10-04T07:00:00+00:00",
+   "origin": "googlenews",
+   "score": 8,
+   "place": "Iowa",
+   "lat": 42.08,
+   "lon": -93.5,
+   "precision": "state",
+   "verdict": "possible sighting"
   },
   {
    "title": "13-year-old boy from Mays Landing arrested for 'clown threats' to school",
