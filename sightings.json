@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T23:59:06.044283+00:00",
+ "updated": "2026-11-12T06:13:11.181664+00:00",
  "count": 60,
  "items": [
   {
@@ -59,20 +59,6 @@
    "verdict": "possible sighting"
   },
   {
-   "title": "Teens in clown masks arrested after harassing women in North Seattle",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBhVGVVSnJ2QUdoV1FteExjcFEwNXpEZEhmbklXcTV6cFVZRXpicjkyZGo3cGlGWG1QQlh3aUlpY2VKQnc3T1JGS2RoYVJqYjhkdVRVSXV2VjFiR0pkbkZyYkNUU1VDcnZqZ1pRUnhkSW9Rdw?oc=5",
-   "snippet": "Teens in clown masks arrested after harassing women in North Seattle \u00a0\u00a0 FOX 13 Seattle",
-   "source": "FOX 13 Seattle",
-   "date": "2025-09-15T07:00:00+00:00",
-   "origin": "googlenews",
-   "score": 6,
-   "place": "Seattle, WA",
-   "lat": 47.61,
-   "lon": -122.33,
-   "precision": "city",
-   "verdict": "possible sighting"
-  },
-  {
    "title": "Miami-Dade Police search for clown spotted with possible weapon over Palmetto Expressway",
    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQcE1QSEFIMXIwTGVXUWZhdjMyVk5GaDNpUl82UTcxejVPVlR3Rm9lbzhFVlJnMHRPRHZpVnNFTWxmT1ctWnVEenJTZDlEWE82UDA1QlVPemFzanBkZXlBRFpGTkNJV19yRXBaQ0IxREhpQUxfZy1LZjFfYlR1ZkNGVjNyeTNVLXNyYmd4NWN4ZTdoNzBuc2oxQnNYOF9MSVk2d3ZlV3dQM0Z6SzNZYWVNMGRPNExwWEtIcEZVNzNSRUtERHhDYktGR3pkQkNQd9IB1gFBVV95cUxQd0VXSENwOGV0SnRPNkJiell3U3JhVGF2cFRtR0Z5bjI2Wlg3WGVqU19TTTF6Z3BfSk5Jd1ZNYWR3YVYtMjI3U293RGJzVTZXSDdjZjdJVmNjQUp6SXN5bWJqeG5SVUFDaVg5RnFkYlVVa09HUVdHY3pnc3lFOS1CaHNyQWFGWEF1NjJVbmtaWG52czVNOWR3a05xUzVyUXpUcjd5NEk1eHlxRUhheTdOdmFjTXhicXhvWGFxX2otX3ZzSm1QOHR5ZXdWWGtXejduRUJKakdR?oc=5",
    "snippet": "Miami-Dade Police search for clown spotted with possible weapon over Palmetto Expressway \u00a0\u00a0 NBC 6 South Florida",
@@ -83,6 +69,20 @@
    "place": "Miami, FL",
    "lat": 25.76,
    "lon": -80.19,
+   "precision": "city",
+   "verdict": "mention"
+  },
+  {
+   "title": "Recent Oakland murder suspect was dressed as a clown when he shot his victim, police say",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNUGVkS3ZVT2FIcmx2QlMySllHSnJGc016SjRfcDJGM1RVV19kdmhZVkJ2SHBLamtCQWd2MEVGQ0hqS0tQa3Ezdi1QWEFnaUJ1MkNjSGpZdVQyNm1HMS1TcG91WDg1UXI5NThicjlZb0wtNjh0LXZPd3RTekppQWhyUllNTkZXV1VPQXFDSE1URTBLTUtVWGQtTzdZWDh1TkRIdXE3b0o4SWdIQi1yMWxBZTM1cUNmXy1SVDdKbktLYVJDTm1BYXc?oc=5",
+   "snippet": "Recent Oakland murder suspect was dressed as a clown when he shot his victim, police say \u00a0\u00a0 The Mercury News",
+   "source": "The Mercury News",
+   "date": "2024-08-08T07:00:00+00:00",
+   "origin": "googlenews",
+   "score": 4,
+   "place": "Oakland, CA",
+   "lat": 37.8,
+   "lon": -122.27,
    "precision": "city",
    "verdict": "mention"
   },
@@ -99,20 +99,6 @@
    "lon": -82.45,
    "precision": "state",
    "verdict": "mention"
-  },
-  {
-   "title": "Facebook filled with reports of 'creepy clown' sightings in southwest Oklahoma City",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNTnlkUWN2eWd5Z1lFS2xkODIwYlo0a0tqVUVwU2hON01VZlVUM2Y2UXpUVjhjdUpTZ0JwTFhTM1dNM1RvU0ExWVJkSFg3TXlrX1FENWZQMjRPX3VEZmNBSkNGdmZya3V1RTBtWXVQdE42VWkyangza0FGN0x3TDAxa2hTN3hFcXRPZFllSVU5MThqcjNJdEVwZnFCcFkwWWxkdDBxOU5fdUI5RUJCdzQySTNjR1F4U3lza0E?oc=5",
-   "snippet": "Facebook filled with reports of 'creepy clown' sightings in southwest Oklahoma City \u00a0\u00a0 KOCO",
-   "source": "KOCO",
-   "date": "2018-08-03T08:39:12+00:00",
-   "origin": "googlenews",
-   "score": 8,
-   "place": "Oklahoma City, OK",
-   "lat": 35.47,
-   "lon": -97.52,
-   "precision": "city",
-   "verdict": "possible sighting"
   },
   {
    "title": "KCKPD investigating reported clown sighting",
@@ -507,6 +493,20 @@
    "verdict": "possible sighting"
   },
   {
+   "title": "Syracuse Police beefing up patrols on city's North Side after suspicious clown sightings",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPU3o5YlZWb0ZnVFBQUUlrWDctRWJPWHp5SEc2Y3RKZmVWZ2tlSE5aNXRVNnpVVnlGNnVpNExKM0Z6ejFMZGZLQ2RNcnZaMTNTd09CemVwMHlycWFkTG02emo0dG1vUzZYNTVDb0tzOV85aDkyS1VzR0U5N1BqSXQtRVcydHg2SmgxYTkxaVRlM18wbWxPVWhnV0J1WGM2Z2tvQlprZGtKT3RZNVVQN0EyNnJIM2Z2WGQwbWRJQ0dB?oc=5",
+   "snippet": "Syracuse Police beefing up patrols on city's North Side after suspicious clown sightings \u00a0\u00a0 WSTM",
+   "source": "WSTM",
+   "date": "2016-09-30T07:00:00+00:00",
+   "origin": "googlenews",
+   "score": 8,
+   "place": "Syracuse, NY",
+   "lat": 43.05,
+   "lon": -76.15,
+   "precision": "city",
+   "verdict": "possible sighting"
+  },
+  {
    "title": "More clown sightings reported in Salisbury",
    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPcHFtWHVhZTRhUFNNV25NZ3dxUGtWdXZ5bXJBV0gza1Z2bTc3ZmdJNnVaRnF3VzFoMENJVkNCZldzXzB4QVg5M3ZxQWk2MVpSM1Jhc0QyQ0FwYk5abm5jdlRLVFJfdFJXck9pV1V4ZkdJc1hvYURyZks0bFZ5OHhucEt1LWtfRzI1SDBJdUJqUGo2MTlTZ1J1WHY2Tm1wUDl2M0E?oc=5",
    "snippet": "More clown sightings reported in Salisbury \u00a0\u00a0 DelmarvaNow.com",
@@ -549,20 +549,6 @@
    "verdict": "possible sighting"
   },
   {
-   "title": "Salisbury police report clown sightings",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQckZSeWp5Qjl5SVNBZjJDczdwYXJMTE9SeUxXQTNYVFY2elBYTUJDTzVJMEo4V0RqZDE0WFVxUDdUdkh3WWkwNDJhVU9FSmRGaXNJZEVFdWEzZXE5VWhtbEhzUlpHbFAyS0lzbmd2MHZRMVNSWjl4dnZVWkJVdWhPa1FFQlVyMnVubGZ1Q1V6cTRIWFNWdDQ0SjdpLUtzLVp3b1NqOUNZOXlyNWhwOTFKTFJWR2c?oc=5",
-   "snippet": "Salisbury police report clown sightings \u00a0\u00a0 DelmarvaNow.com",
-   "source": "DelmarvaNow.com",
-   "date": "2016-09-27T07:00:00+00:00",
-   "origin": "googlenews",
-   "score": 8,
-   "place": null,
-   "lat": null,
-   "lon": null,
-   "precision": null,
-   "verdict": "possible sighting"
-  },
-  {
    "title": "Suspicious Clown Sightings Under Investigation By N.J. Police",
    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOM3FlVzkzaUI3NDNFekhxRWhrUXBocjBxdzhPZGZfVm5XYnFYdVQxUktlNW1qN2l0OUJoQ2pnU3gxaU5uVUQ3QUxPazNJaUlKTlNmRWJxd0RqRzV6aUo5czR0bHNNRVVuQnJNWW1CZUFfSERsUlUzb2dsWUhUSWhJWWxVTlJTZHZxQzBsN1hNTDBEVDg5ZUpJWTRiTHUxa0JN?oc=5",
    "snippet": "Suspicious Clown Sightings Under Investigation By N.J. Police \u00a0\u00a0 Patch",
@@ -574,6 +560,20 @@
    "lat": null,
    "lon": null,
    "precision": null,
+   "verdict": "possible sighting"
+  },
+  {
+   "title": "Creepy Clown Sightings Have Spread to Florida",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOZm13WVRXOEp5QkNBLTRHX0wzWHk4Z0pXUDYyaGR0LVNDWTFpTG5pb0tkX1dWd19YaW10RlJaYkJvS2U5WjYxWTNVVTRsQk1UbTV0NjBxNjBEcGp3MExRdUxCS1Q2Sk1GOTNDT2xaQkhTWW9fMW1LQ1JaU0lZS0daTkdPeXJxWFlNSktoT2xVa3JEUmFPM3dhVzhTTnBJa001VVhj0gGrAUFVX3lxTE1oLVU1YXNxZy00d0ZoQVVheGJienpYeDBBdFg0WTI4R2RnZndqMHRadG94bE4xN2puVFlwZzFGUWlOSEEtUnRQVHdYcFdZeGJpVTEwRjJWd3JiSW83dFZ6aUNxeTctRUZDcWhjUzRSdzJEaEUyZEZyV0tJT2ZYdVQ4bmRLSFQ2aDVZc09ydW9MWkNCeHlsOXV2STY3NUpsUlNHUmtRLUhNNkx5cw?oc=5",
+   "snippet": "Creepy Clown Sightings Have Spread to Florida \u00a0\u00a0 NBC 6 South Florida",
+   "source": "NBC 6 South Florida",
+   "date": "2016-09-26T07:00:00+00:00",
+   "origin": "googlenews",
+   "score": 6,
+   "place": "Florida",
+   "lat": 28.63,
+   "lon": -82.45,
+   "precision": "state",
    "verdict": "possible sighting"
   },
   {
@@ -731,20 +731,6 @@
    "verdict": "mention"
   },
   {
-   "title": "Creepy details released in South Carolina clown sightings",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOc24yR1lQeUZPbnU3cDYxSmVSaUJFQ0czeEJEVGUtLUFVSDJSOG5uSWI1RGNwMjFnWTg1b1JfMnM1YTRaSVJFNGRsYmtSTXJ6TjdXcjVuVXJ3QnZFMTc2X1VaTmctdTRtdmRzSnAwU0kxcUliWC1NUEpRbDg4U1FGaER4STV5QTRndW5BcA?oc=5",
-   "snippet": "Creepy details released in South Carolina clown sightings \u00a0\u00a0 CBS News",
-   "source": "CBS News",
-   "date": "2016-08-31T07:00:00+00:00",
-   "origin": "googlenews",
-   "score": 6,
-   "place": "South Carolina",
-   "lat": 33.82,
-   "lon": -80.94,
-   "precision": "state",
-   "verdict": "possible sighting"
-  },
-  {
    "title": "South Carolina clown sightings: Creepy menace or unfunny hoax?",
    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9XMUg5Wl9TdTJoNEpZcEtEaFFhanBJc1hIUUJXcnJfMndoQUR5UzZQallRQ3dOYVd5OV9hWW1nZnJlM0pkckllRlFiakZGRmdMUkZvdFEzaEEzTHdPSEVGcGsyR1M5RjdwYkE?oc=5",
    "snippet": "South Carolina clown sightings: Creepy menace or unfunny hoax? \u00a0\u00a0 CNN",
@@ -757,6 +743,20 @@
    "lon": -80.94,
    "precision": "state",
    "verdict": "mention"
+  },
+  {
+   "title": "Creepy details released in South Carolina clown sightings",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOc24yR1lQeUZPbnU3cDYxSmVSaUJFQ0czeEJEVGUtLUFVSDJSOG5uSWI1RGNwMjFnWTg1b1JfMnM1YTRaSVJFNGRsYmtSTXJ6TjdXcjVuVXJ3QnZFMTc2X1VaTmctdTRtdmRzSnAwU0kxcUliWC1NUEpRbDg4U1FGaER4STV5QTRndW5BcA?oc=5",
+   "snippet": "Creepy details released in South Carolina clown sightings \u00a0\u00a0 CBS News",
+   "source": "CBS News",
+   "date": "2016-08-31T07:00:00+00:00",
+   "origin": "googlenews",
+   "score": 6,
+   "place": "South Carolina",
+   "lat": 33.82,
+   "lon": -80.94,
+   "precision": "state",
+   "verdict": "possible sighting"
   },
   {
    "title": "Creepy Clown Sightings in South Carolina Cause a Frenzy (Published 2016)",
