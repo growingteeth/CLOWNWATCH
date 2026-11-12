@@ -1,21 +1,7 @@
 {
- "updated": "2026-11-12T06:13:11.181664+00:00",
- "count": 60,
+ "updated": "2026-11-12T19:28:46.179324+00:00",
+ "count": 63,
  "items": [
-  {
-   "title": "Man dressed as clown spotted prowling near Linwood school prompting police response",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxORE1hUGJrUFBXT3FRQ0NVVExJZnMyR3pUTG1BZ3dZV055NHRKZzd6RzRSQUxuRVVSc0luMmREVGNBNVluUXJ1WGFNNUZ6X1VXVm5lY0UtSnlWd1NlUGt3ZmlnM0t5bnNVZXhFZnBrQmhmVC16SnluclRZczZYMmZEMFl3ZUNOd3VwZDBUNlM2QkVjOVBKc0FPbXV4bkZ2RnJxUGUw?oc=5",
-   "snippet": "Man dressed as clown spotted prowling near Linwood school prompting police response \u00a0\u00a0 Renfrewshire Gazette",
-   "source": "Renfrewshire Gazette",
-   "date": "2026-10-28T07:00:00+00:00",
-   "origin": "googlenews",
-   "score": 8,
-   "place": null,
-   "lat": null,
-   "lon": null,
-   "precision": null,
-   "verdict": "possible sighting"
-  },
   {
    "title": "15-year-old dressed as a clown stabbed a man to death in random attack, East St. Louis, Illinois, police say",
    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxObHVHTUkzV20wWkxmMUgzbUl6cHVvT3R2QzdZUkE0cXk4WUtQV2hfdjZlTGwyYkdzdGk5QkhoVkdrYjdpa1prYV9hQmh3VDIwcXRRcHFURU5sY1hMTlJCYzczd1RPd3pwMUIwdVpDZzc4YUkyOFZwSGJBaUNqWnZIUFlva3FyWHZUd1pTNll4dTYwVEE?oc=5",
@@ -31,10 +17,24 @@
    "verdict": "mention"
   },
   {
+   "title": "Clown Costume Killing: Police Arrest Teen In Slaying| Illinois Patch",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNTE1CcGdHTGk4T0YtYmFQY2JVelYya3UxT2ZkbnUtVW5SRWs2RVk2Y1Y5WV8yeFFOYVgxUk15eGtZa0Vzd2RHOG9ySGM3V1FCSjJSem9wMzRSS2tGQUtTWG9LencyRGVtbTFnLVhCMmtGRXhZRmxnV0tPaFBLUlFmQkplRGtTZW10akthdmdHQUxOREk1dlNwVjNsT09QaU5EZnc?oc=5",
+   "snippet": "Clown Costume Killing: Police Arrest Teen In Slaying| Illinois Patch \u00a0\u00a0 Patch",
+   "source": "Patch",
+   "date": "2026-08-05T07:00:00+00:00",
+   "origin": "googlenews",
+   "score": 7,
+   "place": "Illinois",
+   "lat": 40.1,
+   "lon": -89.2,
+   "precision": "state",
+   "verdict": "possible sighting"
+  },
+  {
    "title": "Police arrest teen in clown costume accused of murder",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQM1pvWXpodDBGdEVTWTU3ejVOTzFrdXdrRmtwc1NEbThHQ2hJazVlQlIzNVlwVlFNSjhLRXozbFVINDBFMkVCMlFDTXBjbFhzendEWk1ZNWR1RmMxQzRaaTBPdWJMWHdTal9jTVBOVno3VnFnWXB6UnphZGZ2RWRRMVBEYWV4UlU?oc=5",
-   "snippet": "Police arrest teen in clown costume accused of murder \u00a0\u00a0 WCJB",
-   "source": "WCJB",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNQ1RBYW03Mkh1UEZpaVBkcVhMMzktT3VGZlcwUHRYVmdRMWJQOHJZbzVXNktqYXl0anNrZzNEbi0yU2pmR0FDUlJ6aFN0N3llbmRINko5VkFIcXFNWnM5c0hNWmFJajh4Mzd6OVNkZUZyeVNhcnFib3MzZHBKei1wQ1Nsa3FNQQ?oc=5",
+   "snippet": "Police arrest teen in clown costume accused of murder \u00a0\u00a0 WCTV",
+   "source": "WCTV",
    "date": "2026-08-04T07:00:00+00:00",
    "origin": "googlenews",
    "score": 7,
@@ -84,6 +84,20 @@
    "lat": 37.8,
    "lon": -122.27,
    "precision": "city",
+   "verdict": "mention"
+  },
+  {
+   "title": "Miscellaneous (police record)",
+   "url": "https://www.dallasopendata.com/d/qv6i-rri7",
+   "snippet": "7624 INDIAN SPRINGS RD Single Family Residence - Occupied \u2014 mo: BACKPACK W/ CLOWN MASK  INSIDE",
+   "source": "Dallas, TX Open Data",
+   "date": "2022-09-18T11:34:39+00:00",
+   "origin": "socrata",
+   "place": "Dallas, TX",
+   "lat": 32.95136,
+   "lon": -96.7774,
+   "precision": "city",
+   "score": 4,
    "verdict": "mention"
   },
   {
@@ -241,6 +255,20 @@
    "verdict": "mention"
   },
   {
+   "title": "Police arrest Maryland teens in connection with clown-related threats",
+   "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNN1FxNUFDMERENEc2bnZacTg1bEltSGxmaUNSd2hBdnhhQ3QzcmlndFkwMTlPLUlMYUhzMGVVcV9pQko1NFBBMTVSdFZaV0RERkZTUFZhV3ZLT2RlLVZJUERtM2pleXNPbjI1WXJHODhFTXA3aVVQN0RlQndjRzh2Zi10QlFhcGtYRGc1bFlqaEc4S1c5MXM4UHVZY3RSenNBOUdSUmlwd2FTc1lDbjVWOVhhems3bjNoeHdFcG5sQndiYUN5TG5za052R05iX09jeV84SHptU1RDdmVJdE5ESjdYcVhKMGp3YUhJT0U0TGIzVEhmakdLWE5pNHZ4Y2lFcWtXQ3NvSGhoZDg?oc=5",
+   "snippet": "Police arrest Maryland teens in connection with clown-related threats \u00a0\u00a0 The Washington Post",
+   "source": "The Washington Post",
+   "date": "2016-10-06T07:00:00+00:00",
+   "origin": "googlenews",
+   "score": 4,
+   "place": "Washington, DC",
+   "lat": 38.91,
+   "lon": -77.04,
+   "precision": "city",
+   "verdict": "mention"
+  },
+  {
    "title": "Texas School District on Lockdown After 2 Clown Sightings",
    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5YSVZMZk5nUkNfSDQ0dE9TbUFKOUx2YjVzcmNUNG1xeGd5dW5kRHhONWF1Uk5Fak5JbVlRNlpDV25NU180MmVZWllmTzFPNWEwVGxUMlZrU1QzMUxlLVZkV1I1QQ?oc=5",
    "snippet": "Texas School District on Lockdown After 2 Clown Sightings \u00a0\u00a0 Time Magazine",
@@ -267,6 +295,20 @@
    "lon": null,
    "precision": null,
    "verdict": "possible sighting"
+  },
+  {
+   "title": "40 - Other (police record)",
+   "url": "https://www.dallasopendata.com/d/qv6i-rri7",
+   "snippet": "6714 AMERICAN WAY Single Family Residence - Occupied \u2014 mo: SUSPECT MADE THREATS OVER THE PHONE IN A \"CLOWN VOICE\"",
+   "source": "Dallas, TX Open Data",
+   "date": "2016-10-04T17:47:09+00:00",
+   "origin": "socrata",
+   "place": "Dallas, TX",
+   "lat": 32.66679,
+   "lon": -96.88411,
+   "precision": "city",
+   "score": 4,
+   "verdict": "mention"
   },
   {
    "title": "Hysteria erupts over reports of late-night clown sighting, police say no actual clown reported",
@@ -339,18 +381,18 @@
    "verdict": "possible sighting"
   },
   {
-   "title": "13-year-old boy from Mays Landing arrested for 'clown threats' to school",
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOQ045SEJ4U09QallGODVwd0ZtNGNiQTJMZTZ4X0MzQ2NLbkVHakMwaFRHc3lxLXFBUHZMQnFaMlpucWt6VjFlZlpoMUo4WUMwNjdTczJ5NDY3VEZTWldqM1B3aFRFOENDNlpFbWdvcFF4NnY3UDZYQ243dmhuS3llYTJhSU5TQkZpdHpCYnZBUdIBlAFBVV95cUxNMEVMRUdodWhXcnAyN1ZHREpHZmFha3RYUGpPQjBXLWxiem9SRkdUUHYzUXl0VGFiR29XX2RmR2NfbzV0U08wZ1hNT083d1VGNGF0T1A0VE5CRUZSaUZIQk5ZMDhNWkxCdVhYRk03NlZMYWVzemxtRHpmbFg4bUdpZENJZU44Tk5uWm5mTllGRHA2bi1l?oc=5",
-   "snippet": "13-year-old boy from Mays Landing arrested for 'clown threats' to school \u00a0\u00a0 6abc Philadelphia",
-   "source": "6abc Philadelphia",
+   "title": "Temecula Becomes Latest City To Join Nationwide Wave Of Reported Clown Sightings",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOTXVwaUNfOS00ZncybDVZakNXSkh0WWRlaXdqbkJVTVVFVm42TlVEaE5UekI1S3VGc1lPZXdHdWl6NTNNZENKeVZWbHBkM2pnWi1TQThTOXZ2UkFiTFV2Zmt2MGpNVVVHMHBCcEMxVXJLTmllTE4tTmt2WHpTNkpsMFNiVlZ2V21LNmNQT1hTZTN3Rmg4MlJRREZNZWZPVFFCUzJQdmJoSGxWTlllZjNSYUJ1VU5lQmZCalg3R2R3?oc=5",
+   "snippet": "Temecula Becomes Latest City To Join Nationwide Wave Of Reported Clown Sightings \u00a0\u00a0 CBS News",
+   "source": "CBS News",
    "date": "2016-10-04T07:00:00+00:00",
    "origin": "googlenews",
-   "score": 4,
-   "place": "Philadelphia, PA",
-   "lat": 39.95,
-   "lon": -75.17,
-   "precision": "city",
-   "verdict": "mention"
+   "score": 8,
+   "place": null,
+   "lat": null,
+   "lon": null,
+   "precision": null,
+   "verdict": "possible sighting"
   },
   {
    "title": "Creepy Clown Sightings, Threats Fueling 'Panic' Across Pennsylvania, State Police Say",
@@ -493,25 +535,11 @@
    "verdict": "possible sighting"
   },
   {
-   "title": "Syracuse Police beefing up patrols on city's North Side after suspicious clown sightings",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPU3o5YlZWb0ZnVFBQUUlrWDctRWJPWHp5SEc2Y3RKZmVWZ2tlSE5aNXRVNnpVVnlGNnVpNExKM0Z6ejFMZGZLQ2RNcnZaMTNTd09CemVwMHlycWFkTG02emo0dG1vUzZYNTVDb0tzOV85aDkyS1VzR0U5N1BqSXQtRVcydHg2SmgxYTkxaVRlM18wbWxPVWhnV0J1WGM2Z2tvQlprZGtKT3RZNVVQN0EyNnJIM2Z2WGQwbWRJQ0dB?oc=5",
-   "snippet": "Syracuse Police beefing up patrols on city's North Side after suspicious clown sightings \u00a0\u00a0 WSTM",
-   "source": "WSTM",
+   "title": "Creepy Clown Sightings Reported In Brentwood, North Babylon",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1OdXhiQlhQSjBKb0ZxYUd1bGNQZzAxQmsxbjBRYzl1WGVJLS1NU3dYNHFjTG84Q1JUUmVmRE1BcDA0M0FFbzZQWkJGeVZwRDctUDBjbXRCVlRMS2pNQmtpTUprTFdNUHl5aFhERHA3Ykk?oc=5",
+   "snippet": "Creepy Clown Sightings Reported In Brentwood, North Babylon \u00a0\u00a0 CBS News",
+   "source": "CBS News",
    "date": "2016-09-30T07:00:00+00:00",
-   "origin": "googlenews",
-   "score": 8,
-   "place": "Syracuse, NY",
-   "lat": 43.05,
-   "lon": -76.15,
-   "precision": "city",
-   "verdict": "possible sighting"
-  },
-  {
-   "title": "More clown sightings reported in Salisbury",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPcHFtWHVhZTRhUFNNV25NZ3dxUGtWdXZ5bXJBV0gza1Z2bTc3ZmdJNnVaRnF3VzFoMENJVkNCZldzXzB4QVg5M3ZxQWk2MVpSM1Jhc0QyQ0FwYk5abm5jdlRLVFJfdFJXck9pV1V4ZkdJc1hvYURyZks0bFZ5OHhucEt1LWtfRzI1SDBJdUJqUGo2MTlTZ1J1WHY2Tm1wUDl2M0E?oc=5",
-   "snippet": "More clown sightings reported in Salisbury \u00a0\u00a0 DelmarvaNow.com",
-   "source": "DelmarvaNow.com",
-   "date": "2016-09-29T07:00:00+00:00",
    "origin": "googlenews",
    "score": 8,
    "place": null,
@@ -521,11 +549,11 @@
    "verdict": "possible sighting"
   },
   {
-   "title": "At least six creepy clown sightings reported in Central VA overnight",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQRlNDUUVpSXcwSFdrcDM3dDZ5Q1ozUXk3enlFaE9yd0duTU1ITng3c25ub295ZGR1VTNBallGY1JPWTRNTnB2SUk2T2xBSlo5TFhBS2dBMzVsUThqVGh2TTBBTFp2MFNacFc5QkpCWDBCLXZpQllJSE53NGQzeVR6VnI0V3ZFYy1ZU1RuNWxHZEJjMlVHbVFqUkRTN3VvXzZJakZ4TjBHSWFpcFJnbkEwRkg0NNIBxgFBVV95cUxQekpzWkQ3aWpmeFhKZHRORmM2ZkprQXI5X1JaSDZmbmhBc3c4LW9VVXhQNXctOG5kTzhvMGdjSndsTURXaWlvdzdFSlBZdEhIQkVneENOUkdLUmNYVW5DcnBJV20wVk1WOEEtRnp4WDBtMk9VMkZfaFF2LWxlQVBBS094bkFaUFZsZUJHeEdzeVFtenA1S280Zlo1Q3FJQkxsbkNxNkVWVFdpeFV1TDdpbndJSVVzNzNNNDVHMjBtOG5LQUQ5ekE?oc=5",
-   "snippet": "At least six creepy clown sightings reported in Central VA overnight \u00a0\u00a0 WWBT",
-   "source": "WWBT",
-   "date": "2016-09-28T07:00:00+00:00",
+   "title": "More clown sightings reported in Salisbury",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPcHFtWHVhZTRhUFNNV25NZ3dxUGtWdXZ5bXJBV0gza1Z2bTc3ZmdJNnVaRnF3VzFoMENJVkNCZldzXzB4QVg5M3ZxQWk2MVpSM1Jhc0QyQ0FwYk5abm5jdlRLVFJfdFJXck9pV1V4ZkdJc1hvYURyZks0bFZ5OHhucEt1LWtfRzI1SDBJdUJqUGo2MTlTZ1J1WHY2Tm1wUDl2M0E?oc=5",
+   "snippet": "More clown sightings reported in Salisbury \u00a0\u00a0 DelmarvaNow.com",
+   "source": "DelmarvaNow.com",
+   "date": "2016-09-29T07:00:00+00:00",
    "origin": "googlenews",
    "score": 8,
    "place": null,
@@ -549,6 +577,20 @@
    "verdict": "possible sighting"
   },
   {
+   "title": "Salisbury police report clown sightings",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQckZSeWp5Qjl5SVNBZjJDczdwYXJMTE9SeUxXQTNYVFY2elBYTUJDTzVJMEo4V0RqZDE0WFVxUDdUdkh3WWkwNDJhVU9FSmRGaXNJZEVFdWEzZXE5VWhtbEhzUlpHbFAyS0lzbmd2MHZRMVNSWjl4dnZVWkJVdWhPa1FFQlVyMnVubGZ1Q1V6cTRIWFNWdDQ0SjdpLUtzLVp3b1NqOUNZOXlyNWhwOTFKTFJWR2c?oc=5",
+   "snippet": "Salisbury police report clown sightings \u00a0\u00a0 DelmarvaNow.com",
+   "source": "DelmarvaNow.com",
+   "date": "2016-09-27T07:00:00+00:00",
+   "origin": "googlenews",
+   "score": 8,
+   "place": null,
+   "lat": null,
+   "lon": null,
+   "precision": null,
+   "verdict": "possible sighting"
+  },
+  {
    "title": "Suspicious Clown Sightings Under Investigation By N.J. Police",
    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOM3FlVzkzaUI3NDNFekhxRWhrUXBocjBxdzhPZGZfVm5XYnFYdVQxUktlNW1qN2l0OUJoQ2pnU3gxaU5uVUQ3QUxPazNJaUlKTlNmRWJxd0RqRzV6aUo5czR0bHNNRVVuQnJNWW1CZUFfSERsUlUzb2dsWUhUSWhJWWxVTlJTZHZxQzBsN1hNTDBEVDg5ZUpJWTRiTHUxa0JN?oc=5",
    "snippet": "Suspicious Clown Sightings Under Investigation By N.J. Police \u00a0\u00a0 Patch",
@@ -560,20 +602,6 @@
    "lat": null,
    "lon": null,
    "precision": null,
-   "verdict": "possible sighting"
-  },
-  {
-   "title": "Creepy Clown Sightings Have Spread to Florida",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOZm13WVRXOEp5QkNBLTRHX0wzWHk4Z0pXUDYyaGR0LVNDWTFpTG5pb0tkX1dWd19YaW10RlJaYkJvS2U5WjYxWTNVVTRsQk1UbTV0NjBxNjBEcGp3MExRdUxCS1Q2Sk1GOTNDT2xaQkhTWW9fMW1LQ1JaU0lZS0daTkdPeXJxWFlNSktoT2xVa3JEUmFPM3dhVzhTTnBJa001VVhj0gGrAUFVX3lxTE1oLVU1YXNxZy00d0ZoQVVheGJienpYeDBBdFg0WTI4R2RnZndqMHRadG94bE4xN2puVFlwZzFGUWlOSEEtUnRQVHdYcFdZeGJpVTEwRjJWd3JiSW83dFZ6aUNxeTctRUZDcWhjUzRSdzJEaEUyZEZyV0tJT2ZYdVQ4bmRLSFQ2aDVZc09ydW9MWkNCeHlsOXV2STY3NUpsUlNHUmtRLUhNNkx5cw?oc=5",
-   "snippet": "Creepy Clown Sightings Have Spread to Florida \u00a0\u00a0 NBC 6 South Florida",
-   "source": "NBC 6 South Florida",
-   "date": "2016-09-26T07:00:00+00:00",
-   "origin": "googlenews",
-   "score": 6,
-   "place": "Florida",
-   "lat": 28.63,
-   "lon": -82.45,
-   "precision": "state",
    "verdict": "possible sighting"
   },
   {
@@ -731,18 +759,18 @@
    "verdict": "mention"
   },
   {
-   "title": "South Carolina clown sightings: Creepy menace or unfunny hoax?",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9XMUg5Wl9TdTJoNEpZcEtEaFFhanBJc1hIUUJXcnJfMndoQUR5UzZQallRQ3dOYVd5OV9hWW1nZnJlM0pkckllRlFiakZGRmdMUkZvdFEzaEEzTHdPSEVGcGsyR1M5RjdwYkE?oc=5",
-   "snippet": "South Carolina clown sightings: Creepy menace or unfunny hoax? \u00a0\u00a0 CNN",
-   "source": "CNN",
-   "date": "2016-08-31T07:00:00+00:00",
+   "title": "\u2018This is serious\u2019 Creepy clown sightings spread across South Carolina",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPOGlWZ3RsX3VfZ2lXVEpILWl4NlU1MGcxZmRiYmx1c1FBa2t0OW1oRm1YX2lna0U3TWlMMWJ2U2hnajdlY0cxM1h1MVJQcHh4bEQ4aE1EYWtqSlJkemJnWE4ydllySVV1OUdlOWMzaTRMdGZXQlVwRG1KMEFUVEg0UjdicE13eWhGZ1ZpbjZQM3hPY2x6OGfSAZsBQVVfeXFMTTFOLUVjNU94LWRZRDE0WVo3VmVDYklMVjF3ZGZySW8zVDljTDV4R2U2ckNYTnF3UHM0ejdqNmxoUnJqMnppSkhuOFZGcVZBQ3hGeDJxZnJsbkNpTFN3czJkSDZmdTljeHlOY3ZkUlp2OWhrWV85YjFPT19iZ1p4Q3hTb0Ezei1Db1FXNHRGSFRLaGhrY2NVS3N6MWc?oc=5",
+   "snippet": "\u2018This is serious\u2019 Creepy clown sightings spread across South Carolina \u00a0\u00a0 Fox 59",
+   "source": "Fox 59",
+   "date": "2016-09-02T07:00:00+00:00",
    "origin": "googlenews",
-   "score": 5,
+   "score": 6,
    "place": "South Carolina",
    "lat": 33.82,
    "lon": -80.94,
    "precision": "state",
-   "verdict": "mention"
+   "verdict": "possible sighting"
   },
   {
    "title": "Creepy details released in South Carolina clown sightings",
@@ -757,6 +785,20 @@
    "lon": -80.94,
    "precision": "state",
    "verdict": "possible sighting"
+  },
+  {
+   "title": "South Carolina clown sightings: Creepy menace or unfunny hoax?",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9XMUg5Wl9TdTJoNEpZcEtEaFFhanBJc1hIUUJXcnJfMndoQUR5UzZQallRQ3dOYVd5OV9hWW1nZnJlM0pkckllRlFiakZGRmdMUkZvdFEzaEEzTHdPSEVGcGsyR1M5RjdwYkE?oc=5",
+   "snippet": "South Carolina clown sightings: Creepy menace or unfunny hoax? \u00a0\u00a0 CNN",
+   "source": "CNN",
+   "date": "2016-08-31T07:00:00+00:00",
+   "origin": "googlenews",
+   "score": 5,
+   "place": "South Carolina",
+   "lat": 33.82,
+   "lon": -80.94,
+   "precision": "state",
+   "verdict": "mention"
   },
   {
    "title": "Creepy Clown Sightings in South Carolina Cause a Frenzy (Published 2016)",
