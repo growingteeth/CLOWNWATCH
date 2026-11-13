@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T13:50:39.411018+00:00",
+ "updated": "2026-11-13T23:11:54.066304+00:00",
  "count": 63,
  "items": [
   {
@@ -73,20 +73,6 @@
    "verdict": "mention"
   },
   {
-   "title": "Clown sightings receive mixed reactions in Annandale, Minnesota",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQSkJic1p2ZEJGS014SnNzT3R0cHA2NnM3WHdDUzlqTUhhcjRqSkcySkQwQ0xLemhMcGduLVZoaTd1YS0yRXRzVEtfRXQtaXhoWTNIWU8wbWpESzdHNk1VLWFGMXVVS2lFQ3cxOF9qdWZXcWh0M0gxYTBOa1VmNUVHU2szNzJUTW5sWkc3VTdOX0Fxdnc?oc=5",
-   "snippet": "Clown sightings receive mixed reactions in Annandale, Minnesota \u00a0\u00a0 FOX 9 Minneapolis-St. Paul",
-   "source": "FOX 9 Minneapolis-St. Paul",
-   "date": "2021-05-03T07:00:00+00:00",
-   "origin": "googlenews",
-   "score": 6,
-   "place": "Minneapolis, MN",
-   "lat": 44.98,
-   "lon": -93.27,
-   "precision": "city",
-   "verdict": "possible sighting"
-  },
-  {
    "title": "KCKPD investigating reported clown sighting",
    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPQkx2WnBiOW9OYkhRRlpaa3QtZkpPdWc5b1NSeHZ2QzN0V0R5REsxZkdJRWNlbnVZUDE3U2xIOXdCLU1oMjF5aFJEVEpyeW1xV3NlUDN3cTlDTzdDbzQ3SWtiNkhkYm1FVHhLQ29KRkZRako2WjVlbmdUSzhmQkJreF84S1RxM0Uxem5SZ2Z3?oc=5",
    "snippet": "KCKPD investigating reported clown sighting \u00a0\u00a0 KSHB 41 Kansas City",
@@ -97,6 +83,20 @@
    "place": "Kansas City, KS",
    "lat": 39.11,
    "lon": -94.63,
+   "precision": "city",
+   "verdict": "mention"
+  },
+  {
+   "title": "Man dressed as clown arrested for sleeping in a stranger's bedroom in Vermont",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNaHpIWlhva3BKc2VxWjFtcEJ6ZlRsWktkRFVsVmNhYjZYSTJxQjMwbzQxcHo0Z2pFNUpiM1NsTjBabzgweEdhcFoybWdoYnpPUmJ0TnktMlh0VWhiMG5acUdCN0FJWXNSNEx2ODJVQ1Z1bFVfWjVTMmJOVTRLQ29HZGczQW42UDN00gGOAUFVX3lxTE1tU093SDcwaGI5MVI4azZzbF9kdzJBOVBYMEkyQWVGRHZ4c0o2bkRBWVhtVUNkSXJSUDNsUjFYeFNHdUMzQVdQY29zTTBCUGtZT05odzJ6Mk40MEd3TFA0SnBSSmlPb09ZWE5qblAyemZmREl6R1h1MlNtX0RBZWVyZ0Y5Z3FqdV9vUGRHS2c?oc=5",
+   "snippet": "Man dressed as clown arrested for sleeping in a stranger's bedroom in Vermont \u00a0\u00a0 ABC7 New York",
+   "source": "ABC7 New York",
+   "date": "2017-10-31T07:00:00+00:00",
+   "origin": "googlenews",
+   "score": 4,
+   "place": "New York, NY",
+   "lat": 40.71,
+   "lon": -74.01,
    "precision": "city",
    "verdict": "mention"
   },
@@ -267,20 +267,6 @@
    "lon": -96.79,
    "precision": "city",
    "verdict": "mention"
-  },
-  {
-   "title": "Why Are Creepy Clown Sightings Cropping Up Across the Country?",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQd2JZc3R0UHYtby1hUmZjZDQ5czR0M1MtWVp4NU9HeVhZUW5tdWJVVGtBMTJNRXZkNGRmb3BnNzMzdFpCWTYweWxCLThsV3I5VDA3QVY5eEI1RTc5TkYxSDBhMjlSeUg3dGVDdWF2ME83RklaSUtKUW9wN1hrdEJhVjd0ZFA1RldHWlY1RkRKUF93RHc?oc=5",
-   "snippet": "Why Are Creepy Clown Sightings Cropping Up Across the Country? \u00a0\u00a0 Texas Standard",
-   "source": "Texas Standard",
-   "date": "2016-10-04T07:00:00+00:00",
-   "origin": "googlenews",
-   "score": 6,
-   "place": "Texas",
-   "lat": 31.47,
-   "lon": -99.33,
-   "precision": "state",
-   "verdict": "possible sighting"
   },
   {
    "title": "Reported Creepy Clown Sightings At Mass. Schools Prompt Police Response",
@@ -493,20 +479,6 @@
    "verdict": "possible sighting"
   },
   {
-   "title": "Creepy Clown Sightings Reported In Brentwood, North Babylon",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1OdXhiQlhQSjBKb0ZxYUd1bGNQZzAxQmsxbjBRYzl1WGVJLS1NU3dYNHFjTG84Q1JUUmVmRE1BcDA0M0FFbzZQWkJGeVZwRDctUDBjbXRCVlRMS2pNQmtpTUprTFdNUHl5aFhERHA3Ykk?oc=5",
-   "snippet": "Creepy Clown Sightings Reported In Brentwood, North Babylon \u00a0\u00a0 CBS News",
-   "source": "CBS News",
-   "date": "2016-09-30T07:00:00+00:00",
-   "origin": "googlenews",
-   "score": 8,
-   "place": null,
-   "lat": null,
-   "lon": null,
-   "precision": null,
-   "verdict": "possible sighting"
-  },
-  {
    "title": "Pasco Sheriff, Schools Issue Warning About Clown Sightings",
    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNTFNlVGgwcWl1cnI0YzdRbTZkQ1dnR0xMYjdCcGpZSThqSXM4Unp1djBybTRKd0xnZXVwOFhscnRHbDVxSk45dEhHa0MwMnFOQzRVbUFMQkFkc0h0emNDSTJlZnpsWVgxSFk4OUt4Qmo3b3dWcjZiUm1KVVZ0MktuWTYtRERxLTIzT3EtN3RNekRWMDFYMFdUMV9R?oc=5",
    "snippet": "Pasco Sheriff, Schools Issue Warning About Clown Sightings \u00a0\u00a0 WUSF",
@@ -519,6 +491,34 @@
    "lon": null,
    "precision": null,
    "verdict": "likely sighting"
+  },
+  {
+   "title": "With creepy clown sightings on Long Island, Riverhead schools and police and \u2018aware and vigilant\u2019",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQdDlYajFMQzVid2J6aHJBZ1dtQVB3cWhpdXowQ0JGc0JSaXJKSUI1UWkxRUxUU0Z0NTlzc0lNT0tFeHRIZDRMM0YtZU9rZmpnQzF2V2kwOWVVWS1yQ1JjSldyN3Atd2RyZTBkZFEyVTJpemhmbHpEZlR4czFPeVdaTXRPaTRIN2JzS25Bc29yeG90QVV5VjNNc3gyRTU5N2h1Z3FzZW91QzhXRVd4UjRZdXNEdHZYcVFZMVJYSA?oc=5",
+   "snippet": "With creepy clown sightings on Long Island, Riverhead schools and police and \u2018aware and vigilant\u2019 \u00a0\u00a0 RiverheadLOCAL",
+   "source": "RiverheadLOCAL",
+   "date": "2016-09-30T07:00:00+00:00",
+   "origin": "googlenews",
+   "score": 8,
+   "place": null,
+   "lat": null,
+   "lon": null,
+   "precision": null,
+   "verdict": "possible sighting"
+  },
+  {
+   "title": "Creepy Clown Sightings Reported In Brentwood, North Babylon",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1OdXhiQlhQSjBKb0ZxYUd1bGNQZzAxQmsxbjBRYzl1WGVJLS1NU3dYNHFjTG84Q1JUUmVmRE1BcDA0M0FFbzZQWkJGeVZwRDctUDBjbXRCVlRMS2pNQmtpTUprTFdNUHl5aFhERHA3Ykk?oc=5",
+   "snippet": "Creepy Clown Sightings Reported In Brentwood, North Babylon \u00a0\u00a0 CBS News",
+   "source": "CBS News",
+   "date": "2016-09-30T07:00:00+00:00",
+   "origin": "googlenews",
+   "score": 8,
+   "place": null,
+   "lat": null,
+   "lon": null,
+   "precision": null,
+   "verdict": "possible sighting"
   },
   {
    "title": "More clown sightings reported in Salisbury",
@@ -721,7 +721,7 @@
    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQNkVrdGxFZVdSaVVnTkZ6SzZaSERuS0I0emdiOFNqTnplbUZ5UWtsbTZ4aHlUUjBfTWtpY2l5ZkhjNGN4dUtqa1QwRS15T3hlMlNfLW10QVZHZTJBbDYwN0o4N05sRGd6U1JKVHZzVER1SDRFVlhPbXFEQU1BVS1mNU8tUzBDaUJGZDRVcXh5TDRNNnBGUE1kRm9GSdIBoAFBVV95cUxNTkp5YXhaOXhKaElLUlllSF9xSjV2al9MRG1HRVBNUnF2Slg4RktaeDR0WnFQRHNjTlhXRTZiZ1Qzby1lRDdxbHFRS25FcVQyTEEtSWs1MVlMSTRjaDJSS0pCX1lad3lZS0QtR2gxWVFNVGxJWE5QVGxVblVIX0d4V0ZOa0hBRWhNTFR5a1pZY3VvdVNOYmRoNHB5dmpHZWNU?oc=5",
    "snippet": "North Carolina Residents on Edge After Multiple Clown Sightings \u00a0\u00a0 ABC News - Breaking News, Latest News and Videos",
    "source": "ABC News - Breaking News, Latest News and Videos",
-   "date": "2016-09-06T07:00:00+00:00",
+   "date": "2016-09-07T07:00:00+00:00",
    "origin": "googlenews",
    "score": 7,
    "place": "North Carolina",
