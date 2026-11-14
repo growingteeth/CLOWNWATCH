@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-14T12:53:50.708154+00:00",
- "count": 63,
+ "updated": "2026-11-14T21:56:19.557969+00:00",
+ "count": 62,
  "items": [
   {
    "title": "Man dressed as clown spotted prowling near primary school prompting police response",
@@ -227,20 +227,6 @@
    "verdict": "mention"
   },
   {
-   "title": "Police arrest Maryland teens in connection with clown-related threats",
-   "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNN1FxNUFDMERENEc2bnZacTg1bEltSGxmaUNSd2hBdnhhQ3QzcmlndFkwMTlPLUlMYUhzMGVVcV9pQko1NFBBMTVSdFZaV0RERkZTUFZhV3ZLT2RlLVZJUERtM2pleXNPbjI1WXJHODhFTXA3aVVQN0RlQndjRzh2Zi10QlFhcGtYRGc1bFlqaEc4S1c5MXM4UHVZY3RSenNBOUdSUmlwd2FTc1lDbjVWOVhhems3bjNoeHdFcG5sQndiYUN5TG5za052R05iX09jeV84SHptU1RDdmVJdE5ESjdYcVhKMGp3YUhJT0U0TGIzVEhmakdLWE5pNHZ4Y2lFcWtXQ3NvSGhoZDg?oc=5",
-   "snippet": "Police arrest Maryland teens in connection with clown-related threats \u00a0\u00a0 The Washington Post",
-   "source": "The Washington Post",
-   "date": "2016-10-06T07:00:00+00:00",
-   "origin": "googlenews",
-   "score": 4,
-   "place": "Washington, DC",
-   "lat": 38.91,
-   "lon": -77.04,
-   "precision": "city",
-   "verdict": "mention"
-  },
-  {
    "title": "Texas School District on Lockdown After 2 Clown Sightings",
    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5YSVZMZk5nUkNfSDQ0dE9TbUFKOUx2YjVzcmNUNG1xeGd5dW5kRHhONWF1Uk5Fak5JbVlRNlpDV25NU180MmVZWllmTzFPNWEwVGxUMlZrU1QzMUxlLVZkV1I1QQ?oc=5",
    "snippet": "Texas School District on Lockdown After 2 Clown Sightings \u00a0\u00a0 Time Magazine",
@@ -281,6 +267,20 @@
    "lon": null,
    "precision": null,
    "verdict": "likely sighting"
+  },
+  {
+   "title": "Why Are Creepy Clown Sightings Cropping Up Across the Country?",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQd2JZc3R0UHYtby1hUmZjZDQ5czR0M1MtWVp4NU9HeVhZUW5tdWJVVGtBMTJNRXZkNGRmb3BnNzMzdFpCWTYweWxCLThsV3I5VDA3QVY5eEI1RTc5TkYxSDBhMjlSeUg3dGVDdWF2ME83RklaSUtKUW9wN1hrdEJhVjd0ZFA1RldHWlY1RkRKUF93RHc?oc=5",
+   "snippet": "Why Are Creepy Clown Sightings Cropping Up Across the Country? \u00a0\u00a0 Texas Standard",
+   "source": "Texas Standard",
+   "date": "2016-10-04T07:00:00+00:00",
+   "origin": "googlenews",
+   "score": 6,
+   "place": "Texas",
+   "lat": 31.47,
+   "lon": -99.33,
+   "precision": "state",
+   "verdict": "possible sighting"
   },
   {
    "title": "Reported Creepy Clown Sightings At Mass. Schools Prompt Police Response",
@@ -392,20 +392,6 @@
    "lat": 32.76,
    "lon": -97.33,
    "precision": "city",
-   "verdict": "possible sighting"
-  },
-  {
-   "title": "Clown sightings reported in North Texas",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPcWdEV0FuLTM3QUhmMWxrZlZxaWtqV2U1N01vUFFVelJjT0puV3VYaG8wSDdPMDJXRW5WNVFVMURDejY3Qjk1bVZQY3BDLWd2QnVEUGZpUnpKUEo5NmZMVzNjdWhQd25DcW16RV9RMlEtWHc2ZmNQMnpzbTB1YmhqXzJMbFBjY0R4NkIwdGhfaEZPUEN3ZFlVcklITkRPMUJZQ1VQT1E5RDNIQV81?oc=5",
-   "snippet": "Clown sightings reported in North Texas \u00a0\u00a0 WFAA",
-   "source": "WFAA",
-   "date": "2016-10-03T07:00:00+00:00",
-   "origin": "googlenews",
-   "score": 8,
-   "place": "Texas",
-   "lat": 31.47,
-   "lon": -99.33,
-   "precision": "state",
    "verdict": "possible sighting"
   },
   {
