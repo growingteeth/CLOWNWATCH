@@ -1,7 +1,21 @@
 {
- "updated": "2026-11-13T23:11:54.066304+00:00",
- "count": 63,
+ "updated": "2026-11-14T04:40:37.260069+00:00",
+ "count": 64,
  "items": [
+  {
+   "title": "Man dressed as clown spotted prowling near Linwood school prompting police response",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxORE1hUGJrUFBXT3FRQ0NVVExJZnMyR3pUTG1BZ3dZV055NHRKZzd6RzRSQUxuRVVSc0luMmREVGNBNVluUXJ1WGFNNUZ6X1VXVm5lY0UtSnlWd1NlUGt3ZmlnM0t5bnNVZXhFZnBrQmhmVC16SnluclRZczZYMmZEMFl3ZUNOd3VwZDBUNlM2QkVjOVBKc0FPbXV4bkZ2RnJxUGUw?oc=5",
+   "snippet": "Man dressed as clown spotted prowling near Linwood school prompting police response \u00a0\u00a0 Renfrewshire Gazette",
+   "source": "Renfrewshire Gazette",
+   "date": "2026-10-28T07:00:00+00:00",
+   "origin": "googlenews",
+   "score": 8,
+   "place": null,
+   "lat": null,
+   "lon": null,
+   "precision": null,
+   "verdict": "possible sighting"
+  },
   {
    "title": "15-year-old dressed as a clown stabbed a man to death in random attack, East St. Louis, Illinois, police say",
    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxObHVHTUkzV20wWkxmMUgzbUl6cHVvT3R2QzdZUkE0cXk4WUtQV2hfdjZlTGwyYkdzdGk5QkhoVkdrYjdpa1prYV9hQmh3VDIwcXRRcHFURU5sY1hMTlJCYzczd1RPd3pwMUIwdVpDZzc4YUkyOFZwSGJBaUNqWnZIUFlva3FyWHZUd1pTNll4dTYwVEE?oc=5",
@@ -56,6 +70,20 @@
    "lat": 25.76,
    "lon": -80.19,
    "precision": "city",
+   "verdict": "mention"
+  },
+  {
+   "title": "Miscellaneous (police record)",
+   "url": "https://www.dallasopendata.com/d/qv6i-rri7",
+   "snippet": "7624 INDIAN SPRINGS RD Single Family Residence - Occupied \u2014 mo: BACKPACK W/ CLOWN MASK  INSIDE",
+   "source": "Dallas, TX Open Data",
+   "date": "2022-09-18T11:34:39+00:00",
+   "origin": "socrata",
+   "place": "Dallas, TX",
+   "lat": 32.95136,
+   "lon": -96.7774,
+   "precision": "city",
+   "score": 4,
    "verdict": "mention"
   },
   {
@@ -241,6 +269,20 @@
    "verdict": "possible sighting"
   },
   {
+   "title": "40 - Other (police record)",
+   "url": "https://www.dallasopendata.com/d/qv6i-rri7",
+   "snippet": "6714 AMERICAN WAY Single Family Residence - Occupied \u2014 mo: SUSPECT MADE THREATS OVER THE PHONE IN A \"CLOWN VOICE\"",
+   "source": "Dallas, TX Open Data",
+   "date": "2016-10-04T17:47:09+00:00",
+   "origin": "socrata",
+   "place": "Dallas, TX",
+   "lat": 32.66679,
+   "lon": -96.88411,
+   "precision": "city",
+   "score": 4,
+   "verdict": "mention"
+  },
+  {
    "title": "Hysteria erupts over reports of late-night clown sighting, police say no actual clown reported",
    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5yQXpPNWp4Q0NtZzZ3UzhwSGNRZ3dlOGltVXVwMUZqWjdVTlk0eFZEXy1QS1IzckRVUjYxQjA1V291bWliRjdYdVFXUDJCMF9pRzYxbF9XY0hCT1VCbFN1dVdMSGpVcGVhY2tjVUhpS0x4dGtEUlNkbENCMW1OUmc?oc=5",
    "snippet": "Hysteria erupts over reports of late-night clown sighting, police say no actual clown reported \u00a0\u00a0 Elon News Network",
@@ -281,20 +323,6 @@
    "lon": null,
    "precision": null,
    "verdict": "likely sighting"
-  },
-  {
-   "title": "Creepy clown sightings reported in Eastern Iowa",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNa2pqcXhPbDBja09FalR4QjRGR0Vzek1oWF9aY2h6N0RIeDIwQTFibkNhYzlVN2QtVmxoTHVJbWhfSFVLUUFuQ2I0SkdNNVRQLVZJakxWVDY3ZXB1Z2UyUWJwVlVjYURZaUVQcy1YZkItN1RhR2dNcXZEMkV5aEc2SGUtMFIzR2E4dVY4TS03Mi1Hem02U25VOWpnMFJXZw?oc=5",
-   "snippet": "Creepy clown sightings reported in Eastern Iowa \u00a0\u00a0 KCRG",
-   "source": "KCRG",
-   "date": "2016-10-04T07:00:00+00:00",
-   "origin": "googlenews",
-   "score": 8,
-   "place": "Iowa",
-   "lat": 42.08,
-   "lon": -93.5,
-   "precision": "state",
-   "verdict": "possible sighting"
   },
   {
    "title": "Temecula Becomes Latest City To Join Nationwide Wave Of Reported Clown Sightings",
@@ -661,20 +689,6 @@
    "verdict": "possible sighting"
   },
   {
-   "title": "Stop reporting fake clown sightings near schools, deputies warn",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQR2tmOHVKYUhYUGJ5Z1pSYUM5WlNGVGhuOXBGUy1RdzZncjNiSlExUjhxSG1JSWozaFZ5TzFGdFFLN2o2QnRpZTFIbkNlaG4xeHZRcUxsYVg0VlRKcnVaa1IyZFFWREhxLXBBRjRwZUlUcllmMUVzbWxMRC15WlZFbzJFT2hCalRSWGVfWWJVc2IwcXo3eUtlU1VZcDA0bXNKTGYwR09IWGRXc3NXMXBqRTJ30gHGAUFVX3lxTE1OVnl2dkZOR2R5X25SZFdfR0lEc2oxbEJHZzJYeFVXOTZfVy1pclI3NS1rVnJvSmdnS25yeVJHZ0hSbmloTEhJaUt0ajQ4Um1JNEZWRWJ3V2F1OVFadVNmNmR1bEhhdDJ4V2RiUUpZNDUyTWo3cUlVOGNNNVoyeEJ2RkVwYnNfUDZodmF2Q2p1OHA3YlRJajg2MVJiNnB1bnZmUUJGb1h1b3ZpNWpYNWlqWmVLcGc0X2E5WktNRXU2UUlUSTVVZw?oc=5",
-   "snippet": "Stop reporting fake clown sightings near schools, deputies warn \u00a0\u00a0 WFTV",
-   "source": "WFTV",
-   "date": "2016-09-13T07:00:00+00:00",
-   "origin": "googlenews",
-   "score": 10,
-   "place": null,
-   "lat": null,
-   "lon": null,
-   "precision": null,
-   "verdict": "likely sighting"
-  },
-  {
    "title": "'Creepy clown' sighting reported in southern West Virginia",
    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQX19Ec1pUQ18tdE1jVXZZVnRHMG5OQmdRSGJFYy1XR2hZbW5mTUs4ZDh5dm43VmYyRVhobUFZSjg5SkFTOTBNUWd5dXdTX2dET0RnNWZMNVV5cE92TC1Ca0NfZGhlZ1kyaHlWblhCNERMbkh0LVVxaXc1Vy16UzI3YlJ3OGFlZzVSVmduN0x0S0RqZzdMUzI3YXNzdUNLSVJuRGNUOUdVLW_SAbwBQVVfeXFMTXVDWk4wU0FRZEN2UWdlZGxZajg4SWg0VGNiQXlJU25MTW82eVM3a0dYNGJQa3dZcE45cjVBSjd3cTI3OVprTktWTW9WMDVuQ0RUcWlSdnVYV01MMkJGWU53Y0lITVM0YmJwV1dTMUZ3d3FjaGM0Nmk2QXBQR25aTWtCRFhHdDhkLXdhcERtSm5GU2VqN0ZsM29MOFZYR0RWbEhwcGVuMWFrTm4yYUVidzBRS0pUZG45d1hwam4?oc=5",
    "snippet": "'Creepy clown' sighting reported in southern West Virginia \u00a0\u00a0 WSAZ",
@@ -759,20 +773,6 @@
    "verdict": "possible sighting"
   },
   {
-   "title": "\u2018This is serious\u2019 Creepy clown sightings spread across South Carolina",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPOGlWZ3RsX3VfZ2lXVEpILWl4NlU1MGcxZmRiYmx1c1FBa2t0OW1oRm1YX2lna0U3TWlMMWJ2U2hnajdlY0cxM1h1MVJQcHh4bEQ4aE1EYWtqSlJkemJnWE4ydllySVV1OUdlOWMzaTRMdGZXQlVwRG1KMEFUVEg0UjdicE13eWhGZ1ZpbjZQM3hPY2x6OGfSAZsBQVVfeXFMTTFOLUVjNU94LWRZRDE0WVo3VmVDYklMVjF3ZGZySW8zVDljTDV4R2U2ckNYTnF3UHM0ejdqNmxoUnJqMnppSkhuOFZGcVZBQ3hGeDJxZnJsbkNpTFN3czJkSDZmdTljeHlOY3ZkUlp2OWhrWV85YjFPT19iZ1p4Q3hTb0Ezei1Db1FXNHRGSFRLaGhrY2NVS3N6MWc?oc=5",
-   "snippet": "\u2018This is serious\u2019 Creepy clown sightings spread across South Carolina \u00a0\u00a0 Fox 59",
-   "source": "Fox 59",
-   "date": "2016-09-02T07:00:00+00:00",
-   "origin": "googlenews",
-   "score": 6,
-   "place": "South Carolina",
-   "lat": 33.82,
-   "lon": -80.94,
-   "precision": "state",
-   "verdict": "possible sighting"
-  },
-  {
    "title": "Creepy details released in South Carolina clown sightings",
    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOc24yR1lQeUZPbnU3cDYxSmVSaUJFQ0czeEJEVGUtLUFVSDJSOG5uSWI1RGNwMjFnWTg1b1JfMnM1YTRaSVJFNGRsYmtSTXJ6TjdXcjVuVXJ3QnZFMTc2X1VaTmctdTRtdmRzSnAwU0kxcUliWC1NUEpRbDg4U1FGaER4STV5QTRndW5BcA?oc=5",
    "snippet": "Creepy details released in South Carolina clown sightings \u00a0\u00a0 CBS News",
@@ -799,6 +799,20 @@
    "lon": -80.94,
    "precision": "state",
    "verdict": "mention"
+  },
+  {
+   "title": "Reported sightings of creepy clown sightings in South Carolina prompts warning by police",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxON1hVbmJUVFJ0WlpXMVdkTy1ZTUNfSVh3WVBhQ1paWFhQX01RZWs4WjZmVGxKbWh2czlFU2k4VDdmSlZqWmtOUHJOOGdTTXV6ZHJCRXhVQkc5NHNUbXNSNHBLZGx3ZEtFX3duQ1RXdFFiM3N0bXExS2owN3dxT1NEYUVYQ2Z3Qjl2MVJqeWw4ZGFlY1g2cHF0akVfRVNlN3FDY3BzV2hTSU0?oc=5",
+   "snippet": "Reported sightings of creepy clown sightings in South Carolina prompts warning by police \u00a0\u00a0 SMH.com.au",
+   "source": "SMH.com.au",
+   "date": "2016-08-31T07:00:00+00:00",
+   "origin": "googlenews",
+   "score": 12,
+   "place": "South Carolina",
+   "lat": 33.82,
+   "lon": -80.94,
+   "precision": "state",
+   "verdict": "likely sighting"
   },
   {
    "title": "Creepy Clown Sightings in South Carolina Cause a Frenzy (Published 2016)",
