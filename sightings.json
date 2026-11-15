@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-14T21:56:19.557969+00:00",
- "count": 62,
+ "updated": "2026-11-15T04:30:31.325279+00:00",
+ "count": 64,
  "items": [
   {
    "title": "Man dressed as clown spotted prowling near primary school prompting police response",
@@ -83,6 +83,20 @@
    "place": "Miami, FL",
    "lat": 25.76,
    "lon": -80.19,
+   "precision": "city",
+   "verdict": "mention"
+  },
+  {
+   "title": "Recent Oakland murder suspect was dressed as a clown when he shot his victim, police say",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNUGVkS3ZVT2FIcmx2QlMySllHSnJGc016SjRfcDJGM1RVV19kdmhZVkJ2SHBLamtCQWd2MEVGQ0hqS0tQa3Ezdi1QWEFnaUJ1MkNjSGpZdVQyNm1HMS1TcG91WDg1UXI5NThicjlZb0wtNjh0LXZPd3RTekppQWhyUllNTkZXV1VPQXFDSE1URTBLTUtVWGQtTzdZWDh1TkRIdXE3b0o4SWdIQi1yMWxBZTM1cUNmXy1SVDdKbktLYVJDTm1BYXc?oc=5",
+   "snippet": "Recent Oakland murder suspect was dressed as a clown when he shot his victim, police say \u00a0\u00a0 The Mercury News",
+   "source": "The Mercury News",
+   "date": "2024-08-08T07:00:00+00:00",
+   "origin": "googlenews",
+   "score": 4,
+   "place": "Oakland, CA",
+   "lat": 37.8,
+   "lon": -122.27,
    "precision": "city",
    "verdict": "mention"
   },
@@ -227,6 +241,20 @@
    "verdict": "mention"
   },
   {
+   "title": "Police arrest Maryland teens in connection with clown-related threats",
+   "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNN1FxNUFDMERENEc2bnZacTg1bEltSGxmaUNSd2hBdnhhQ3QzcmlndFkwMTlPLUlMYUhzMGVVcV9pQko1NFBBMTVSdFZaV0RERkZTUFZhV3ZLT2RlLVZJUERtM2pleXNPbjI1WXJHODhFTXA3aVVQN0RlQndjRzh2Zi10QlFhcGtYRGc1bFlqaEc4S1c5MXM4UHVZY3RSenNBOUdSUmlwd2FTc1lDbjVWOVhhems3bjNoeHdFcG5sQndiYUN5TG5za052R05iX09jeV84SHptU1RDdmVJdE5ESjdYcVhKMGp3YUhJT0U0TGIzVEhmakdLWE5pNHZ4Y2lFcWtXQ3NvSGhoZDg?oc=5",
+   "snippet": "Police arrest Maryland teens in connection with clown-related threats \u00a0\u00a0 The Washington Post",
+   "source": "The Washington Post",
+   "date": "2016-10-06T07:00:00+00:00",
+   "origin": "googlenews",
+   "score": 4,
+   "place": "Washington, DC",
+   "lat": 38.91,
+   "lon": -77.04,
+   "precision": "city",
+   "verdict": "mention"
+  },
+  {
    "title": "Texas School District on Lockdown After 2 Clown Sightings",
    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5YSVZMZk5nUkNfSDQ0dE9TbUFKOUx2YjVzcmNUNG1xeGd5dW5kRHhONWF1Uk5Fak5JbVlRNlpDV25NU180MmVZWllmTzFPNWEwVGxUMlZrU1QzMUxlLVZkV1I1QQ?oc=5",
    "snippet": "Texas School District on Lockdown After 2 Clown Sightings \u00a0\u00a0 Time Magazine",
@@ -353,6 +381,20 @@
    "verdict": "possible sighting"
   },
   {
+   "title": "13-year-old boy from Mays Landing arrested for 'clown threats' to school",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOQ045SEJ4U09QallGODVwd0ZtNGNiQTJMZTZ4X0MzQ2NLbkVHakMwaFRHc3lxLXFBUHZMQnFaMlpucWt6VjFlZlpoMUo4WUMwNjdTczJ5NDY3VEZTWldqM1B3aFRFOENDNlpFbWdvcFF4NnY3UDZYQ243dmhuS3llYTJhSU5TQkZpdHpCYnZBUdIBlAFBVV95cUxNMEVMRUdodWhXcnAyN1ZHREpHZmFha3RYUGpPQjBXLWxiem9SRkdUUHYzUXl0VGFiR29XX2RmR2NfbzV0U08wZ1hNT083d1VGNGF0T1A0VE5CRUZSaUZIQk5ZMDhNWkxCdVhYRk03NlZMYWVzemxtRHpmbFg4bUdpZENJZU44Tk5uWm5mTllGRHA2bi1l?oc=5",
+   "snippet": "13-year-old boy from Mays Landing arrested for 'clown threats' to school \u00a0\u00a0 6abc Philadelphia",
+   "source": "6abc Philadelphia",
+   "date": "2016-10-04T07:00:00+00:00",
+   "origin": "googlenews",
+   "score": 4,
+   "place": "Philadelphia, PA",
+   "lat": 39.95,
+   "lon": -75.17,
+   "precision": "city",
+   "verdict": "mention"
+  },
+  {
    "title": "Creepy Clown Sightings, Threats Fueling 'Panic' Across Pennsylvania, State Police Say",
    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZTlvb0VZVjBRbUFERmczZEVNcWkwbl9YZXROc3NXMTRqQzdHUlQyZERzYTlQbER5SG5EczZwaHczLTEwQ2R6ZWRnYWpaMGtqZzZzUHlUTjdLZ0JzWlVBNmFWaENxdzU5SlBxWjA2cXRRbEVHSThyQmF6bFVKOWFTMkV1dDRTT1pSMTZLNjI3RzhsUlZ6VmF4Z2RIRVZvZFI2c0pCd2JEX28tX3gta1FJR1p3?oc=5",
    "snippet": "Creepy Clown Sightings, Threats Fueling 'Panic' Across Pennsylvania, State Police Say \u00a0\u00a0 Patch",
@@ -435,20 +477,6 @@
    "lon": -75.17,
    "precision": "city",
    "verdict": "mention"
-  },
-  {
-   "title": "Treasure Valley sees reports of 'creepy clown sightings'",
-   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNRXU2eVAxRjlrOE5VRXZUU0lZZlY4M0xvQkNUUUdjV3hJYkRkZUhCSkVxX3RJaWNERWJ1eTQ3MjZkX3hILVRyMGhqT01raWt4MFdHLURNREJHbUhXZ2FTSTBySlJ2eGMzYXA5NFpGUXFEOHpjajl2LUtCTFJFam4tNC1qVEdKaG9YLW1pRGtmZUM?oc=5",
-   "snippet": "Treasure Valley sees reports of 'creepy clown sightings' \u00a0\u00a0 KBOI",
-   "source": "KBOI",
-   "date": "2016-10-02T07:00:00+00:00",
-   "origin": "googlenews",
-   "score": 8,
-   "place": null,
-   "lat": null,
-   "lon": null,
-   "precision": null,
-   "verdict": "possible sighting"
   },
   {
    "title": "Internet rumors of \u2018creepy clown\u2019 sightings reach Idaho",
