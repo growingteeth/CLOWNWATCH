@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-15T04:30:31.325279+00:00",
+ "updated": "2026-11-15T13:21:34.635877+00:00",
  "count": 64,
  "items": [
   {
@@ -241,16 +241,30 @@
    "verdict": "mention"
   },
   {
-   "title": "Police arrest Maryland teens in connection with clown-related threats",
-   "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNN1FxNUFDMERENEc2bnZacTg1bEltSGxmaUNSd2hBdnhhQ3QzcmlndFkwMTlPLUlMYUhzMGVVcV9pQko1NFBBMTVSdFZaV0RERkZTUFZhV3ZLT2RlLVZJUERtM2pleXNPbjI1WXJHODhFTXA3aVVQN0RlQndjRzh2Zi10QlFhcGtYRGc1bFlqaEc4S1c5MXM4UHVZY3RSenNBOUdSUmlwd2FTc1lDbjVWOVhhems3bjNoeHdFcG5sQndiYUN5TG5za052R05iX09jeV84SHptU1RDdmVJdE5ESjdYcVhKMGp3YUhJT0U0TGIzVEhmakdLWE5pNHZ4Y2lFcWtXQ3NvSGhoZDg?oc=5",
-   "snippet": "Police arrest Maryland teens in connection with clown-related threats \u00a0\u00a0 The Washington Post",
-   "source": "The Washington Post",
+   "title": "Rumors, Reports Of Creepy Clown Sightings At Schools Across Metro Detroit",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZllvN2h2STFFaG9kRWhSYnFZdmFvNWRwaTNDbzkySTRERFZKNXc5SUFPd1RGc0dhZHp2b1ZPY1FhU0RzWDc4QWRpRnhTQ2pBaE5RcGlNZXVCdFI4VDB4aXNvSVUxRGJ5OXNUU2F4cnhOVzc5QXMyZ3lmdF9LbkoyRV9mV1VoRXVSakNJeEdOMzJwQkNYck55RTBSQmt1T3kzWFV4dkZZOEJYREF3MXlV?oc=5",
+   "snippet": "Rumors, Reports Of Creepy Clown Sightings At Schools Across Metro Detroit \u00a0\u00a0 CBS News",
+   "source": "CBS News",
    "date": "2016-10-06T07:00:00+00:00",
    "origin": "googlenews",
-   "score": 4,
-   "place": "Washington, DC",
-   "lat": 38.91,
-   "lon": -77.04,
+   "score": 8,
+   "place": "Detroit, MI",
+   "lat": 42.33,
+   "lon": -83.05,
+   "precision": "city",
+   "verdict": "possible sighting"
+  },
+  {
+   "title": "Creepy Clown Sighting Reported in Arlington",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxORGw2eXVrSDJmbU9GT0ttR2VEeDN1d3MxRG9iNUp2UHZoSkhiTWJBZzd3YTBmU1hjWUlXYTNtRk9IT29vRnJNRG5iV1p1TEZEcFBha0NlT2RsTi1VbUJEUmVwRmZzeGtpWGtmcy1yQ1ZOT2lhWEJXWHk3alliSTJxMm1QN1g?oc=5",
+   "snippet": "Creepy Clown Sighting Reported in Arlington \u00a0\u00a0 arlnow.com",
+   "source": "arlnow.com",
+   "date": "2016-10-06T07:00:00+00:00",
+   "origin": "googlenews",
+   "score": 5,
+   "place": "Arlington, TX",
+   "lat": 32.74,
+   "lon": -97.11,
    "precision": "city",
    "verdict": "mention"
   },
@@ -336,20 +350,6 @@
    "lat": null,
    "lon": null,
    "precision": null,
-   "verdict": "possible sighting"
-  },
-  {
-   "title": "New Orleans clown says creepy and scary clown sightings may damage business",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPQ2tGd2ZqS0NOaGVVMUhGeUJtVFlaamdIZ3hQN2VaMUFKRU1VREswNkpmdkhudGp6cmotd3hnVE9TZU1Hd3pwMHMtRThmeS1iSzhlWFo4d0MtLU9vSER1VldNZ1pJRTVzRGNTQXEwem5hQ0k3X25LRWdkZUwzaHZsOE9raWRWSW1mS1YwNVhNOUcteUtXc1JWMm94UTN3TU1hZlFwRkhWZGg1MUFrUTRsOWxB?oc=5",
-   "snippet": "New Orleans clown says creepy and scary clown sightings may damage business \u00a0\u00a0 WDSU",
-   "source": "WDSU",
-   "date": "2016-10-04T07:00:00+00:00",
-   "origin": "googlenews",
-   "score": 6,
-   "place": "New Orleans, LA",
-   "lat": 29.95,
-   "lon": -90.07,
-   "precision": "city",
    "verdict": "possible sighting"
   },
   {
