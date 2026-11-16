@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T04:27:29.927444+00:00",
- "count": 68,
+ "updated": "2026-11-16T14:35:50.795451+00:00",
+ "count": 66,
  "items": [
   {
    "title": "Man dressed as clown spotted prowling near primary school prompting police response",
@@ -115,18 +115,18 @@
    "verdict": "mention"
   },
   {
-   "title": "Miscellaneous (police record)",
-   "url": "https://www.dallasopendata.com/d/qv6i-rri7",
-   "snippet": "7624 INDIAN SPRINGS RD Single Family Residence - Occupied \u2014 mo: BACKPACK W/ CLOWN MASK  INSIDE",
-   "source": "Dallas, TX Open Data",
-   "date": "2022-09-18T11:34:39+00:00",
-   "origin": "socrata",
-   "place": "Dallas, TX",
-   "lat": 32.95136,
-   "lon": -96.7774,
-   "precision": "city",
-   "score": 4,
-   "verdict": "mention"
+   "title": "Clown sightings rattle Northeast Florida residents",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNUTVHRE8tdDl2cmFaLUwwV25nT3l2aGhQbUZtRUhULWM1YkgwMnBlQ0ZBUklvUHh0MEM3Q2s0YXlqUHZ1c0plS2ppUkdpV1NSYXFWUVdWbF9xYm9LZ3J4emZhcnNUem5ncTFwWHk2THF2MWQzRXQ3YmhIb3JRVk1DTUxhZE5oVWRhVGs3NnNBSjBSVWJmUERvall6eWlaMGdFT3haNXFJVGJkSldWUGJtOVljWjh4dGg4bFpXTg?oc=5",
+   "snippet": "Clown sightings rattle Northeast Florida residents \u00a0\u00a0 FL Times-Union",
+   "source": "FL Times-Union",
+   "date": "2022-01-03T11:06:24+00:00",
+   "origin": "googlenews",
+   "score": 7,
+   "place": "Florida",
+   "lat": 28.63,
+   "lon": -82.45,
+   "precision": "state",
+   "verdict": "possible sighting"
   },
   {
    "title": "Athens girl arrested at school for knife she had for clown protection",
@@ -141,6 +141,20 @@
    "lon": -82.45,
    "precision": "state",
    "verdict": "mention"
+  },
+  {
+   "title": "Man arrested after lying about clown sighting, police say",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQUXNLS3FwSU1Za1V1OFZCZ1NaMkFjVGxjdzd3YWRIc2VaMFM3R2E3NkhOMC1zQm9TN2xUQXRka0o3a19NRWs2czV5eHFwTFRmOWFOdVh0TW1adnltdU5vT0lKNy0tQ3VSaEc3Yk1HSGdKbHNwVnFzSi1zZVdRLVh0MTdMUzRaSlhXU2hTZ1RNM2I3Z3d0djlVSDBn?oc=5",
+   "snippet": "Man arrested after lying about clown sighting, police say \u00a0\u00a0 WYFF",
+   "source": "WYFF",
+   "date": "2018-08-03T05:58:01+00:00",
+   "origin": "googlenews",
+   "score": 9,
+   "place": null,
+   "lat": null,
+   "lon": null,
+   "precision": null,
+   "verdict": "likely sighting"
   },
   {
    "title": "KCKPD investigating reported clown sighting",
@@ -311,20 +325,6 @@
    "verdict": "likely sighting"
   },
   {
-   "title": "Police arrest Maryland teens in connection with clown-related threats",
-   "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNN1FxNUFDMERENEc2bnZacTg1bEltSGxmaUNSd2hBdnhhQ3QzcmlndFkwMTlPLUlMYUhzMGVVcV9pQko1NFBBMTVSdFZaV0RERkZTUFZhV3ZLT2RlLVZJUERtM2pleXNPbjI1WXJHODhFTXA3aVVQN0RlQndjRzh2Zi10QlFhcGtYRGc1bFlqaEc4S1c5MXM4UHVZY3RSenNBOUdSUmlwd2FTc1lDbjVWOVhhems3bjNoeHdFcG5sQndiYUN5TG5za052R05iX09jeV84SHptU1RDdmVJdE5ESjdYcVhKMGp3YUhJT0U0TGIzVEhmakdLWE5pNHZ4Y2lFcWtXQ3NvSGhoZDg?oc=5",
-   "snippet": "Police arrest Maryland teens in connection with clown-related threats \u00a0\u00a0 The Washington Post",
-   "source": "The Washington Post",
-   "date": "2016-10-06T07:00:00+00:00",
-   "origin": "googlenews",
-   "score": 4,
-   "place": "Washington, DC",
-   "lat": 38.91,
-   "lon": -77.04,
-   "precision": "city",
-   "verdict": "mention"
-  },
-  {
    "title": "Texas School District on Lockdown After 2 Clown Sightings",
    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5YSVZMZk5nUkNfSDQ0dE9TbUFKOUx2YjVzcmNUNG1xeGd5dW5kRHhONWF1Uk5Fak5JbVlRNlpDV25NU180MmVZWllmTzFPNWEwVGxUMlZrU1QzMUxlLVZkV1I1QQ?oc=5",
    "snippet": "Texas School District on Lockdown After 2 Clown Sightings \u00a0\u00a0 Time Magazine",
@@ -351,20 +351,6 @@
    "lon": null,
    "precision": null,
    "verdict": "possible sighting"
-  },
-  {
-   "title": "40 - Other (police record)",
-   "url": "https://www.dallasopendata.com/d/qv6i-rri7",
-   "snippet": "6714 AMERICAN WAY Single Family Residence - Occupied \u2014 mo: SUSPECT MADE THREATS OVER THE PHONE IN A \"CLOWN VOICE\"",
-   "source": "Dallas, TX Open Data",
-   "date": "2016-10-04T17:47:09+00:00",
-   "origin": "socrata",
-   "place": "Dallas, TX",
-   "lat": 32.66679,
-   "lon": -96.88411,
-   "precision": "city",
-   "score": 4,
-   "verdict": "mention"
   },
   {
    "title": "Hysteria erupts over reports of late-night clown sighting, police say no actual clown reported",
@@ -407,20 +393,6 @@
    "lon": null,
    "precision": null,
    "verdict": "likely sighting"
-  },
-  {
-   "title": "Temecula Becomes Latest City To Join Nationwide Wave Of Reported Clown Sightings",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOTXVwaUNfOS00ZncybDVZakNXSkh0WWRlaXdqbkJVTVVFVm42TlVEaE5UekI1S3VGc1lPZXdHdWl6NTNNZENKeVZWbHBkM2pnWi1TQThTOXZ2UkFiTFV2Zmt2MGpNVVVHMHBCcEMxVXJLTmllTE4tTmt2WHpTNkpsMFNiVlZ2V21LNmNQT1hTZTN3Rmg4MlJRREZNZWZPVFFCUzJQdmJoSGxWTlllZjNSYUJ1VU5lQmZCalg3R2R3?oc=5",
-   "snippet": "Temecula Becomes Latest City To Join Nationwide Wave Of Reported Clown Sightings \u00a0\u00a0 CBS News",
-   "source": "CBS News",
-   "date": "2016-10-04T07:00:00+00:00",
-   "origin": "googlenews",
-   "score": 8,
-   "place": null,
-   "lat": null,
-   "lon": null,
-   "precision": null,
-   "verdict": "possible sighting"
   },
   {
    "title": "Alleged creepy clown sightings, online threats",
@@ -703,20 +675,6 @@
    "verdict": "likely sighting"
   },
   {
-   "title": "Police: 2 arrested because of false creepy clown reports in Georgia",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNdml4bkl0c3I4YndJZWMtMGwyeGZwSFkyeHRDZmNLRFlUQTAtckY0a0xTNnJzYWZ4REFJR3Boc2IwVzRtQU9QdTFTT05nRGk0d3VSWS00Rk5pamc3aXFZYXRlTUFDU1I4d2t1QjQ5WjJvMF91a2FVckstRE5MR2JSa19KNkIydTZLdG9HMkdPcTZYVFoyS0FmY3Z3bWVrY2JsaVBGWDhEeDREUko2YWFFVGpuTkxqbXZDM3BiVVMxdTVSNERVdjQ4?oc=5",
-   "snippet": "Police: 2 arrested because of false creepy clown reports in Georgia \u00a0\u00a0 USA Today",
-   "source": "USA Today",
-   "date": "2016-09-15T07:00:00+00:00",
-   "origin": "googlenews",
-   "score": 8,
-   "place": "Georgia",
-   "lat": 32.96,
-   "lon": -83.44,
-   "precision": "state",
-   "verdict": "possible sighting"
-  },
-  {
    "title": "Creepy nocturnal clown sightings leave US police baffled",
    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5FZmg0ZGQ2SkJfaTFEdmNoNjNxemJaRjRFTl9Sb3hnVkN0eUt6WDJWaG12aEwxcW5jZm9YN0toUE16LW5pUFZTalpuQl9GaW5YSzlHa3BiRVNUUVNSdXc?oc=5",
    "snippet": "Creepy nocturnal clown sightings leave US police baffled \u00a0\u00a0 BBC",
@@ -799,6 +757,20 @@
    "lon": -74.01,
    "precision": "city",
    "verdict": "mention"
+  },
+  {
+   "title": "NC deputies warning people not to report false clown sightings",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZmpIYlhmSFo2RzFQOEV1aTB4NHR4b1FoQzRXZ1BMdUxQemt1TDZ1XzI1RkZxSzNhU3llektlVGFLQTNFQzVjUjZoQVlCYWkzMlh5YmF3SnY3Nlp6RnFpM0Z6N0Y1X2l1Vm1JMG40eWJTYzVGT2dBYzdhMUNLdlRCYWxMM0VUWHNucnBUdVBHaXNzUVM0aXViTW9aSUZRYXZfWjFKZzIzaXE1WENhQWJsdm5Vcno?oc=5",
+   "snippet": "NC deputies warning people not to report false clown sightings \u00a0\u00a0 WSOC TV",
+   "source": "WSOC TV",
+   "date": "2016-09-07T07:00:00+00:00",
+   "origin": "googlenews",
+   "score": 10,
+   "place": null,
+   "lat": null,
+   "lon": null,
+   "precision": null,
+   "verdict": "likely sighting"
   },
   {
    "title": "North Carolina Residents on Edge After Multiple Clown Sightings",
