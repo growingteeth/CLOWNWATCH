@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T00:26:10.758947+00:00",
+ "updated": "2026-11-18T14:59:54.920890+00:00",
  "count": 73,
  "items": [
   {
@@ -127,20 +127,6 @@
    "lon": -82.45,
    "precision": "state",
    "verdict": "mention"
-  },
-  {
-   "title": "No more clowning around: Man arrested by Stockton police on suspicion of Halloween assault in clown...",
-   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1QcGVTWGVoMWRMdktoOW1zV2NCemw0NmtpMlhJZHRTUkstYlNBbE5MeHFxaHFuaTMxTU14aVVnbTY2S3QwLVBZVlF0UEFaQU5ub05UQ0hIc19DMXJDM1hhXzBzU0NWRjB6WmRGMGRn0gFuQVVfeXFMT1hpd1djckZzd3JyWmgtMkNvWUNNVVUwU21pMjFIN0MzdE1PNGZlZjFqeVM0dHhXeDdTVTg5MnRIYWZfbWw3b19pb0UwVlRoS1NJTFc1ZWhxZ2M2d25vamFWV2pxV1pnX2RMUWdpenc?oc=5",
-   "snippet": "No more clowning around: Man arrested by Stockton police on suspicion of Halloween assault in clown... \u00a0\u00a0 Sacramento Bee",
-   "source": "Sacramento Bee",
-   "date": "2019-03-03T08:00:00+00:00",
-   "origin": "googlenews",
-   "score": 6,
-   "place": "Sacramento, CA",
-   "lat": 38.58,
-   "lon": -121.49,
-   "precision": "city",
-   "verdict": "possible sighting"
   },
   {
    "title": "Creepy Clown Sightings Back In Boise",
@@ -365,6 +351,20 @@
    "lon": null,
    "precision": null,
    "verdict": "likely sighting"
+  },
+  {
+   "title": "Police arrest Maryland teens in connection with clown-related threats",
+   "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNN1FxNUFDMERENEc2bnZacTg1bEltSGxmaUNSd2hBdnhhQ3QzcmlndFkwMTlPLUlMYUhzMGVVcV9pQko1NFBBMTVSdFZaV0RERkZTUFZhV3ZLT2RlLVZJUERtM2pleXNPbjI1WXJHODhFTXA3aVVQN0RlQndjRzh2Zi10QlFhcGtYRGc1bFlqaEc4S1c5MXM4UHVZY3RSenNBOUdSUmlwd2FTc1lDbjVWOVhhems3bjNoeHdFcG5sQndiYUN5TG5za052R05iX09jeV84SHptU1RDdmVJdE5ESjdYcVhKMGp3YUhJT0U0TGIzVEhmakdLWE5pNHZ4Y2lFcWtXQ3NvSGhoZDg?oc=5",
+   "snippet": "Police arrest Maryland teens in connection with clown-related threats \u00a0\u00a0 The Washington Post",
+   "source": "The Washington Post",
+   "date": "2016-10-06T07:00:00+00:00",
+   "origin": "googlenews",
+   "score": 4,
+   "place": "Washington, DC",
+   "lat": 38.91,
+   "lon": -77.04,
+   "precision": "city",
+   "verdict": "mention"
   },
   {
    "title": "Texas School District on Lockdown After 2 Clown Sightings",
@@ -605,20 +605,6 @@
    "verdict": "possible sighting"
   },
   {
-   "title": "'Creepy clown sightings' prompt heightened security at Toms River schools in New Jersey",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZUJGalRxUEpqT1JId1hFRXBFR3NnRWFNTXhMdkF3YjQ2S1B5c011RTBJRk9YX2VZUS1SaEo4NnJmbk9YT2xGZkdZQWFsXzhKSWp4TERnNlJ5RTNNRjRrM2R1LXhJSHNvUDZIM0pnZVZtZ1F1bWtuV2tYcWJtRzVIU3NLNVBQcElKSkh4MG1JLXpGSmc4LWxpa9IBngFBVV95cUxQMi1ocXp2SUZwVFJJbkYwUER6NG1XVVlOQm1COC1FOVlTNVlGcHd3RGtnYldUcm9vZTM2Q0J3cVoyQkpTNWJpREp2S2xFaE82ZDVpajNyMG9Vck1Xdzg4Rl9Rc1JmTXFTT1FYQ0paenJWVEp4Y25WdVk0aG5wYWtocHdLN2U1OWVEWW1weFA5SzMycHF6My10TTMtamQwdw?oc=5",
-   "snippet": "'Creepy clown sightings' prompt heightened security at Toms River schools in New Jersey \u00a0\u00a0 ABC7 New York",
-   "source": "ABC7 New York",
-   "date": "2016-09-30T07:00:00+00:00",
-   "origin": "googlenews",
-   "score": 6,
-   "place": "New York, NY",
-   "lat": 40.71,
-   "lon": -74.01,
-   "precision": "city",
-   "verdict": "possible sighting"
-  },
-  {
    "title": "Pasco Sheriff, Schools Issue Warning About Clown Sightings",
    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNTFNlVGgwcWl1cnI0YzdRbTZkQ1dnR0xMYjdCcGpZSThqSXM4Unp1djBybTRKd0xnZXVwOFhscnRHbDVxSk45dEhHa0MwMnFOQzRVbUFMQkFkc0h0emNDSTJlZnpsWVgxSFk4OUt4Qmo3b3dWcjZiUm1KVVZ0MktuWTYtRERxLTIzT3EtN3RNekRWMDFYMFdUMV9R?oc=5",
    "snippet": "Pasco Sheriff, Schools Issue Warning About Clown Sightings \u00a0\u00a0 WUSF",
@@ -633,10 +619,24 @@
    "verdict": "likely sighting"
   },
   {
-   "title": "With creepy clown sightings on Long Island, Riverhead schools and police and \u2018aware and vigilant\u2019",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQdDlYajFMQzVid2J6aHJBZ1dtQVB3cWhpdXowQ0JGc0JSaXJKSUI1UWkxRUxUU0Z0NTlzc0lNT0tFeHRIZDRMM0YtZU9rZmpnQzF2V2kwOWVVWS1yQ1JjSldyN3Atd2RyZTBkZFEyVTJpemhmbHpEZlR4czFPeVdaTXRPaTRIN2JzS25Bc29yeG90QVV5VjNNc3gyRTU5N2h1Z3FzZW91QzhXRVd4UjRZdXNEdHZYcVFZMVJYSA?oc=5",
-   "snippet": "With creepy clown sightings on Long Island, Riverhead schools and police and \u2018aware and vigilant\u2019 \u00a0\u00a0 RiverheadLOCAL",
-   "source": "RiverheadLOCAL",
+   "title": "'Creepy clown sightings' prompt heightened security at Toms River schools in New Jersey",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZUJGalRxUEpqT1JId1hFRXBFR3NnRWFNTXhMdkF3YjQ2S1B5c011RTBJRk9YX2VZUS1SaEo4NnJmbk9YT2xGZkdZQWFsXzhKSWp4TERnNlJ5RTNNRjRrM2R1LXhJSHNvUDZIM0pnZVZtZ1F1bWtuV2tYcWJtRzVIU3NLNVBQcElKSkh4MG1JLXpGSmc4LWxpa9IBngFBVV95cUxQMi1ocXp2SUZwVFJJbkYwUER6NG1XVVlOQm1COC1FOVlTNVlGcHd3RGtnYldUcm9vZTM2Q0J3cVoyQkpTNWJpREp2S2xFaE82ZDVpajNyMG9Vck1Xdzg4Rl9Rc1JmTXFTT1FYQ0paenJWVEp4Y25WdVk0aG5wYWtocHdLN2U1OWVEWW1weFA5SzMycHF6My10TTMtamQwdw?oc=5",
+   "snippet": "'Creepy clown sightings' prompt heightened security at Toms River schools in New Jersey \u00a0\u00a0 ABC7 New York",
+   "source": "ABC7 New York",
+   "date": "2016-09-30T07:00:00+00:00",
+   "origin": "googlenews",
+   "score": 6,
+   "place": "New York, NY",
+   "lat": 40.71,
+   "lon": -74.01,
+   "precision": "city",
+   "verdict": "possible sighting"
+  },
+  {
+   "title": "Creepy Clown Sightings Reported In Brentwood, North Babylon",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1OdXhiQlhQSjBKb0ZxYUd1bGNQZzAxQmsxbjBRYzl1WGVJLS1NU3dYNHFjTG84Q1JUUmVmRE1BcDA0M0FFbzZQWkJGeVZwRDctUDBjbXRCVlRMS2pNQmtpTUprTFdNUHl5aFhERHA3Ykk?oc=5",
+   "snippet": "Creepy Clown Sightings Reported In Brentwood, North Babylon \u00a0\u00a0 CBS News",
+   "source": "CBS News",
    "date": "2016-09-30T07:00:00+00:00",
    "origin": "googlenews",
    "score": 8,
@@ -843,6 +843,20 @@
    "verdict": "possible sighting"
   },
   {
+   "title": "North Carolina Residents on Edge After Multiple Clown Sightings",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQNkVrdGxFZVdSaVVnTkZ6SzZaSERuS0I0emdiOFNqTnplbUZ5UWtsbTZ4aHlUUjBfTWtpY2l5ZkhjNGN4dUtqa1QwRS15T3hlMlNfLW10QVZHZTJBbDYwN0o4N05sRGd6U1JKVHZzVER1SDRFVlhPbXFEQU1BVS1mNU8tUzBDaUJGZDRVcXh5TDRNNnBGUE1kRm9GSdIBoAFBVV95cUxNTkp5YXhaOXhKaElLUlllSF9xSjV2al9MRG1HRVBNUnF2Slg4RktaeDR0WnFQRHNjTlhXRTZiZ1Qzby1lRDdxbHFRS25FcVQyTEEtSWs1MVlMSTRjaDJSS0pCX1lad3lZS0QtR2gxWVFNVGxJWE5QVGxVblVIX0d4V0ZOa0hBRWhNTFR5a1pZY3VvdVNOYmRoNHB5dmpHZWNU?oc=5",
+   "snippet": "North Carolina Residents on Edge After Multiple Clown Sightings \u00a0\u00a0 ABC News - Breaking News, Latest News and Videos",
+   "source": "ABC News - Breaking News, Latest News and Videos",
+   "date": "2016-09-07T07:00:00+00:00",
+   "origin": "googlenews",
+   "score": 7,
+   "place": "North Carolina",
+   "lat": 35.63,
+   "lon": -79.81,
+   "precision": "state",
+   "verdict": "possible sighting"
+  },
+  {
    "title": "Man with machete chases after clown spotted near woods in Greensboro, North Carolina",
    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQVlVXZG9aeTJfRTI1YV9WclFDSmRoV3UzaXFCZmVuYmZNRUVxbnY0ZnNzZWppekFsQUJTX0VSS1VaeGJjZkM2U0NqQnhaU0VJbm12RFNmZHdGQzFyRi1xUHBIaEY2ckdveE92T3lMX0pvdW9laXZ4emREeXAxa1d6MzZnVGtnMHo5eTFNQmljNWNtcXAycHdpQ3VJTXM5ek0tN2NIN1FNRHpZaXlvOUZxNTBrMGV2WnNqcENSSnI3MXc?oc=5",
    "snippet": "Man with machete chases after clown spotted near woods in Greensboro, North Carolina \u00a0\u00a0 New York Daily News",
@@ -869,20 +883,6 @@
    "lon": null,
    "precision": null,
    "verdict": "likely sighting"
-  },
-  {
-   "title": "North Carolina Residents on Edge After Multiple Clown Sightings",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQNkVrdGxFZVdSaVVnTkZ6SzZaSERuS0I0emdiOFNqTnplbUZ5UWtsbTZ4aHlUUjBfTWtpY2l5ZkhjNGN4dUtqa1QwRS15T3hlMlNfLW10QVZHZTJBbDYwN0o4N05sRGd6U1JKVHZzVER1SDRFVlhPbXFEQU1BVS1mNU8tUzBDaUJGZDRVcXh5TDRNNnBGUE1kRm9GSdIBoAFBVV95cUxNTkp5YXhaOXhKaElLUlllSF9xSjV2al9MRG1HRVBNUnF2Slg4RktaeDR0WnFQRHNjTlhXRTZiZ1Qzby1lRDdxbHFRS25FcVQyTEEtSWs1MVlMSTRjaDJSS0pCX1lad3lZS0QtR2gxWVFNVGxJWE5QVGxVblVIX0d4V0ZOa0hBRWhNTFR5a1pZY3VvdVNOYmRoNHB5dmpHZWNU?oc=5",
-   "snippet": "North Carolina Residents on Edge After Multiple Clown Sightings \u00a0\u00a0 ABC News - Breaking News, Latest News and Videos",
-   "source": "ABC News - Breaking News, Latest News and Videos",
-   "date": "2016-09-06T07:00:00+00:00",
-   "origin": "googlenews",
-   "score": 7,
-   "place": "North Carolina",
-   "lat": 35.63,
-   "lon": -79.81,
-   "precision": "state",
-   "verdict": "possible sighting"
   },
   {
    "title": "Police: Possible Clown Sighting in Lexington",
