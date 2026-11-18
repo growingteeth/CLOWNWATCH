@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-18T14:59:54.920890+00:00",
- "count": 73,
+ "updated": "2026-11-18T23:50:23.020151+00:00",
+ "count": 71,
  "items": [
   {
    "title": "Man dressed as clown spotted prowling near primary school prompting police response",
@@ -196,6 +196,20 @@
    "lat": 40.71,
    "lon": -74.01,
    "precision": "city",
+   "verdict": "mention"
+  },
+  {
+   "title": "Florida Sheriff's Office Issues Creepy Clown Warning",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQNlVzcXpEZDhyUmx2S1NzbUc3VXFpTFRWVG96YkE0WmE3MW10aWkxUElzd2M2S0VETkRsLWl5T0RCWjhZamdwRTRIdkRGSkVwWXA3eWswZkxCQzZaYkFyYkxoTURMUjFHQlV4RVlGUEtUclZhMXVWRkVFZXg5YXRPNTFXUTZsSktuWDBXTUMwU0wwN09sQXpXbFFB0gGiAUFVX3lxTE4zczNxR3gxMmVrVmZYeXNGTnNMWDMyUldHX3dDQnBnWFQ4bng1TkVxTzdYMmVuRmpXVGFFbXo4NWlLcThEbk9kMnJONXhiYjZ2R0M2b0VkeEF4ekVmQlRwUUVMRkI3ZDZ3V3FaVHZHYWs2NkpieWxEaTV1Y1NLVW5tcEQ3REVWdWw4MDJnMFRYMDZWV2pfSGIzZEFQaDJ2N2dNUQ?oc=5",
+   "snippet": "Florida Sheriff's Office Issues Creepy Clown Warning \u00a0\u00a0 NBC 6 South Florida",
+   "source": "NBC 6 South Florida",
+   "date": "2017-10-18T07:00:00+00:00",
+   "origin": "googlenews",
+   "score": 4,
+   "place": "Florida",
+   "lat": 28.63,
+   "lon": -82.45,
+   "precision": "state",
    "verdict": "mention"
   },
   {
@@ -605,20 +619,6 @@
    "verdict": "possible sighting"
   },
   {
-   "title": "Pasco Sheriff, Schools Issue Warning About Clown Sightings",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNTFNlVGgwcWl1cnI0YzdRbTZkQ1dnR0xMYjdCcGpZSThqSXM4Unp1djBybTRKd0xnZXVwOFhscnRHbDVxSk45dEhHa0MwMnFOQzRVbUFMQkFkc0h0emNDSTJlZnpsWVgxSFk4OUt4Qmo3b3dWcjZiUm1KVVZ0MktuWTYtRERxLTIzT3EtN3RNekRWMDFYMFdUMV9R?oc=5",
-   "snippet": "Pasco Sheriff, Schools Issue Warning About Clown Sightings \u00a0\u00a0 WUSF",
-   "source": "WUSF",
-   "date": "2016-09-30T07:00:00+00:00",
-   "origin": "googlenews",
-   "score": 10,
-   "place": null,
-   "lat": null,
-   "lon": null,
-   "precision": null,
-   "verdict": "likely sighting"
-  },
-  {
    "title": "'Creepy clown sightings' prompt heightened security at Toms River schools in New Jersey",
    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZUJGalRxUEpqT1JId1hFRXBFR3NnRWFNTXhMdkF3YjQ2S1B5c011RTBJRk9YX2VZUS1SaEo4NnJmbk9YT2xGZkdZQWFsXzhKSWp4TERnNlJ5RTNNRjRrM2R1LXhJSHNvUDZIM0pnZVZtZ1F1bWtuV2tYcWJtRzVIU3NLNVBQcElKSkh4MG1JLXpGSmc4LWxpa9IBngFBVV95cUxQMi1ocXp2SUZwVFJJbkYwUER6NG1XVVlOQm1COC1FOVlTNVlGcHd3RGtnYldUcm9vZTM2Q0J3cVoyQkpTNWJpREp2S2xFaE82ZDVpajNyMG9Vck1Xdzg4Rl9Rc1JmTXFTT1FYQ0paenJWVEp4Y25WdVk0aG5wYWtocHdLN2U1OWVEWW1weFA5SzMycHF6My10TTMtamQwdw?oc=5",
    "snippet": "'Creepy clown sightings' prompt heightened security at Toms River schools in New Jersey \u00a0\u00a0 ABC7 New York",
@@ -633,20 +633,6 @@
    "verdict": "possible sighting"
   },
   {
-   "title": "Creepy Clown Sightings Reported In Brentwood, North Babylon",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1OdXhiQlhQSjBKb0ZxYUd1bGNQZzAxQmsxbjBRYzl1WGVJLS1NU3dYNHFjTG84Q1JUUmVmRE1BcDA0M0FFbzZQWkJGeVZwRDctUDBjbXRCVlRMS2pNQmtpTUprTFdNUHl5aFhERHA3Ykk?oc=5",
-   "snippet": "Creepy Clown Sightings Reported In Brentwood, North Babylon \u00a0\u00a0 CBS News",
-   "source": "CBS News",
-   "date": "2016-09-30T07:00:00+00:00",
-   "origin": "googlenews",
-   "score": 8,
-   "place": null,
-   "lat": null,
-   "lon": null,
-   "precision": null,
-   "verdict": "possible sighting"
-  },
-  {
    "title": "More clown sightings reported in Salisbury",
    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPcHFtWHVhZTRhUFNNV25NZ3dxUGtWdXZ5bXJBV0gza1Z2bTc3ZmdJNnVaRnF3VzFoMENJVkNCZldzXzB4QVg5M3ZxQWk2MVpSM1Jhc0QyQ0FwYk5abm5jdlRLVFJfdFJXck9pV1V4ZkdJc1hvYURyZks0bFZ5OHhucEt1LWtfRzI1SDBJdUJqUGo2MTlTZ1J1WHY2Tm1wUDl2M0E?oc=5",
    "snippet": "More clown sightings reported in Salisbury \u00a0\u00a0 DelmarvaNow.com",
@@ -658,20 +644,6 @@
    "lat": null,
    "lon": null,
    "precision": null,
-   "verdict": "possible sighting"
-  },
-  {
-   "title": "Pennsylvania Clown Sightings Linked To Stabbing, Harassment",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNNjgyWFZ0b21hZ0FBdk9DUzVEYXA5dnNvV1BLLVRVZUxMOXo2d2xyMUdOeTBYbFMzUGY5WVBXZHJPMk9Na3VaWXktbl9Ya1FKYzBSRzNaVDdfZW1OWUNJSlhXb2NtNjBQVS1TWGlnMzRCV3BxdHlfamsyeFp6V09KN3JFSFplQmswT0NacWxWV1BVeG1Qb1FCY0JpUENJWW93MnpB?oc=5",
-   "snippet": "Pennsylvania Clown Sightings Linked To Stabbing, Harassment \u00a0\u00a0 CBS News",
-   "source": "CBS News",
-   "date": "2016-09-28T07:00:00+00:00",
-   "origin": "googlenews",
-   "score": 6,
-   "place": "Pennsylvania",
-   "lat": 40.88,
-   "lon": -77.8,
-   "precision": "state",
    "verdict": "possible sighting"
   },
   {
@@ -885,20 +857,6 @@
    "verdict": "likely sighting"
   },
   {
-   "title": "Police: Possible Clown Sighting in Lexington",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPTUhWM1dxWmR0ZXJweTFYbmFlbWpGSVEwTVBoV0FqWFFpeUg3YkJxU1dLVXlWVUpyaHZvazhDX0ZsN0U4M0VONXlpRENFRTEtT295SmpUSFF1TGs0MWk2ME00S29oMFhrMzlOc0VVTjJFXy1MY2NjRUpKVG1vdVBQRG9pZ19aTGlTYUNnZktVcVUtU01DV1hvejIzaTZ2UQ?oc=5",
-   "snippet": "Police: Possible Clown Sighting in Lexington \u00a0\u00a0 WLTX",
-   "source": "WLTX",
-   "date": "2016-09-06T07:00:00+00:00",
-   "origin": "googlenews",
-   "score": 5,
-   "place": "Lexington, KY",
-   "lat": 38.04,
-   "lon": -84.5,
-   "precision": "city",
-   "verdict": "mention"
-  },
-  {
    "title": "Disturbing clown sightings continue, spread to Winston-Salem",
    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOYWF3Tl9lX2FUSjluZ2FTcG1uVXJzaGwzcDlWeWlKekI5MHhYcWFUUlBHNFdRSFF2amIwWnA3eXJYaXF3ODJuNjBQeldURHpUazNyYzNaSk12N1dqNHJUWWxHcTFjTDI0UHl4YjhPaTBsTHdKOEtZaUFSNVNOLW85S0xB?oc=5",
    "snippet": "Disturbing clown sightings continue, spread to Winston-Salem \u00a0\u00a0 WLOS",
@@ -910,6 +868,20 @@
    "lat": 44.94,
    "lon": -123.03,
    "precision": "city",
+   "verdict": "possible sighting"
+  },
+  {
+   "title": "New clown sighting reported near South Carolina playground; police hold news conference",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQTFQ0VVJ2cEtMTzZpc2ZqZnBvTDNWT2loV2JaZmRNWUhfeFp1VENrejRwQmlTS1NNUVROU2t2RjNQeUhtOUtzbm1fU1lodzlGdWhkMTFKZ2JKaHNVaTlENDJIT1V6QWFMOFRwSlNjdmVRcHRkcklIbk84czYwaVlRRE13SUtJMFBMRnFSX1ZIUUxpRDlWdmlMMmFQdnRTQ09XQ0dGeGR3bkNROUpFV2Y0dDFFQ2LSAboBQVVfeXFMT29HUDBiYmdMb2VBdkVRcmIwYlpBUWUzSDcwYWJjZzZaOUI0WklMbUZhU0M3ai12NnpFS3BQZmFxU0d6WnVTXzk0SWZMYzVJc0FNeHdQVVVPbXlkeWdsTXlYNEExYXVNMmRIT0JzWEZFNDM3TFFfRzBQQU9rbmlEWmJjVlEybE9Kazk1dERvVGlIVXlmNC1NU09YM2tuSGF4dzhFVzdlTlJkVVA5dGpXSUhKR3p6SGlEYWRn?oc=5",
+   "snippet": "New clown sighting reported near South Carolina playground; police hold news conference \u00a0\u00a0 NBC4 WCMH-TV",
+   "source": "NBC4 WCMH-TV",
+   "date": "2016-09-01T07:00:00+00:00",
+   "origin": "googlenews",
+   "score": 8,
+   "place": "South Carolina",
+   "lat": 33.82,
+   "lon": -80.94,
+   "precision": "state",
    "verdict": "possible sighting"
   },
   {
