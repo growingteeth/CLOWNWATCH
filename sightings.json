@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-18T23:50:23.020151+00:00",
- "count": 71,
+ "updated": "2026-11-19T05:39:00.522910+00:00",
+ "count": 70,
  "items": [
   {
    "title": "Man dressed as clown spotted prowling near primary school prompting police response",
@@ -294,20 +294,6 @@
    "lat": null,
    "lon": null,
    "precision": null,
-   "verdict": "possible sighting"
-  },
-  {
-   "title": "Reports of creepy clown sightings scare metro Atlanta schools",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQWkdOTExkQ1JvZk80TnhPN3RPek5NY2p4dGFia1ZXbUVuRzJqRWdkZnh6aHpYeHJtN2tvbXl4Zzh0bU9GeHR1Y0VwRjNMVy1pc01idTQ4WUtxNmFMOUdkb0JhYjVZamxtRDRMWE5LUTRpWmdsRTFXS1d0RGFyVVhhWTNSNWQtOXRCWGdFT24tV0RkbzZGOVBmN2RaalMtVU9BZWVqOWl0UC1yRFp5U1F2RkhsRG1zWFB3ZkpTcEFn?oc=5",
-   "snippet": "Reports of creepy clown sightings scare metro Atlanta schools \u00a0\u00a0 11Alive.com",
-   "source": "11Alive.com",
-   "date": "2016-10-07T07:00:00+00:00",
-   "origin": "googlenews",
-   "score": 8,
-   "place": "Atlanta, GA",
-   "lat": 33.75,
-   "lon": -84.39,
-   "precision": "city",
    "verdict": "possible sighting"
   },
   {
@@ -647,6 +633,20 @@
    "verdict": "possible sighting"
   },
   {
+   "title": "Pennsylvania Clown Sightings Linked To Stabbing, Harassment",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNNjgyWFZ0b21hZ0FBdk9DUzVEYXA5dnNvV1BLLVRVZUxMOXo2d2xyMUdOeTBYbFMzUGY5WVBXZHJPMk9Na3VaWXktbl9Ya1FKYzBSRzNaVDdfZW1OWUNJSlhXb2NtNjBQVS1TWGlnMzRCV3BxdHlfamsyeFp6V09KN3JFSFplQmswT0NacWxWV1BVeG1Qb1FCY0JpUENJWW93MnpB?oc=5",
+   "snippet": "Pennsylvania Clown Sightings Linked To Stabbing, Harassment \u00a0\u00a0 CBS News",
+   "source": "CBS News",
+   "date": "2016-09-28T07:00:00+00:00",
+   "origin": "googlenews",
+   "score": 6,
+   "place": "Pennsylvania",
+   "lat": 40.88,
+   "lon": -77.8,
+   "precision": "state",
+   "verdict": "possible sighting"
+  },
+  {
    "title": "Creepy Clown Spotted in Gainesville, Third Sighting in Florida",
    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNakkzU01lSnhoUWVEdG1XeUtnVnRFemYzQWVBckgzVzhad0c1eDFZQXA4dkF1eWRRdVJsWnpwRnlQRFdMQl9FQ3NRcl90Mi1PMTR2TlBHbjRmamJlRURnMGduZVhtQjRkemJUZkJ6MmFldzJReGh6V3ZObGZjNkdBYkRaNnBOLWNaUWgxYW43TTFuaGhWRHE5cEFiMnBYTlNEZEFJTFZrczJLVTg?oc=5",
    "snippet": "Creepy Clown Spotted in Gainesville, Third Sighting in Florida \u00a0\u00a0 WUFT",
@@ -868,20 +868,6 @@
    "lat": 44.94,
    "lon": -123.03,
    "precision": "city",
-   "verdict": "possible sighting"
-  },
-  {
-   "title": "New clown sighting reported near South Carolina playground; police hold news conference",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQTFQ0VVJ2cEtMTzZpc2ZqZnBvTDNWT2loV2JaZmRNWUhfeFp1VENrejRwQmlTS1NNUVROU2t2RjNQeUhtOUtzbm1fU1lodzlGdWhkMTFKZ2JKaHNVaTlENDJIT1V6QWFMOFRwSlNjdmVRcHRkcklIbk84czYwaVlRRE13SUtJMFBMRnFSX1ZIUUxpRDlWdmlMMmFQdnRTQ09XQ0dGeGR3bkNROUpFV2Y0dDFFQ2LSAboBQVVfeXFMT29HUDBiYmdMb2VBdkVRcmIwYlpBUWUzSDcwYWJjZzZaOUI0WklMbUZhU0M3ai12NnpFS3BQZmFxU0d6WnVTXzk0SWZMYzVJc0FNeHdQVVVPbXlkeWdsTXlYNEExYXVNMmRIT0JzWEZFNDM3TFFfRzBQQU9rbmlEWmJjVlEybE9Kazk1dERvVGlIVXlmNC1NU09YM2tuSGF4dzhFVzdlTlJkVVA5dGpXSUhKR3p6SGlEYWRn?oc=5",
-   "snippet": "New clown sighting reported near South Carolina playground; police hold news conference \u00a0\u00a0 NBC4 WCMH-TV",
-   "source": "NBC4 WCMH-TV",
-   "date": "2016-09-01T07:00:00+00:00",
-   "origin": "googlenews",
-   "score": 8,
-   "place": "South Carolina",
-   "lat": 33.82,
-   "lon": -80.94,
-   "precision": "state",
    "verdict": "possible sighting"
   },
   {
