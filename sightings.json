@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T13:57:50.105334+00:00",
+ "updated": "2026-11-22T23:09:34.605492+00:00",
  "count": 64,
  "items": [
   {
@@ -309,20 +309,6 @@
    "lon": null,
    "precision": null,
    "verdict": "likely sighting"
-  },
-  {
-   "title": "Police arrest Maryland teens in connection with clown-related threats",
-   "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNN1FxNUFDMERENEc2bnZacTg1bEltSGxmaUNSd2hBdnhhQ3QzcmlndFkwMTlPLUlMYUhzMGVVcV9pQko1NFBBMTVSdFZaV0RERkZTUFZhV3ZLT2RlLVZJUERtM2pleXNPbjI1WXJHODhFTXA3aVVQN0RlQndjRzh2Zi10QlFhcGtYRGc1bFlqaEc4S1c5MXM4UHVZY3RSenNBOUdSUmlwd2FTc1lDbjVWOVhhems3bjNoeHdFcG5sQndiYUN5TG5za052R05iX09jeV84SHptU1RDdmVJdE5ESjdYcVhKMGp3YUhJT0U0TGIzVEhmakdLWE5pNHZ4Y2lFcWtXQ3NvSGhoZDg?oc=5",
-   "snippet": "Police arrest Maryland teens in connection with clown-related threats \u00a0\u00a0 The Washington Post",
-   "source": "The Washington Post",
-   "date": "2016-10-06T07:00:00+00:00",
-   "origin": "googlenews",
-   "score": 4,
-   "place": "Washington, DC",
-   "lat": 38.91,
-   "lon": -77.04,
-   "precision": "city",
-   "verdict": "mention"
   },
   {
    "title": "Texas School District on Lockdown After 2 Clown Sightings",
@@ -771,6 +757,20 @@
    "lon": -79.81,
    "precision": "state",
    "verdict": "possible sighting"
+  },
+  {
+   "title": "Police: Possible Clown Sighting in Lexington",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPTUhWM1dxWmR0ZXJweTFYbmFlbWpGSVEwTVBoV0FqWFFpeUg3YkJxU1dLVXlWVUpyaHZvazhDX0ZsN0U4M0VONXlpRENFRTEtT295SmpUSFF1TGs0MWk2ME00S29oMFhrMzlOc0VVTjJFXy1MY2NjRUpKVG1vdVBQRG9pZ19aTGlTYUNnZktVcVUtU01DV1hvejIzaTZ2UQ?oc=5",
+   "snippet": "Police: Possible Clown Sighting in Lexington \u00a0\u00a0 WLTX",
+   "source": "WLTX",
+   "date": "2016-09-06T07:00:00+00:00",
+   "origin": "googlenews",
+   "score": 5,
+   "place": "Lexington, KY",
+   "lat": 38.04,
+   "lon": -84.5,
+   "precision": "city",
+   "verdict": "mention"
   },
   {
    "title": "New clown sighting reported near South Carolina playground; police hold news conference",
