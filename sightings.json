@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-22T04:46:10.824282+00:00",
- "count": 63,
+ "updated": "2026-11-22T13:57:50.105334+00:00",
+ "count": 64,
  "items": [
   {
    "title": "Man dressed as clown spotted prowling near primary school prompting police response",
@@ -45,10 +45,24 @@
    "verdict": "possible sighting"
   },
   {
+   "title": "Teen in clown costume accused of East St. Louis murder now in custody, police say",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPcHEyTDBsQmM3ZG84ZFhpcDM3dGlZNGY5WHl1ZVhFS3FJZnh0QW1nUFM2TF8tZ2xTN2daVlpLNG9senpGZWlSSzVaZXN4Q2ZlQWJCU2RKR003ZHNYZ0hmSVJXME94Vm5tMUVMTThqeDhGSmxPZ0FVb2QxQklaUkdwVW4wa3RnRFZvNXp6SUdyZDFHa2pUUnF1R0JzSHRyYVNQZkR2b3lzZFAybWJlQncw?oc=5",
+   "snippet": "Teen in clown costume accused of East St. Louis murder now in custody, police say \u00a0\u00a0 KMOV",
+   "source": "KMOV",
+   "date": "2026-08-04T07:00:00+00:00",
+   "origin": "googlenews",
+   "score": 5,
+   "place": "St. Louis, MO",
+   "lat": 38.63,
+   "lon": -90.2,
+   "precision": "city",
+   "verdict": "mention"
+  },
+  {
    "title": "Police arrest teen in clown costume accused of murder",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQM1pvWXpodDBGdEVTWTU3ejVOTzFrdXdrRmtwc1NEbThHQ2hJazVlQlIzNVlwVlFNSjhLRXozbFVINDBFMkVCMlFDTXBjbFhzendEWk1ZNWR1RmMxQzRaaTBPdWJMWHdTal9jTVBOVno3VnFnWXB6UnphZGZ2RWRRMVBEYWV4UlU?oc=5",
-   "snippet": "Police arrest teen in clown costume accused of murder \u00a0\u00a0 WCJB",
-   "source": "WCJB",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOdEZhSW5sYzlrSjM5X1h4dktjcENFekdibkt2RjN6aWVXT1JkdVQ1MmxLZjQwQURPSDRQc3FqYXR2MHN0am1TSzdpY0c4TEV3SXExX2lzeWxRNXF5ZXZiOUhPd29ZX0UxQkRyY0hmbEpNVEVCSG9HNnZOazBtSjkyb05mdkJHUDg?oc=5",
+   "snippet": "Police arrest teen in clown costume accused of murder \u00a0\u00a0 WBTV",
+   "source": "WBTV",
    "date": "2026-08-04T07:00:00+00:00",
    "origin": "googlenews",
    "score": 7,
@@ -144,15 +158,15 @@
   },
   {
    "title": "Man dressed as clown arrested for sleeping in a stranger's bedroom in Vermont",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNaHpIWlhva3BKc2VxWjFtcEJ6ZlRsWktkRFVsVmNhYjZYSTJxQjMwbzQxcHo0Z2pFNUpiM1NsTjBabzgweEdhcFoybWdoYnpPUmJ0TnktMlh0VWhiMG5acUdCN0FJWXNSNEx2ODJVQ1Z1bFVfWjVTMmJOVTRLQ29HZGczQW42UDN00gGOAUFVX3lxTE1tU093SDcwaGI5MVI4azZzbF9kdzJBOVBYMEkyQWVGRHZ4c0o2bkRBWVhtVUNkSXJSUDNsUjFYeFNHdUMzQVdQY29zTTBCUGtZT05odzJ6Mk40MEd3TFA0SnBSSmlPb09ZWE5qblAyemZmREl6R1h1MlNtX0RBZWVyZ0Y5Z3FqdV9vUGRHS2c?oc=5",
-   "snippet": "Man dressed as clown arrested for sleeping in a stranger's bedroom in Vermont \u00a0\u00a0 ABC7 New York",
-   "source": "ABC7 New York",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1paTVTcklGUXctM1k1Q2dQbUxjcHRuZllyRW1WUjVHR2ZLMUk2bVQtbWdtTmw0TVhCM0NSSzd6YVAtODNvNDNBUU14TjhhNHBpSVprcF9KTHF2aV96aVg0SnJvTGtnc29SaE1TbC1B0gGMAUFVX3lxTE5QQnFJU0JuTUkxZFdmX2Fnam0tVmpReURVcHZnVkNJb1hjYkdONXJ3QTIyZjFrV1ZRZ2p0dElvSENrUWdCdXU3Z1pwdDFXX1hjcDhBUkpCYV9Uckt1eVRSS2pwT2FzanNkR0VHTVYxRFlTeGpuR19MQnhjSHNHSnY4bFU5dGxZOXhPNmpr?oc=5",
+   "snippet": "Man dressed as clown arrested for sleeping in a stranger's bedroom in Vermont \u00a0\u00a0 ABC30 Fresno",
+   "source": "ABC30 Fresno",
    "date": "2017-10-31T07:00:00+00:00",
    "origin": "googlenews",
    "score": 4,
-   "place": "New York, NY",
-   "lat": 40.71,
-   "lon": -74.01,
+   "place": "Fresno, CA",
+   "lat": 36.74,
+   "lon": -119.79,
    "precision": "city",
    "verdict": "mention"
   },
@@ -322,20 +336,6 @@
    "lat": 31.47,
    "lon": -99.33,
    "precision": "state",
-   "verdict": "possible sighting"
-  },
-  {
-   "title": "Police report numerous clown sightings in Sheboygan",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNX1EzZlV3ZUNYdHh5ZDZ4aFlsOEV2NjFzRDBiZklqRWF0TUcyTEdKOHFQZnJXZzkwYTNDa0lTQVpkSnZpWHNOeEMxaWx3S1dKMnJjQkIxd185c1lfNVJvUy03UlFqQmFnRFJVNGxFcVdONXp5VUY4SEt6N3d3Mm9tQ2h5bWdsYmc2QUdfWGJGU1pldw?oc=5",
-   "snippet": "Police report numerous clown sightings in Sheboygan \u00a0\u00a0 WISN",
-   "source": "WISN",
-   "date": "2016-10-05T07:00:00+00:00",
-   "origin": "googlenews",
-   "score": 8,
-   "place": null,
-   "lat": null,
-   "lon": null,
-   "precision": null,
    "verdict": "possible sighting"
   },
   {
@@ -554,6 +554,20 @@
    "snippet": "More clown sightings reported in Salisbury \u00a0\u00a0 DelmarvaNow.com",
    "source": "DelmarvaNow.com",
    "date": "2016-09-29T07:00:00+00:00",
+   "origin": "googlenews",
+   "score": 8,
+   "place": null,
+   "lat": null,
+   "lon": null,
+   "precision": null,
+   "verdict": "possible sighting"
+  },
+  {
+   "title": "Nassau deputies investigate clown sightings",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNY2VlTjM5cVlsM0ZPVXhiLXlPZzNXYkpfZHliTHpOdDNCWkVINWluOFBMVEo5ODF2M3MxODU0ek8zdHhOUksta3NfOE1VY3ZTSGhaVi1BRlBOeUM5Q05aM1I4YWlzOGRWT281dFpzMm5tZjRmYjZnVTZDX1JsRXY3b0JIWDFLOU5HdU1maWtR?oc=5",
+   "snippet": "Nassau deputies investigate clown sightings \u00a0\u00a0 News4JAX",
+   "source": "News4JAX",
+   "date": "2016-09-28T07:00:00+00:00",
    "origin": "googlenews",
    "score": 8,
    "place": null,
